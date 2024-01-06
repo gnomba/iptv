@@ -15,6 +15,8 @@ http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/146.png" group-title="ТВ",Первый канал
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/983.png" group-title="ТВ",Первый канал HD
+https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/chunklist_b2628000_slru.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/711.png" group-title="ТВ",Россия 1
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3000.png" group-title="ТВ",Россия 1 (+2)
@@ -61,10 +63,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2078.png" group-title="ТВ",Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="ТВ",Соловьев Live HD
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://194.26.229.162:88/channel/n1bc11283/index.m3u8?q=4b99947363c0528e25c36a3961d9cf60
 #EXTINF:-1 group-title="ТВ",Соловьев Live
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://mhd116.iptv2022.com/p/CLllNxky_lRcVauthoYShQ,1696885216/streaming/solovyevlive/324/1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/740.png" group-title="ТВ",Карусель
 http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8
