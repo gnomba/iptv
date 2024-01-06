@@ -18,7 +18,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/711.png" group-title="ТВ",Россия 1
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3000.png" group-title="ТВ",Россия 1 (+2)
-http://194.26.229.162:88/channel/5f55f1be/index.m3u8?q=4b99947363c0528e25c36a3961d9cf60
+https://mhd116.iptv2022.com/p/kVeVASSv2ZVLosjh3ty1qw,1696885206/streaming/rossia1plus2/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/353.png" group-title="ТВ",ТНТ
 http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1767.png" group-title="ТВ",ТНТ HD
