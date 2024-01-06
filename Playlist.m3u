@@ -74,11 +74,11 @@ https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist_hdhigh.m3u8
 http://31.148.48.15/A1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.navigator-tv.ru/sc-pic/i11953.png" group-title="Кино",Amedia 1
 http://89.104.114.32:8080/amedia/mono.m3u8?token=DWEvjhKS3G
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2492.png" group-title="Кино",Amedia 2
-http://mfe01.cliptv.az/dash/Amedia_2_SD_PIgjf67deV.ism/playlist.mpd
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1372.png" group-title="Кино",Amedia Premium HD
-http://194.26.229.213/amedia_premium/index.m3u8
-#EXTINF:-1 tvg-logo="https://sun9-32.userapi.com/impf/c630831/v630831128/4862e/J5jChshFHvc.jpg?size=500x500&quality=96&sign=31618f6c8dfef2255b5b8624c466bf83&c_uniq_tag=609qeCtnZps1N0A9RuLc6PagsYi1x7Nz5G76kV7KHP4&type=album" group-title="Кино",Amedia Premium HD
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2492.png" group-title="Кино",Amedia 2 ???
+http://92.43.140.249/s33/04.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1372.png" group-title="Кино",Amedia Premium HD ???
+http://92.43.140.249/s64/04.m3u8
+#EXTINF:-1 tvg-logo="https://sun9-32.userapi.com/impf/c630831/v630831128/4862e/J5jChshFHvc.jpg?size=500x500&quality=96&sign=31618f6c8dfef2255b5b8624c466bf83&c_uniq_tag=609qeCtnZps1N0A9RuLc6PagsYi1x7Nz5G76kV7KHP4&type=album" group-title="Кино",Amedia Premium HD ???
 http://mfe02.cliptv.az/dash/Amedia_Premium_HD_PIVghghgh56.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4770.png" group-title="Кино",BACKUS TV Original HD
 http://stream.backustv.ru/live/btv/index.m3u8
