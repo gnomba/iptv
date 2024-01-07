@@ -15,8 +15,12 @@ http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/146.png" group-title="ТВ",Первый канал
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/983.png" group-title="ТВ",Первый канал HD
+http://89.104.114.32:8080/ort_hd/mono.m3u8?token=DWEvjhKS3G
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/711.png" group-title="ТВ",Россия 1
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/984.png" group-title="ТВ",Россия 1 HD
+http://mfe01.cliptv.az/dash/Rossiya_1_HDhfhf937456.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3000.png" group-title="ТВ",Россия 1 (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
@@ -34,8 +38,6 @@ http://s18209.cdn.ngenix.net/hls/CH_R02_ROSSIAK/playlist.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/162.png" group-title="ТВ",НТВ
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2001.png",НТВ HD
-http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/18.png" group-title="ТВ",Рен ТВ
 http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/405.png" group-title="ТВ",Звезда
