@@ -19,8 +19,6 @@ http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 http://89.104.114.32:8080/ort_hd/mono.m3u8?token=DWEvjhKS3G
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/711.png" group-title="ТВ",Россия 1
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/984.png" group-title="ТВ",Россия 1 HD
-http://mfe01.cliptv.az/dash/Rossiya_1_HDhfhf937456.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3000.png" group-title="ТВ",Россия 1 (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
@@ -86,10 +84,16 @@ http://89.104.114.32:8080/amedia/mono.m3u8?token=DWEvjhKS3G
 http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4662.png" group-title="Кино",BACKUS TV Dark HD
 http://stream.backustv.ru/live/btv2/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2359.png" group-title="Кино",Fan HD
+http://89.104.114.32:8080/fan/mono.m3u8?token=DWEvjhKS3G
 #EXTINF:-1 tvg-logo="https://static8.tgcnt.ru/posts/_0/b9/b9fb6bbb41a9181bdf7c1731f0557bc3.jpg" group-title="Кино",MediaService Lorenz TV
 http://84.38.180.145:8080/Uhierjfk/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/267.png" group-title="Кино",Viju TV1000 Русское
 http://194.143.148.28:8080/TV1000RuKino/mpegts
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2832.png" group-title="Кино",Блокбастер HD
+http://89.104.114.32:8080/blokbaster_hd/mono.m3u8?token=DWEvjhKS3G
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/834.png" group-title="Кино",Дом кино
+http://89.104.114.32:8080/dom_kino/mono.m3u8?token=DWEvjhKS3G
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2020.png" group-title="Кино",Дом Кино Премиум HD
 http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2834.png" group-title="Кино",Кинопоказ
@@ -98,6 +102,8 @@ http://31.148.48.15/Kinopokaz/index.m3u8
 http://45.159.74.13/Kinopremera/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1588.png" group-title="Кино",Остросюжетное HD
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1620.png" group-title="Кино",Русская Комедия
+http://89.104.114.32:8080/comedy/mono.m3u8?token=DWEvjhKS3G
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2837.png" group-title="Музыка",AIVA HD
 http://live-1.otcnet.ru/aivaya/tracks-v1a1/mono.m3u8
