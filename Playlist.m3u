@@ -15,12 +15,8 @@ http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/146.png" group-title="ТВ",Первый канал
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/983.png" group-title="ТВ",Первый канал HD ???
-https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/chunklist_b2628000_slru.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/711.png" group-title="ТВ",Россия 1
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/984.png" group-title="ТВ",Россия 1 HD
-https://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3000.png" group-title="ТВ",Россия 1 (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
@@ -66,10 +62,6 @@ http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2078.png" group-title="ТВ",Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 group-title="ТВ",Соловьев Live HD
-http://194.26.229.162:88/channel/n1bc11283/index.m3u8?q=4b99947363c0528e25c36a3961d9cf60
-#EXTINF:-1 group-title="ТВ",Соловьев Live
-https://mhd116.iptv2022.com/p/CLllNxky_lRcVauthoYShQ,1696885216/streaming/solovyevlive/324/1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/740.png" group-title="ТВ",Карусель
 http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/898.png" group-title="ТВ",Ю
@@ -88,12 +80,6 @@ https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist_hdhigh.m3u8
 http://31.148.48.15/A1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.navigator-tv.ru/sc-pic/i11953.png" group-title="Кино",Amedia 1
 http://89.104.114.32:8080/amedia/mono.m3u8?token=DWEvjhKS3G
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2492.png" group-title="Кино",Amedia 2 ???
-http://92.43.140.249/s33/04.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1372.png" group-title="Кино",Amedia Premium HD ???
-http://92.43.140.249/s64/04.m3u8
-#EXTINF:-1 tvg-logo="https://sun9-32.userapi.com/impf/c630831/v630831128/4862e/J5jChshFHvc.jpg?size=500x500&quality=96&sign=31618f6c8dfef2255b5b8624c466bf83&c_uniq_tag=609qeCtnZps1N0A9RuLc6PagsYi1x7Nz5G76kV7KHP4&type=album" group-title="Кино",Amedia Premium HD ???
-http://mfe02.cliptv.az/dash/Amedia_Premium_HD_PIVghghgh56.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4770.png" group-title="Кино",BACKUS TV Original HD
 http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4662.png" group-title="Кино",BACKUS TV Dark HD
