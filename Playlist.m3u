@@ -108,6 +108,8 @@ http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playli
 http://89.104.114.32:8080/comedy/mono.m3u8?token=DWEvjhKS3G
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/7315.png" group-title="Кино",Сапфир HD
 http://89.104.114.32:8080/fox-life/mono.m3u8?token=DWEvjhKS3G
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4777.png" group-title="Кино",Хит HD
+http://89.104.114.32:8080/hit_hd/mono.m3u8?token=DWEvjhKS3G
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2837.png" group-title="Музыка",AIVA HD
 http://live-1.otcnet.ru/aivaya/tracks-v1a1/mono.m3u8
