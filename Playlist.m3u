@@ -96,6 +96,10 @@ http://89.104.114.32:8080/blokbaster_hd/mono.m3u8?token=DWEvjhKS3G
 http://89.104.114.32:8080/dom_kino/mono.m3u8?token=DWEvjhKS3G
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2020.png" group-title="Кино",Дом Кино Премиум HD
 http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/7314.png" group-title="Кино",Кинеко
+http://89.104.114.32:8080/fox/mono.m3u8?token=DWEvjhKS3G
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/7314.png" group-title="Кино",Кинеко HD
+http://89.104.114.32:8080/fox_hd/mono.m3u8?token=DWEvjhKS3G
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2834.png" group-title="Кино",Кинопоказ
 http://31.148.48.15/Kinopokaz/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/566.png" group-title="Кино",Кинопремьера HD
