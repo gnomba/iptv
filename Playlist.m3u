@@ -98,8 +98,6 @@ http://89.104.114.32:8080/dom_kino/mono.m3u8?token=DWEvjhKS3G
 http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/7314.png" group-title="Кино",Кинеко
 http://89.104.114.32:8080/fox/mono.m3u8?token=DWEvjhKS3G
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/7314.png" group-title="Кино",Кинеко HD
-http://89.104.114.32:8080/fox_hd/mono.m3u8?token=DWEvjhKS3G
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2834.png" group-title="Кино",Кинопоказ
 http://31.148.48.15/Kinopokaz/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/566.png" group-title="Кино",Кинопремьера HD
@@ -108,6 +106,8 @@ http://45.159.74.13/Kinopremera/index.m3u8
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1620.png" group-title="Кино",Русская Комедия
 http://89.104.114.32:8080/comedy/mono.m3u8?token=DWEvjhKS3G
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/7315.png" group-title="Кино",Сапфир HD
+http://89.104.114.32:8080/fox-life/mono.m3u8?token=DWEvjhKS3G
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2837.png" group-title="Музыка",AIVA HD
 http://live-1.otcnet.ru/aivaya/tracks-v1a1/mono.m3u8
