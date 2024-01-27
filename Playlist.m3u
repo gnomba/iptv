@@ -113,13 +113,13 @@ http://moobl.ru/hls/TV1000_action_hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/267.png" group-title="Кино",Viju TV1000 Русское
 http://194.143.148.28:8080/TV1000RuKino/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2832.png" group-title="Кино",Блокбастер HD
-http://89.104.114.32:8080/blokbaster_hd/mono.m3u8?token=DWEvjhKS3G
+http://woobl.ru/list/Blokbaster_hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/834.png" group-title="Кино",Дом кино
-http://89.104.114.32:8080/dom_kino/mono.m3u8?token=DWEvjhKS3G
+http://woobl.ru/list/Dom_kino.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2020.png" group-title="Кино",Дом Кино Премиум HD
-http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
+http://woobl.ru/list/Dom_kino_premium_hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2836.png" group-title="Кино",Камеди HD
-http://89.104.114.32:8080/kamedi_hd/mono.m3u8?token=DWEvjhKS3G
+http://woobl.ru/list/Kamedi_hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/7314.png" group-title="Кино",Кинеко
 http://89.104.114.32:8080/fox/mono.m3u8?token=DWEvjhKS3G
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/644.png" group-title="Кино",Киномикс
