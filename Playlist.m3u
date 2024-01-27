@@ -4,12 +4,12 @@
 http://nashe1.hostingradio.ru/ultra-192.mp3
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1436065484.jpg" group-title="Радио",RockFM
 http://nashe1.hostingradio.ru/rock-128.mp3
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/8/1556387358.jpg" group-title="Радио",Вести FM
-http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
 #EXTINF:-1 tvg-logo="https://radioiskatel.ru/wp-content/uploads/2021/12/uu7Dexi4C4A.jpg" group-title="Радио",Искатель
 http://iskatel.hostingradio.ru:8015/iskatel-128.mp3
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1537439750.jpg" group-title="Радио",НАШЕ Радио
 http://nashe1.hostingradio.ru/nashe-128.mp3
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/8/1556387358.jpg" group-title="Радио",Вести FM
+http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/be/70/17398/c300.png" group-title="Радио",Радио Маяк
 http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
 
@@ -68,7 +68,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2078.png" group-title="ТВ",Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2269.png" group-title="ТВ",RT (Russia)
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2269.png" group-title="ТВ",RT
 https://cdn-01.bonus-tv.ru/RussiaToday/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2295.png" group-title="ТВ",RT Documentary
 https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
@@ -85,6 +85,9 @@ https://www.gtk.tv/hls/gtyar.m3u8
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
 #EXTINF:-1 tvg-logo="https://1yar.tv/photos/!design/logoNewBig.png" group-title="ТВ",Первый Ярославский
 https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-logo="https://06.img.avito.st/image/1/38KHMraBcyvxl4EttTX86n6Rdy0lk3MtQvJ3LfGXgS0xlX8vMZNzbw" group-title="ТВ",Рыбинск-40
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_RYBINSK40/variant.m3u8?version=2
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1371.png" group-title="Кино",Amedia 1
 http://31.148.48.15/A1/index.m3u8
@@ -94,8 +97,10 @@ http://89.104.114.32:8080/amedia/mono.m3u8?token=DWEvjhKS3G
 http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4662.png" group-title="Кино",BACKUS TV Dark HD
 http://stream.backustv.ru/live/btv2/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2359.png" group-title="Кино",Fan HD
 http://89.104.114.32:8080/fan/mono.m3u8?token=DWEvjhKS3G
+
 #EXTINF:-1 tvg-logo="https://static8.tgcnt.ru/posts/_0/b9/b9fb6bbb41a9181bdf7c1731f0557bc3.jpg" group-title="Кино",MediaService Lorenz TV
 http://84.38.180.145:8080/Uhierjfk/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/267.png" group-title="Кино",Viju TV1000 Русское
