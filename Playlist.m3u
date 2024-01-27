@@ -105,6 +105,8 @@ http://89.104.114.32:8080/fan/mono.m3u8?token=DWEvjhKS3G
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 tvg-logo="https://static8.tgcnt.ru/posts/_0/b9/b9fb6bbb41a9181bdf7c1731f0557bc3.jpg" group-title="Кино",MediaService Lorenz TV
 http://84.38.180.145:8080/Uhierjfk/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/125.png" group-title="Кино",Viju TV1000 Action
+http://moobl.ru/hls/TV1000_action_hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/267.png" group-title="Кино",Viju TV1000 Русское
 http://194.143.148.28:8080/TV1000RuKino/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2832.png" group-title="Кино",Блокбастер HD
