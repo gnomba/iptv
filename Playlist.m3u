@@ -128,26 +128,25 @@ http://woobl.ru/list/Kineko.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/644.png" group-title="Кино",Киномикс
 http://89.104.114.32:8080/kinomix/mono.m3u8?token=DWEvjhKS3G
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2834.png" group-title="Кино",Кинопоказ
-http://31.148.48.15/Kinopokaz/index.m3u8
+http://streaming.tv-teleport.ru/Kinopokaz/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2834.png" group-title="Кино",Кинопоказ HD
-http://89.104.114.32:8080/kinopokaz_hd/mono.m3u8?token=DWEvjhKS3G
+http://autopilot.myowntv.org:80/content/35525/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/566.png" group-title="Кино",Кинопремьера HD
 http://45.159.74.13/Kinopremera/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/566.png" group-title="Кино",Кинопремьера HD
-http://89.104.114.32:8080/premiera/mono.m3u8?token=DWEvjhKS3G
+http://stream02.vnet.am/Kinopremera/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/542.png" group-title="Кино",Кинохит HD
 http://89.104.114.32:8080/kinohit/mono.m3u8?token=DWEvjhKS3G
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1037.png" group-title="Кино",Кино ТВ
 http://woobl.ru/list/Kino_tv.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1620.png" group-title="Кино",Комедия
+http://tvport.it-tele.net:8000/656b82dd0dd0f093be6277c0e8fed32f
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3357.png" group-title="Кино",Мосфильм. Золотая коллекция
-##http://89.104.114.32:8080/mosfilm/mono.m3u8?token=DWEvjhKS3G
-http://woobl.ru/list/Mosfilm_hd.m3u8
+http://135.181.115.81/russia/mosfilm/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2831.png" group-title="Кино",Наш кинопоказ HD
-http://89.104.114.32:8080/nash_kinopokaz_hd/mono.m3u8?token=DWEvjhKS3G
+http://woobl.ru/list/Nash_Kinopokaz.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1588.png" group-title="Кино",Остросюжетное HD
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1620.png" group-title="Кино",Русская Комедия
-http://89.104.114.32:8080/comedy/mono.m3u8?token=DWEvjhKS3G
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/7315.png" group-title="Кино",Сапфир HD
 http://91.207.115.228:5000/c90
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4777.png" group-title="Кино",Хит HD
