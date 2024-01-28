@@ -133,8 +133,8 @@ http://streaming.tv-teleport.ru/Kinopokaz/index.m3u8
 http://45.159.74.13/Kinopremera/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/566.png" group-title="Кино",Кинопремьера HD
 http://stream02.vnet.am/Kinopremera/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/542.png" group-title="Кино",Кинохит HD
-http://89.104.114.32:8080/kinohit/mono.m3u8?token=DWEvjhKS3G
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/542.png" group-title="Кино",Кинохит
+http://109.239.128.126:8080/kinohit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1037.png" group-title="Кино",Кино ТВ
 http://woobl.ru/list/Kino_tv.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1620.png" group-title="Кино",Комедия
