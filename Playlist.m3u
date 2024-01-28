@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz" url-tvg="http://epg.it999.ru/epg.xml.gz,http://myott.top/api/epg.xml.gz,https://iptvx.one/EPG.gz,http://www.teleguide.info/download/new3/jtv.zip,https://gabbarit.page.link/epg,http://api.catcast.tv/api/timetable/epg.xml?channel_ids=38850,38821,38896,39484,38801,39161"
+#EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz" url-tvg="http://epg.it999.ru/epg.xml.gz,http://myott.top/api/epg.xml.gz,https://iptvx.one/EPG.gz,http://www.teleguide.info/download/new3/jtv.zip,http://api.catcast.tv/api/timetable/epg.xml?channel_ids=38850,38821,38896,39484,38801,39161"
+## ,https://gabbarit.page.link/epg
 
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/0705130436.jpg" group-title="Радио",Radio Ultra
 http://nashe1.hostingradio.ru/ultra-192.mp3
@@ -123,7 +124,7 @@ http://woobl.ru/list/Dom_kino_premium_hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2836.png" group-title="Кино",Камеди HD
 http://woobl.ru/list/Kamedi_hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/7314.png" group-title="Кино",Кинеко
-http://89.104.114.32:8080/fox/mono.m3u8?token=DWEvjhKS3G
+http://woobl.ru/list/Kineko.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/644.png" group-title="Кино",Киномикс
 http://89.104.114.32:8080/kinomix/mono.m3u8?token=DWEvjhKS3G
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2834.png" group-title="Кино",Кинопоказ
@@ -136,8 +137,10 @@ http://45.159.74.13/Kinopremera/index.m3u8
 http://89.104.114.32:8080/premiera/mono.m3u8?token=DWEvjhKS3G
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/542.png" group-title="Кино",Кинохит HD
 http://89.104.114.32:8080/kinohit/mono.m3u8?token=DWEvjhKS3G
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1037.png" group-title="Кино",Кино ТВ
+http://woobl.ru/list/Kino_tv.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1037.png" group-title="Кино",Кино ТВ HD
-http://89.104.114.32:8080/kino_tv_hd/mono.m3u8?token=DWEvjhKS3G
+http://woobl.ru/list/Kino_tv_hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3357.png" group-title="Кино",Мосфильм. Золотая коллекция
 ##http://89.104.114.32:8080/mosfilm/mono.m3u8?token=DWEvjhKS3G
 http://woobl.ru/list/Mosfilm_hd.m3u8
@@ -148,9 +151,9 @@ http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playli
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1620.png" group-title="Кино",Русская Комедия
 http://89.104.114.32:8080/comedy/mono.m3u8?token=DWEvjhKS3G
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/7315.png" group-title="Кино",Сапфир HD
-http://89.104.114.32:8080/fox-life/mono.m3u8?token=DWEvjhKS3G
+http://91.207.115.228:5000/c90
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4777.png" group-title="Кино",Хит HD
-http://89.104.114.32:8080/hit_hd/mono.m3u8?token=DWEvjhKS3G
+http://woobl.ru/list/Hit_hd.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2837.png" group-title="Музыка",AIVA HD
 http://live-1.otcnet.ru/aivaya/tracks-v1a1/mono.m3u8
