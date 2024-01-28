@@ -17,9 +17,12 @@ http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/146.png" group-title="ТВ",Первый канал
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/983.png" group-title="ТВ",Первый канал HD
-http://89.104.114.32:8080/ort_hd/mono.m3u8?token=DWEvjhKS3G
+##http://89.104.114.32:8080/ort_hd/mono.m3u8?token=DWEvjhKS3G
+http://91.207.115.228:5000/c99
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/711.png" group-title="ТВ",Россия 1
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/984.png" group-title="ТВ",Россия 1 HD
+http://91.207.115.228:5000/c100
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3000.png" group-title="ТВ",Россия 1 (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
@@ -147,6 +150,7 @@ http://woobl.ru/list/Nash_Kinopokaz.m3u8
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/7315.png" group-title="Кино",Сапфир HD
 http://91.207.115.228:5000/c90
+
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4777.png" group-title="Кино",Хит HD
 http://woobl.ru/list/Hit_hd.m3u8
 
@@ -183,3 +187,21 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/7687.png" group-title="Разное",УЛПРАВДА ТВ
 http://live-1.otcnet.ru/pravdatv/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2431.png" group-title="Разное",Зоо ТВ
+http://91.207.115.228:5000/c91
+#EXTINF:-1 tvg-logo="https://sun9-67.userapi.com/impg/17gYG0Dz-DtL5R-KySGSDUsBRSlDwg9UdZe2Qw/7Ot4tkOORx0.jpg?size=600x600&quality=95&sign=c4b6b3e339d1fc2971d44767caf2ce69&type=album" group-title="Разное",Тонус
+http://91.207.115.228:5000/c92
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2424.png" group-title="Разное",Телепутешествия
+http://91.207.115.228:5000/c93
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/7623.png" group-title="Разное",Big Planet
+http://91.207.115.228:5000/c94
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/521.png" group-title="Разное",Viju Explore
+http://91.207.115.228:5000/c95
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/277.png" group-title="Разное",Viju History
+http://91.207.115.228:5000/c96
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/765.png" group-title="Разное",Viju Nature
+http://91.207.115.228:5000/c97
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2283.png" group-title="Разное",Дикий
+http://91.207.115.228:5000/c98
+#EXTINF:-1 tvg-logo="" group-title="Разное",С101
+http://91.207.115.228:5000/c101
