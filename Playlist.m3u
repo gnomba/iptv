@@ -125,12 +125,10 @@ http://woobl.ru/list/Dom_kino_premium_hd.m3u8
 http://woobl.ru/list/Kamedi_hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/7314.png" group-title="Кино",Кинеко
 http://woobl.ru/list/Kineko.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/644.png" group-title="Кино",Киномикс
-http://89.104.114.32:8080/kinomix/mono.m3u8?token=DWEvjhKS3G
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/644.png" group-title="Кино",Киномикс HD
+http://moobl.ru/hls/Kinomix_HD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2834.png" group-title="Кино",Кинопоказ
 http://streaming.tv-teleport.ru/Kinopokaz/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2834.png" group-title="Кино",Кинопоказ HD
-http://autopilot.myowntv.org:80/content/35525/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/566.png" group-title="Кино",Кинопремьера HD
 http://45.159.74.13/Kinopremera/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/566.png" group-title="Кино",Кинопремьера HD
