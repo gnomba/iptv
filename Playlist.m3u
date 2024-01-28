@@ -72,6 +72,8 @@ http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2078.png" group-title="ТВ",Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2051.png" group-title="ТВ",Матч!
+http://91.207.115.228:5000/c101
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2269.png" group-title="ТВ",RT
 https://cdn-01.bonus-tv.ru/RussiaToday/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2295.png" group-title="ТВ",RT Documentary
@@ -187,6 +189,53 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/7687.png" group-title="Разное",УЛПРАВДА ТВ
 http://live-1.otcnet.ru/pravdatv/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Разное",С60
+http://91.207.115.228:5000/c60
+#EXTINF:-1 tvg-logo="" group-title="Разное",С61
+http://91.207.115.228:5000/c61
+#EXTINF:-1 tvg-logo="" group-title="Разное",С62
+http://91.207.115.228:5000/c62
+#EXTINF:-1 tvg-logo="" group-title="Разное",С63
+http://91.207.115.228:5000/c63
+#EXTINF:-1 tvg-logo="" group-title="Разное",С64
+http://91.207.115.228:5000/c64
+#EXTINF:-1 tvg-logo="" group-title="Разное",С65
+http://91.207.115.228:5000/c65
+#EXTINF:-1 tvg-logo="" group-title="Разное",С66
+http://91.207.115.228:5000/c66
+#EXTINF:-1 tvg-logo="" group-title="Разное",С67
+http://91.207.115.228:5000/c67
+#EXTINF:-1 tvg-logo="" group-title="Разное",С68
+http://91.207.115.228:5000/c68
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2481.png" group-title="Разное",СТС Kids
+http://91.207.115.228:5000/c69
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/618.png" group-title="Разное",Мама
+http://91.207.115.228:5000/c70
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2239.png" group-title="Разное",СуперГерои
+http://91.207.115.228:5000/c71
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/410.png" group-title="Разное",Da Vinci
+http://91.207.115.228:5000/c72
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/614.png" group-title="Разное",Кухня ТВ
+http://91.207.115.228:5000/c74
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/663.png" group-title="Разное",Сарафан
+http://91.207.115.228:5000/c75
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1700.png" group-title="Разное",КВН ТВ
+http://91.207.115.228:5000/c76
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/516.png" group-title="Разное",.sci-fi
+http://91.207.115.228:5000/c77
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/311.png" group-title="Разное",.red
+http://91.207.115.228:5000/c78
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/935.png" group-title="Разное",.black
+http://91.207.115.228:5000/c79
+#EXTINF:-1 tvg-logo="" group-title="Разное",С82-???
+http://91.207.115.228:5000/c82
+#EXTINF:-1 tvg-logo="" group-title="Разное",С83-???
+http://91.207.115.228:5000/c83
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2304.png" group-title="Разное",Телекафе
+http://91.207.115.228:5000/c84
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1036.png" group-title="Разное",История
+http://91.207.115.228:5000/c85
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2431.png" group-title="Разное",Зоо ТВ
 http://91.207.115.228:5000/c91
 #EXTINF:-1 tvg-logo="https://sun9-67.userapi.com/impg/17gYG0Dz-DtL5R-KySGSDUsBRSlDwg9UdZe2Qw/7Ot4tkOORx0.jpg?size=600x600&quality=95&sign=c4b6b3e339d1fc2971d44767caf2ce69&type=album" group-title="Разное",Тонус
@@ -203,5 +252,21 @@ http://91.207.115.228:5000/c96
 http://91.207.115.228:5000/c97
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2283.png" group-title="Разное",Дикий
 http://91.207.115.228:5000/c98
-#EXTINF:-1 tvg-logo="" group-title="Разное",С101
-http://91.207.115.228:5000/c101
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2782.png" group-title="Разное",Футбол
+http://91.207.115.228:5000/c102
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2003.png" group-title="Разное",Матч! Арена
+http://91.207.115.228:5000/c103
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2050.png" group-title="Разное",Матч! Игра
+http://91.207.115.228:5000/c104
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2250.png" group-title="Разное",Матч! Премьер
+http://91.207.115.228:5000/c105
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2042.png" group-title="Разное",Матч! Страна
+http://91.207.115.228:5000/c106
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2054.png" group-title="Разное",Матч! Боец
+http://91.207.115.228:5000/c107
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2048.png" group-title="Разное",KHL
+http://91.207.115.228:5000/c108
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6646.png" group-title="Разное",Рыболов
+http://91.207.115.228:5000/c109
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/153.png" group-title="Разное",Авто Плюс
+http://91.207.115.228:5000/c110
