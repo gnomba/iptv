@@ -26,6 +26,10 @@ http://91.207.115.228:5000/c100
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3000.png" group-title="ТВ",Россия 1 (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/b7931240dc54f92b38e1069554206fb0.png" group-title="ТВ",Россия 1 (+8)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://s14553.cdn.ngenix.net/hls/CH_R65_OTT_DV_SLIN_ROSSIA1/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/cb783e7b70972c44867743e80a18bad1.png" group-title="ТВ",Россия 1 (+9)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8?version=2
