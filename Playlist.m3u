@@ -27,6 +27,9 @@ http://91.207.115.228:5000/c100
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
 
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/701138c2017a433b077b6c000f4639be.png" group-title="ТВ",Россия 1 (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_ROSSIA1/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/b7931240dc54f92b38e1069554206fb0.png" group-title="ТВ",Россия 1 (+8)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://s14553.cdn.ngenix.net/hls/CH_R65_OTT_DV_SLIN_ROSSIA1/variant.m3u8?version=2
