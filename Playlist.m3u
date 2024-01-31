@@ -369,6 +369,3 @@ http://91.207.115.228:5000/c108
 http://91.207.115.228:5000/c109
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/153.png" group-title="Разное",Авто Плюс
 http://91.207.115.228:5000/c110
-
-#EXTINF:-1 tvg-logo="" group-title="Разное",C113
-http://194.116.150.47:1935/vxtv/live_360p/chunklist_w543388767.m3u8
