@@ -370,5 +370,5 @@ http://91.207.115.228:5000/c109
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/153.png" group-title="Разное",Авто Плюс
 http://91.207.115.228:5000/c110
 
-#EXTINF:-1 tvg-logo="" group-title="Разное",C111
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w1696432778.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Разное",C112
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1793148297.m3u8
