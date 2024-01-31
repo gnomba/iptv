@@ -59,8 +59,6 @@ https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R02_ROSSIAK/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1683.png" group-title="ТВ",Россия 24
 http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/al-jazeera.png" tvg-chno="20" group-title="ТВ",Al Jazeera (NZ)
-https://i.mjh.nz/al-jazeera.m3u8
 #EXTINF:-1 tvg-logo="https://avatars.dzeninfra.ru/get-zen-logos/1670662/pub_601a8695cb6f7a60d97d1b39_636134363694f30c570d6264/xxh" group-title="ТВ",Соловьёв Live
 https://player.smotrim.ru/iframe/stream/live_id/63338
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2271.png" group-title="ТВ",Известия
