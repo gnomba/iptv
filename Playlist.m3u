@@ -165,7 +165,7 @@ http://stream02.vnet.am/Kinopremera/mono.m3u8
 http://109.239.128.126:8080/kinohit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1037.png" group-title="Кино",Кино ТВ
 http://woobl.ru/list/Kino_tv.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1620.png" group-title="Кино",Комедия
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1620.png" group-title="Кино",Русская Комедия
 http://tvport.it-tele.net:8000/656b82dd0dd0f093be6277c0e8fed32f
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3357.png" group-title="Кино",Мосфильм. Золотая коллекция
 http://135.181.115.81/russia/mosfilm/playlist.m3u8
@@ -440,3 +440,89 @@ http://91.207.115.228:5000/c147
 http://91.207.115.228:5000/c149
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4851.png" group-title="Разное",ID DISCOVERY
 http://91.207.115.228:5000/c150
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4864.png" group-title="Разное",TLC
+http://91.207.115.228:5000/c151
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2052.png" group-title="Разное",Eurosport 1
+http://91.207.115.228:5000/c153
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4313.png" group-title="Разное",Eurosport 2
+http://91.207.115.228:5000/c154
+#EXTINF:-1 tvg-logo="https://iursdn.ru/images/news/2023/01/30/sajt%20union.png" group-title="Разное",Юнион
+http://91.207.115.228:5000/c155
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2043.png" group-title="Разное",Матч! Планета
+http://91.207.115.228:5000/c156
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1767.png" group-title="Разное",ТНТ HD
+http://91.207.115.228:5000/c157
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/415.png" group-title="Разное",HDL
+http://91.207.115.228:5000/c158
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/520.png" group-title="Разное",Домашние Животные
+http://91.207.115.228:5000/c159
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/352.png" group-title="Разное",Еврокино
+http://91.207.115.228:5000/c160
+#EXTINF:-1 tvg-logo="" group-title="Разное",C161 ???
+http://91.207.115.228:5000/c161
+#EXTINF:-1 tvg-logo="" group-title="Разное",Крепкое кино
+http://91.207.115.228:5000/c162
+#EXTINF:-1 tvg-logo="" group-title="Разное",C163 ???
+http://91.207.115.228:5000/c163
+#EXTINF:-1 tvg-logo="" group-title="Разное",C164 ???
+http://91.207.115.228:5000/c164
+#EXTINF:-1 tvg-logo="" group-title="Разное",C165 ???
+http://91.207.115.228:5000/c165
+#EXTINF:-1 tvg-logo="" group-title="Разное",C166 ???
+http://91.207.115.228:5000/c166
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/7669.png" group-title="Разное",Солнце
+http://91.207.115.228:5000/c167
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1620.png" group-title="Разное",Русская Комедия
+http://91.207.115.228:5000/c168
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/518.png" group-title="Разное",НСТ
+http://91.207.115.228:5000/c169
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2403.png" group-title="Разное",Иллюзион+
+http://91.207.115.228:5000/c170
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2754.png" group-title="Разное",Cinema
+http://91.207.115.228:5000/c172
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2419.png" group-title="Разное",Охота и рыбалка
+http://91.207.115.228:5000/c173
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2402.png" group-title="Разное",Ретро
+http://91.207.115.228:5000/c174
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2450.png" group-title="Разное",Психология 21
+http://91.207.115.228:5000/c175
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/434.png" group-title="Разное",Усадьба
+http://91.207.115.228:5000/c176
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/367.png" group-title="Разное",Зоопарк
+http://91.207.115.228:5000/c177
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2451.png" group-title="Разное",Вопросы и ответы
+http://91.207.115.228:5000/c178
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2449.png" group-title="Разное",Здоровое ТВ
+http://91.207.115.228:5000/c179
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/323.png" group-title="Разное",2x2
+http://91.207.115.228:5000/c180
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2008.png" group-title="Разное",Авто 24
+http://91.207.115.228:5000/c181
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2443.png" group-title="Разное",Драйв
+http://91.207.115.228:5000/c182
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/617.png" group-title="Разное",Точка отрыва
+http://91.207.115.228:5000/c183
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2447.png" group-title="Разное",Победа
+http://91.207.115.228:5000/c184
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2174.png" group-title="Разное",Дорама
+http://91.207.115.228:5000/c185
+#EXTINF:-1 tvg-logo="" group-title="Разное",C201
+http://91.207.115.228:5000/c201
+#EXTINF:-1 tvg-logo="" group-title="Разное",C202
+http://91.207.115.228:5000/c202
+#EXTINF:-1 tvg-logo="" group-title="Разное",C203
+http://91.207.115.228:5000/c203
+#EXTINF:-1 tvg-logo="" group-title="Разное",C204
+http://91.207.115.228:5000/c204
+#EXTINF:-1 tvg-logo="" group-title="Разное",C205
+http://91.207.115.228:5000/c205
+#EXTINF:-1 tvg-logo="" group-title="Разное",C206
+http://91.207.115.228:5000/c206
+#EXTINF:-1 tvg-logo="" group-title="Разное",C207
+http://91.207.115.228:5000/c207
+#EXTINF:-1 tvg-logo="" group-title="Разное",C208
+http://91.207.115.228:5000/c208
+#EXTINF:-1 tvg-logo="" group-title="Разное",C209
+http://91.207.115.228:5000/c209
+#EXTINF:-1 tvg-logo="" group-title="Разное",C210
+http://91.207.115.228:5000/c210
