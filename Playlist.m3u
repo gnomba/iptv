@@ -157,6 +157,7 @@ http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2359.png" group-title="Кино",Fan HD
 http://89.104.114.32:8080/fan/mono.m3u8?token=DWEvjhKS3G
 
+
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=2a00000179f01f9fc7f0e25f2013d18df066-4937215-images-thumbs&n=13" group-title="Кино",Kino 24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 tvg-logo="https://static8.tgcnt.ru/posts/_0/b9/b9fb6bbb41a9181bdf7c1731f0557bc3.jpg" group-title="Кино",MediaService Lorenz TV
@@ -175,7 +176,7 @@ http://woobl.ru/list/Dom_kino.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2020.png" group-title="Кино",Дом Кино Премиум
 http://88.216.48.14:80/domkinoprem/live.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2020.png" group-title="Кино",Дом Кино Премиум HD
-http://woobl.ru/list/Dom_kino_premium_hd.m3u8
+http://streaming.tv-teleport.ru/Dom_Kino_Premium_HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2836.png" group-title="Кино",Камеди HD
 http://woobl.ru/list/Kamedi_hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/7314.png" group-title="Кино",Кинеко
@@ -525,23 +526,23 @@ http://91.207.115.228:5000/c182
 http://91.207.115.228:5000/c183
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2174.png" group-title="Разное",Дорама
 http://91.207.115.228:5000/c185
-#EXTINF:-1 tvg-logo="" group-title="Разное",C201
-http://91.207.115.228:5000/c201
-#EXTINF:-1 tvg-logo="" group-title="Разное",C202
-http://91.207.115.228:5000/c202
-#EXTINF:-1 tvg-logo="" group-title="Разное",C203
-http://91.207.115.228:5000/c203
-#EXTINF:-1 tvg-logo="" group-title="Разное",C204
-http://91.207.115.228:5000/c204
-#EXTINF:-1 tvg-logo="" group-title="Разное",C205
-http://91.207.115.228:5000/c205
-#EXTINF:-1 tvg-logo="" group-title="Разное",C206
-http://91.207.115.228:5000/c206
-#EXTINF:-1 tvg-logo="" group-title="Разное",C207
-http://91.207.115.228:5000/c207
-#EXTINF:-1 tvg-logo="" group-title="Разное",C208
-http://91.207.115.228:5000/c208
-#EXTINF:-1 tvg-logo="" group-title="Разное",C209
-http://91.207.115.228:5000/c209
-#EXTINF:-1 tvg-logo="" group-title="Разное",C210
-http://91.207.115.228:5000/c210
+#EXTINF:-1 tvg-logo="" group-title="Разное",C211
+http://91.207.115.228:5000/c211
+#EXTINF:-1 tvg-logo="" group-title="Разное",C212
+http://91.207.115.228:5000/c212
+#EXTINF:-1 tvg-logo="" group-title="Разное",C213
+http://91.207.115.228:5000/c213
+#EXTINF:-1 tvg-logo="" group-title="Разное",C214
+http://91.207.115.228:5000/c214
+#EXTINF:-1 tvg-logo="" group-title="Разное",C215
+http://91.207.115.228:5000/c215
+#EXTINF:-1 tvg-logo="" group-title="Разное",C216
+http://91.207.115.228:5000/c216
+#EXTINF:-1 tvg-logo="" group-title="Разное",C217
+http://91.207.115.228:5000/c217
+#EXTINF:-1 tvg-logo="" group-title="Разное",C218
+http://91.207.115.228:5000/c218
+#EXTINF:-1 tvg-logo="" group-title="Разное",C219
+http://91.207.115.228:5000/c219
+#EXTINF:-1 tvg-logo="" group-title="Разное",C220
+http://91.207.115.228:5000/c220
