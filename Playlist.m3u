@@ -145,24 +145,22 @@ http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/898.png" group-title="ТВ",Ю
 http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/323.png" group-title="ТВ",2x2
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/323.png" group-title="ТВ",2x2 (резерв)
+http://91.207.115.228:5000/c180
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6752.png" group-title="ТВ",Городской телеканал Ярославль
 https://www.gtk.tv/hls/gtyar.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/7711.png" group-title="ТВ",Первый Ярославский
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
-#EXTINF:-1 tvg-logo="https://1yar.tv/photos/!design/logoNewBig.png" group-title="ТВ",Первый Ярославский
+#EXTINF:-1 tvg-logo="https://1yar.tv/photos/!design/logoNewBig.png" group-title="ТВ",Первый Ярославский (резерв)
 https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-logo="https://06.img.avito.st/image/1/38KHMraBcyvxl4EttTX86n6Rdy0lk3MtQvJ3LfGXgS0xlX8vMZNzbw" group-title="ТВ",Рыбинск-40
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_RYBINSK40/variant.m3u8?version=2
 
-##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2376.png" group-title="Кино",AMC
-#http://cdnua03.hls.tv/476/hls/c4a7acbb4f6a85595a117f7aa2099d65/4248/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1371.png" group-title="Кино",Amedia 1
 http://31.148.48.15/A1/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.navigator-tv.ru/sc-pic/i11953.png" group-title="Кино",Amedia 1 (резерв)
-http://89.104.114.32:8080/amedia/mono.m3u8?token=DWEvjhKS3G
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1371.png" group-title="Кино",Amedia 1 (резерв)
 http://91.207.115.228:5000/c55
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2492.png" group-title="Кино",Amedia 2
@@ -216,12 +214,18 @@ http://91.207.115.228:5000/c78
 http://91.207.115.228:5000/c77
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2832.png" group-title="Кино",Блокбастер HD
 https://woobl.ru/hls987/Blokbaster_hd.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/669.png" group-title="Кино",Время
+http://91.207.115.228:5000/c53
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/834.png" group-title="Кино",Дом Кино
 http://91.207.115.228:5000/c30
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2020.png" group-title="Кино",Дом Кино Премиум HD
 https://woobl.ru/hls987/Dom_kino_premium_hd.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2174.png" group-title="Кино",Дорама
+http://91.207.115.228:5000/c185
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/352.png" group-title="Кино",Еврокино
 http://91.207.115.228:5000/c160
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/352.png" group-title="Кино",Еврокино (резерв)
+https://woobl.ru/hls987/Evrokino.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2403.png" group-title="Кино",Иллюзион+
 http://91.207.115.228:5000/c170
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/798.png" group-title="Кино",Индийское Кино
@@ -252,14 +256,22 @@ http://91.207.115.228:5000/c43
 http://91.207.115.228:5000/c38
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1037.png" group-title="Кино",Кино ТВ
 http://91.207.115.228:5000/c33
-#EXTINF:-1 tvg-logo="" group-title="Кино",Крепкое кино
+#EXTINF:-1 tvg-logo="https://tricolorhd.msk.ru/images/logo_channel/ruskiy-mir-tv-ps1.png" group-title="Кино",Крепкое кино
 http://91.207.115.228:5000/c162
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1584.png" group-title="Кино",Мужское Кино
 http://91.207.115.228:5000/c40
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/518.png" group-title="Кино",НСТ
 http://91.207.115.228:5000/c169
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2041.png" group-title="Кино",НТВ Хит
+https://woobl.ru/hls987/NTV_hit.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1754.png" group-title="Кино",НТВ Сериал
+https://woobl.ru/hls987/NTV_serial.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1753.png" group-title="Кино",НТВ Право
+https://woobl.ru/hls987/NTV_pravo.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/12.png" group-title="Кино",Родное кино
 http://91.207.115.228:5000/c31
+#EXTINF:-1 tvg-logo="https://tricolorhd.msk.ru/images/logo_channel/ruskiy-mir-tv-ps1.png" group-title="Кино",Советское родное
+http://91.207.115.228:5000/c161
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2308.png" group-title="Кино",Москва Доверие
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
@@ -333,8 +345,6 @@ http://91.207.115.228:5000/c50
 http://91.207.115.228:5000/c51
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2288.png" group-title="Разное",Суббота
 http://91.207.115.228:5000/c52
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/669.png" group-title="Разное",Время
-http://91.207.115.228:5000/c53
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/783.png" group-title="Разное",Ностальгия
 http://91.207.115.228:5000/c54
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2437.png" group-title="Разное",Рыжий
@@ -487,8 +497,6 @@ http://91.207.115.228:5000/c156
 http://91.207.115.228:5000/c158
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/520.png" group-title="Разное",Домашние Животные
 http://91.207.115.228:5000/c159
-#EXTINF:-1 tvg-logo="" group-title="Разное",C161 ???
-http://91.207.115.228:5000/c161
 #EXTINF:-1 tvg-logo="" group-title="Разное",C163 ???
 http://91.207.115.228:5000/c163
 #EXTINF:-1 tvg-logo="" group-title="Разное",C164 ???
@@ -513,16 +521,12 @@ http://91.207.115.228:5000/c177
 http://91.207.115.228:5000/c178
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2449.png" group-title="Разное",Здоровое ТВ
 http://91.207.115.228:5000/c179
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/323.png" group-title="Разное",2x2
-http://91.207.115.228:5000/c180
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2008.png" group-title="Разное",Авто 24
 http://91.207.115.228:5000/c181
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2443.png" group-title="Разное",Драйв
 http://91.207.115.228:5000/c182
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/617.png" group-title="Разное",Точка отрыва
 http://91.207.115.228:5000/c183
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2174.png" group-title="Разное",Дорама
-http://91.207.115.228:5000/c185
 #EXTINF:-1 tvg-logo="" group-title="Разное",C211
 http://91.207.115.228:5000/c211
 #EXTINF:-1 tvg-logo="" group-title="Разное",C212
