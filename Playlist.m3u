@@ -104,8 +104,20 @@ http://91.207.115.228:5000/c132
 http://91.207.115.228:5000/c184
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/427.png" group-title="ТВ",Пятый канал
 http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/649.png" group-title="ТВ",ТВЦ
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/649.png" group-title="ТВ",ТВ Центр
 http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/649.png" group-title="ТВ",ТВ Центр (резерв)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/649.png" group-title="ТВ",ТВ Центр (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/649.png" group-title="ТВ",ТВ Центр (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/649.png" group-title="ТВ",ТВ Центр (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/304.png" group-title="ТВ",Домашний
 http://s18209.cdn.ngenix.net/hls/CH_R04_DOMASHNY/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1003.png" group-title="ТВ",Пятница!
