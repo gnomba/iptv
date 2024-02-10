@@ -194,6 +194,10 @@ http://84.38.180.145:8080/Uhierjfk/index.m3u8
 http://31.148.6.4:10236/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/431.png" group-title="Кино",Shot TV
 http://91.207.115.228:5000/c131
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6241.png" group-title="Кино",START Air
+https://woobl.ru/hls987/START_Air.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6240.png" group-title="Кино",START World
+https://woobl.ru/hls987/START_World.m3u8
 #EXTINF:-1 tvg-logo="https://baltcom.lv/channel_logo/web_super_pluss.png" group-title="Кино",Super Plus HD
 http://88.135.128.20:7272/JkfGhb36Cvs7Fgz
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/309.png" group-title="Кино",TV XXI
@@ -237,6 +241,8 @@ http://91.207.115.228:5000/c160
 https://woobl.ru/hls987/Evrokino.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2403.png" group-title="Кино",Иллюзион+
 http://91.207.115.228:5000/c170
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2403.png" group-title="Кино",Иллюзион+ HD
+https://woobl.ru/hls987/Illyuzion_plus.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/798.png" group-title="Кино",Индийское Кино
 http://91.207.115.228:5000/c47
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2836.png" group-title="Кино",Камеди HD
@@ -255,6 +261,8 @@ http://streaming.tv-teleport.ru/Kinopokaz/index.m3u8
 http://91.207.115.228:5000/c42
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/566.png" group-title="Кино",Кинопремьера HD
 http://stream02.vnet.am/Kinopremera/mono.m3u8
+#EXTINF:-1 tvg-logo="https://rusety.ru/wp-content/uploads/2020/10/%D0%9A%D0%B8%D0%BD%D0%BE%D0%A1%D1%82%D0%B0%D1%82.jpg" group-title="Кино",Киносат
+https://strm.yandex.ru/kal/kinoman_belarus/kinoman_belarus0.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/462.png" group-title="Кино",Киносвидание
 http://91.207.115.228:5000/c45
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/987.png" group-title="Кино",Киносемья
@@ -265,6 +273,8 @@ https://strm.yandex.ru/kal/kinoseria_belarus/kinoseria_belarus0.m3u8
 http://91.207.115.228:5000/c43
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/542.png" group-title="Кино",Кинохит
 http://91.207.115.228:5000/c38
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6258.png" group-title="Кино",Кино 1 International
+http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1037.png" group-title="Кино",Кино ТВ
 http://91.207.115.228:5000/c33
 #EXTINF:-1 tvg-logo="https://app-tv.ru/images/logo-channel/tv-koshmar-hd.png" group-title="Кино",Кошмар HD
@@ -278,8 +288,12 @@ https://woobl.ru/hls987/Mir_seriala.m3u8
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3357.png" group-title="Кино",Мосфильм. Золотая коллекция
 http://91.207.115.228:5000/c29
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3357.png" group-title="Кино",Мосфильм. Золотая коллекция HD
+https://woobl.ru/hls987/Mosfilm_hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1584.png" group-title="Кино",Мужское Кино
 http://91.207.115.228:5000/c40
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1584.png" group-title="Кино",Мужское Кино HD
+https://woobl.ru/hls987/Muzhskoe_kino_hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2831.png" group-title="Кино",Наш кинопоказ HD
 https://woobl.ru/hls987/Nash_Kinopokaz.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/485.png" group-title="Кино",Наше Новое Кино
@@ -318,6 +332,8 @@ http://91.207.115.228:5000/c90
 http://91.207.115.228:5000/c161
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4779.png" group-title="Кино",Страх HD
 http://195.9.195.3:8080/hls/202127.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/5441.png" group-title="Кино",ТВОЕ ТВ HD
+http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4777.png" group-title="Кино",Хит HD
 https://woobl.ru/hls987/Hit_hd.m3u8
 
@@ -348,8 +364,6 @@ http://live-1.otcnet.ru/pskov/tracks-v1a1/mono.m3u8
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sun9-29.userapi.com/impg/GLshnKSUta4eIfFPR97tZM6fgjVo-wuzaio4pg/KFhRD7429xE.jpg?size=320x320&quality=96&sign=d4f7948c76a3cb11bd6cb4f076be1938&c_uniq_tag=NKpqL1R6ZaYZpfKeXFaJ90btiRjAS6js4egPIsZ6Yok&type=album" group-title="Разное",Репортер 73
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_reporter73/hls/1920x1080@4504/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/5441.png" group-title="Разное",ТВОЕ ТВ HD
-http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://epgx.site/p/tvoetv-humor.png" group-title="Разное",ТВОЕ ТВ - ЮМОР
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/7687.png" group-title="Разное",УЛПРАВДА ТВ
