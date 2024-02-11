@@ -177,11 +177,16 @@ http://stream.backustv.ru/live/btv/index.m3u8
 http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2754.png" group-title="Кино",Cinema
 http://91.207.115.228:5000/c172
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/57/8d/5a/578d5a58d29d83bc901c37007af0903e.png" group-title="Кино",Cinema Classic
+https://woobl.ru/hls987/Cinema_classic.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2359.png" group-title="Кино",FAN
-##EXTVLCOPT:http-user-agent=smartlabs
 https://hls.goodgame.ru/hls/157239.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/774.png" group-title="Кино",Flix Snip
 http://91.207.115.228:5000/c60
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1031.png" group-title="Кино",Fox
+https://woobl.ru/hls987/Fox.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/615.png" group-title="Кино",Fox Life
+https://woobl.ru/hls987/Fox_Life.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/934.png" group-title="Кино",Hollywood HD
 http://91.207.115.228:5000/c59
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=2a00000179f01f9fc7f0e25f2013d18df066-4937215-images-thumbs&n=13" group-title="Кино",Kino 24
@@ -219,6 +224,8 @@ http://91.207.115.228:5000/c143
 http://91.207.115.228:5000/c144
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1013.png" group-title="Кино",Viju+ Premiere
 http://91.207.115.228:5000/c145
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2838.png" group-title="Кино",Viju+ Serial HD
+https://woobl.ru/hls987/Viju_plus_Serial_hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/935.png" group-title="Кино",.black
 http://91.207.115.228:5000/c79
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/311.png" group-title="Кино",.red
@@ -245,6 +252,8 @@ http://91.207.115.228:5000/c170
 https://woobl.ru/hls987/Illyuzion_plus.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/798.png" group-title="Кино",Индийское Кино
 http://91.207.115.228:5000/c47
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2233.png" group-title="Кино",Индия
+https://woobl.ru/hls987/India.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2836.png" group-title="Кино",Камеди HD
 https://woobl.ru/hls987/Kamedi_hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/7314.png" group-title="Кино",Кинеко
