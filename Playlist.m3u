@@ -183,7 +183,7 @@ https://woobl.ru/hls987/Cinema_classic.m3u8
 https://hls.goodgame.ru/hls/157239.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/774.png" group-title="Кино",Flix Snip
 http://91.207.115.228:5000/c60
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1031.png" group-title="Кино",Fox
+#EXTINF:-1 tvg-logo="https://epg.one/img/1031.png" group-title="Кино",Fox
 https://woobl.ru/hls987/Fox.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/615.png" group-title="Кино",Fox Life
 https://woobl.ru/hls987/Fox_Life.m3u8
@@ -323,6 +323,8 @@ http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playli
 http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2829.png" group-title="Кино",Про Любовь HD
 https://woobl.ru/hls987/Pro_lyubov_hd.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2402.png" group-title="Разное",Ретро
+http://91.207.115.228:5000/c174
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/12.png" group-title="Кино",Родное кино
 http://91.207.115.228:5000/c31
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1620.png" group-title="Кино",Русская Комедия
@@ -555,8 +557,6 @@ http://91.207.115.228:5000/c166
 http://91.207.115.228:5000/c167
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2419.png" group-title="Разное",Охота и рыбалка
 http://91.207.115.228:5000/c173
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2402.png" group-title="Разное",Ретро
-http://91.207.115.228:5000/c174
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2450.png" group-title="Разное",Психология 21
 http://91.207.115.228:5000/c175
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/434.png" group-title="Разное",Усадьба
