@@ -92,6 +92,8 @@ http://91.207.115.228:5000/c128
 http://cdn.ntv.ru/ntv-msk/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2001.png" group-title="ТВ",НТВ HD
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://epgx.site/p/ntv-amerika.png" group-title="ТВ",НТВ Америка
+http://4.59.210.197:8815/udp/127.0.0.1:6003
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/18.png" group-title="ТВ",Рен ТВ
 http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/405.png" group-title="ТВ",Звезда
