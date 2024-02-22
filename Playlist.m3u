@@ -34,8 +34,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/e6fb6b68aa6a51b624b5c05a8e1435a0.png" group-title="ТВ",Россия 1 (+3)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSK/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/4a1bba6bd30bf26c90e0ddcd9cd92996.png" group-title="ТВ",Россия 1 (+4)
-http://194.26.229.162:88/channel/5f55f1fc/index.m3u8?q=4b99947363c0528e25c36a3961d9cf60
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/41219584b8e354b22a91aba680726079.png" group-title="ТВ",Россия 1 (+5)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_UUDE_ROSSIA1_ULAN/variant.m3u8?version=2
@@ -197,6 +195,8 @@ http://91.207.115.228:5000/c59
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 tvg-logo="https://www.navigator-tv.ru/sc-pic/i12527.png" group-title="Кино",KinoLiving
 http://91.207.115.228:5000/c61
+#EXTINF:-1 tvg-logo="https://epgx.site/p/atv-kinoman.png" group-title="Кино",Kinoman ATV
+http://ott-cdn.ucom.am/s94/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bn4m324/image-3.png" group-title="Кино",КІНО ТV VHS
 https://playlist.nuum.ru/live/28423/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static8.tgcnt.ru/posts/_0/b9/b9fb6bbb41a9181bdf7c1731f0557bc3.jpg" group-title="Кино",MediaService Lorenz TV
