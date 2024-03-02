@@ -26,54 +26,54 @@ http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/984.png" group-title="ТВ",Россия 1 HD
 http://91.207.115.228:5000/c100
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/711.png" group-title="ТВ",Россия 1 (+1)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3000.png" group-title="ТВ",Россия 1 (+2)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/e6fb6b68aa6a51b624b5c05a8e1435a0.png" group-title="ТВ",Россия 1 (+3)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSK/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/41219584b8e354b22a91aba680726079.png" group-title="ТВ",Россия 1 (+5)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_UUDE_ROSSIA1_ULAN/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3002.png" group-title="ТВ",Россия 1 (+6)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA1_ZK/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/701138c2017a433b077b6c000f4639be.png" group-title="ТВ",Россия 1 (+7)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_ROSSIA1/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3003.png" group-title="ТВ",Россия 1 (+8)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://s14553.cdn.ngenix.net/hls/CH_R65_OTT_DV_SLIN_ROSSIA1/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/cb783e7b70972c44867743e80a18bad1.png" group-title="ТВ",Россия 1 (+9)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/353.png" group-title="ТВ",ТНТ
 http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1767.png" group-title="ТВ",ТНТ HD
 http://91.207.115.228:5000/c157
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/353.png" group-title="ТВ",ТНТ (+2)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/353.png" group-title="ТВ",ТНТ (+4)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/353.png" group-title="ТВ",ТНТ (+7)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1649.png" group-title="ТВ",ТНТ4
 http://91.207.115.228:5000/c142
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1649.png" group-title="ТВ",ТНТ4 HD
 https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1649.png" group-title="ТВ",ТНТ4 (+2)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1649.png" group-title="ТВ",ТНТ4 (+4)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1649.png" group-title="ТВ",ТНТ4 (+7)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/187.png" group-title="ТВ",Россия К
 http://s18209.cdn.ngenix.net/hls/CH_R02_ROSSIAK/playlist.m3u8
@@ -109,16 +109,16 @@ http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/649.png" group-title="ТВ",ТВ Центр
 http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/649.png" group-title="ТВ",ТВ Центр (резерв)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/649.png" group-title="ТВ",ТВ Центр (+2)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/649.png" group-title="ТВ",ТВ Центр (+4)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/649.png" group-title="ТВ",ТВ Центр (+7)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/304.png" group-title="ТВ",Домашний
 http://s18209.cdn.ngenix.net/hls/CH_R04_DOMASHNY/playlist.m3u8
@@ -147,7 +147,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/898.png" group-title="ТВ",Ю
 http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/323.png" group-title="ТВ",2x2
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/323.png" group-title="ТВ",2x2 (резерв)
 http://91.207.115.228:5000/c180
@@ -158,7 +158,7 @@ https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
 #EXTINF:-1 tvg-logo="https://1yar.tv/photos/!design/logoNewBig.png" group-title="ТВ",Первый Ярославский (резерв)
 https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-logo="https://06.img.avito.st/image/1/38KHMraBcyvxl4EttTX86n6Rdy0lk3MtQvJ3LfGXgS0xlX8vMZNzbw" group-title="ТВ",Рыбинск-40
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_RYBINSK40/variant.m3u8?version=2
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/5357.png" group-title="Кино",Akudji
@@ -179,9 +179,6 @@ http://stream.backustv.ru/live/btv/index.m3u8
 http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2754.png" group-title="Кино",Cinema
 http://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
-##EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/57/8d/5a/578d5a58d29d83bc901c37007af0903e.png" group-title="Кино",Cinema Classic
-#https://woobl.ru/hls987/Cinema_classic.m3u8
-#https://api.alpaca.t62a.com/hls/9114/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2359.png" group-title="Кино",FAN
 https://hls.goodgame.ru/hls/157239.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/991/347/png-transparent-cinema-clapperboard-film-computer-icons-cine-miscellaneous-angle-text-thumbnail.png" group-title="Кино",FILM TV
@@ -207,9 +204,9 @@ http://31.148.6.4:10236/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/431.png" group-title="Кино",Shot TV
 http://91.207.115.228:5000/c131
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6241.png" group-title="Кино",START Air
-https://woobl.ru/hls987/START_Air.m3u8
+https://woobl.ru/hls987/START_Air_HD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6240.png" group-title="Кино",START World
-https://woobl.ru/hls987/START_World.m3u8
+https://woobl.ru/hls987/START_World_HD.m3u8
 #EXTINF:-1 tvg-logo="https://baltcom.lv/channel_logo/web_super_pluss.png" group-title="Кино",Super Plus HD
 http://88.135.128.20:7272/JkfGhb36Cvs7Fgz
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3361.png" group-title="Кино",Trash
@@ -367,10 +364,11 @@ http://195.9.195.3:8080/hls/202127.m3u8
 https://woobl.ru/hls987/Hit_hd.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2837.png" group-title="Музыка",AIVA HD
-http://live-1.otcnet.ru/aivaya/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_AIVAHD/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6188.png" group-title="Музыка",Bridge Rock
 https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4.cdn-telegram.org/file/D8D9rgTfWEf1onYGrQyvudC50YuaaksMcUuFyrakXziUIItM5s7MbieSZ8mY6Tm_fjvL11qwWen3pFl8-Da1m19DQIpvRVyD-TYKiZS2TcW9AkOgGOxJO5yjB8w9qqapyMQZ1lzwLs5ONqNwtY-N2RYTvyAd_FpaUT0lL-v2isYX6LfLM2e3xvjcBARn3k722GAJSaA9V7pKatIaB10eHulxGoPT8ahEAxXfmCLCeIAMrJQ2chC65jypEbeCHSH7Ei0fAO5QS0dLsx8RfeQ-SwwX4K2JHLS9aEFXHDhf7NPJxAhV4hMYk1zRvCqpBqZniRcChBsb2QLx5xjOvt5YTw.jpg" group-title="Музыка",DanceHits 80
+#EXTINF:-1 tvg-logo="https://icon-library.com/images/big_note-512.png" group-title="Музыка",DanceHits 80
 http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1 tvg-logo="https://radiopotok.ru/f/station/256/814.png" group-title="Музыка",MCM HD
 http://tv.streams.baikal-telecom.net/MCM/index.m3u8
