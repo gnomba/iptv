@@ -165,8 +165,6 @@ https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_RYBINSK40/variant.m3u8?versi
 https://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1371.png" group-title="Кино",Amedia 1
 http://31.148.48.15/A1/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1371.png" group-title="Кино",Amedia 1 (резерв)
-http://91.207.115.228:5000/c55
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2492.png" group-title="Кино",Amedia 2
 http://91.207.115.228:5000/c56
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2007.png" group-title="Кино",Amedia Hit
@@ -274,11 +272,7 @@ http://91.207.115.228:5000/c46
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/644.png" group-title="Кино",Киномикс
 http://91.207.115.228:5000/c44
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2834.png" group-title="Кино",Кинопоказ
-http://91.207.115.228:5000/c28
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2834.png" group-title="Кино",Кинопоказ (резерв)
 http://streaming.tv-teleport.ru/Kinopokaz/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2834.png" group-title="Кино",Кинопоказ HD
-https://woobl.ru/hls987/Kinopokaz_hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/566.png" group-title="Кино",Кинопремьера
 http://91.207.115.228:5000/c42
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/566.png" group-title="Кино",Кинопремьера HD
@@ -595,23 +589,3 @@ http://91.207.115.228:5000/c181
 http://91.207.115.228:5000/c182
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/617.png" group-title="Разное",Точка отрыва
 http://91.207.115.228:5000/c183
-#EXTINF:-1 tvg-logo="" group-title="Разное",C221
-http://91.207.115.228:5000/c221
-#EXTINF:-1 tvg-logo="" group-title="Разное",C222
-http://91.207.115.228:5000/c222
-#EXTINF:-1 tvg-logo="" group-title="Разное",C223
-http://91.207.115.228:5000/c223
-#EXTINF:-1 tvg-logo="" group-title="Разное",C224
-http://91.207.115.228:5000/c224
-#EXTINF:-1 tvg-logo="" group-title="Разное",C225
-http://91.207.115.228:5000/c225
-#EXTINF:-1 tvg-logo="" group-title="Разное",C226
-http://91.207.115.228:5000/c226
-#EXTINF:-1 tvg-logo="" group-title="Разное",C227
-http://91.207.115.228:5000/c227
-#EXTINF:-1 tvg-logo="" group-title="Разное",C228
-http://91.207.115.228:5000/c228
-#EXTINF:-1 tvg-logo="" group-title="Разное",C229
-http://91.207.115.228:5000/c229
-#EXTINF:-1 tvg-logo="" group-title="Разное",C230
-http://91.207.115.228:5000/c230
