@@ -19,8 +19,7 @@ http://icecast.vgtrk.cdnvideo.ru/mayakfm
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/146.png" group-title="ТВ",Первый канал
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/983.png" group-title="ТВ",Первый канал HD
-##http://89.104.114.32:8080/ort_hd/mono.m3u8?token=DWEvjhKS3G
-http://91.207.115.228:5000/c99
+http://89.104.114.32:8080/ort_hd/mono.m3u8?token=DWEvjhKS3G
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/711.png" group-title="ТВ",Россия 1
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/984.png" group-title="ТВ",Россия 1 HD
