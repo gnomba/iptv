@@ -10,11 +10,13 @@ http://iskatel.hostingradio.ru:8015/iskatel-128.mp3
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1537439750.jpg" group-title="Радио",НАШЕ Радио
 http://nashe1.hostingradio.ru/nashe-128.mp3
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/8/1556387358.jpg" group-title="Радио",Вести FM
-#http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
 http://icecast.vgtrk.cdnvideo.ru/vestifm
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/be/70/17398/c300.png" group-title="Радио",Радио Маяк
-#http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
 http://icecast.vgtrk.cdnvideo.ru/mayakfm
+#EXTINF:-1 tvg-logo="https://sun1-85.userapi.com/cCG-qDVN3Gir9dWwjUKdjyrLsU439-FGNO08ig/aXLgZ69YGjo.jpg" group-title="Радио",Радио России
+http://icecast.vgtrk.cdnvideo.ru/rrzonam
+#EXTINF:-1 tvg-logo="http://mediatrap.ru/images/radio/81.png" group-title="Радио",Радио Культура
+http://icecast.vgtrk.cdnvideo.ru/kulturafm
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/146.png" group-title="ТВ",Первый канал
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
