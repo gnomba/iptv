@@ -171,9 +171,9 @@ http://176.113.48.221:8986/128
 
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2007.png" group-title="Кино",Amedia Hit
 #http://
-##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1372.png" group-title="Кино",Amedia Premium
-#http://
 
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1372.png" group-title="Кино",Amedia Premium
+http://62.231.191.65:8888/97
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4770.png" group-title="Кино",BACKUS TV Original HD
 http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4662.png" group-title="Кино",BACKUS TV Dark HD
@@ -240,13 +240,13 @@ http://188.113.190.15/201/tracks-v1a1/index.m3u8
 
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2838.png" group-title="Кино",Viju+ Serial
 #http://
-##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/935.png" group-title="Кино",.black
-#http://
-##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/311.png" group-title="Кино",.red
-#http://
-##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/516.png" group-title="Кино",.sci-fi
-#http://
 
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/935.png" group-title="Кино",.black
+http://94.232.104.237:8000/play/106/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/311.png" group-title="Кино",.red
+http://176.113.48.221:8986/111
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/516.png" group-title="Кино",.sci-fi
+http://92.242.110.52:9835/udp/238.1.8.18:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2832.png" group-title="Кино",Блокбастер HD
 https://woobl.ru/hls987/Blokbaster_hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6005.png" group-title="Кино",Видеокассета VHS
@@ -465,7 +465,8 @@ https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 https://strm.yandex.ru/kal/360tv/360tv0.m3u8
 #EXTINF:-1 tvg-logo="https://sun6-22.userapi.com/gvFA2-S1fNj5s3tPS8FZ8Ovy_iDO1aaC3uRhyw/bvLgFPsXctA.jpg" group-title="Разное",360° Новости
 https://strm.yandex.ru/kal/360news/360news0.m3u8
-
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1700.png" group-title="Разное",КВН ТВ
+https://strm.yandex.ru/kal/kvn_tv_belarus/kvn_tv_belarus0.m3u8
 
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/7687.png" group-title="Разное",УЛПРАВДА ТВ
 #http://
@@ -508,8 +509,6 @@ https://strm.yandex.ru/kal/360news/360news0.m3u8
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/614.png" group-title="Разное",Кухня ТВ
 #http://
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/663.png" group-title="Разное",Сарафан
-#http://
-##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1700.png" group-title="Разное",КВН ТВ
 #http://
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/675.png" group-title="Разное",Моя планета
 #http://
