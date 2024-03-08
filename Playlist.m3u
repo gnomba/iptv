@@ -141,9 +141,6 @@ http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2078.png" group-title="ТВ",Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2051.png" group-title="ТВ",Матч!
-#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2269.png" group-title="ТВ",RT
 https://cdn-01.bonus-tv.ru/RussiaToday/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2295.png" group-title="ТВ",RT Documentary
@@ -413,6 +410,18 @@ http://dancehits80.denvs.ru:8080/index.m3u8
 http://tv.streams.baikal-telecom.net/MCM/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/897.png" group-title="Музыка",МузТВ
 https://streaming.televizor-24-tochka.ru/live/20.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/5369.png" group-title="Музыка",Страна FM
+https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/680.png" group-title="Музыка",ТНТ Music
+https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2051.png" group-title="Спорт",Матч!
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+#EXTINF:-1 tvg-logo="https://static.tildacdn.com/tild3030-3838-4336-a231-646665626235/photo.png" group-title="Спорт",Старт
+https://strm.yandex.ru/kal/start/start0.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/rnJmy9qUzKg/hqdefault.jpg" group-title="Спорт",Старт Триумф
+https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/don24.jpg" group-title="Разное",Дон 24
 https://donmedia.bonus-tv.ru/cdn/donmedia/playlist.m3u8
@@ -450,8 +459,13 @@ http://cdn.ntv.ru/unknown_russia/playlist.m3u8
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2417.png" group-title="Разное",Большая Азия HD
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img1.pngindir.com/20181130/tbu/kisspng-ao-tv-briks-television-channel-brics-television-analtica-brics-alliance-5c014d81128b92.513612071543589249076.jpg" group-title="Разное",TV BRICS Russian
+#EXTINF:-1 tvg-logo="https://img1.pngindir.com/20181130/tbu/kisspng-ao-tv-briks-television-channel-brics-television-analtica-brics-alliance-5c014d81128b92.513612071543589249076.jpg" group-title="Разное",TV BRICS
 https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://news2.ru/story_images/657000/1674306022_99_360_Black.png" group-title="Разное",360°
+https://strm.yandex.ru/kal/360tv/360tv0.m3u8
+#EXTINF:-1 tvg-logo="https://sun6-22.userapi.com/gvFA2-S1fNj5s3tPS8FZ8Ovy_iDO1aaC3uRhyw/bvLgFPsXctA.jpg" group-title="Разное",360° Новости
+https://strm.yandex.ru/kal/360news/360news0.m3u8
+
 
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/7687.png" group-title="Разное",УЛПРАВДА ТВ
 #http://
@@ -462,8 +476,6 @@ https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/7704.png" group-title="Разное",Димград 24 HD
 #http://
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2423.png" group-title="Разное",365 дней
-#http://
-##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/898.png" group-title="Разное",Ю
 #http://
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1322.png" group-title="Разное",СТС Love
 #http://
@@ -559,8 +571,6 @@ https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 #http://
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2024.png" group-title="Разное",Bridge Hits
 #http://
-##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/680.png" group-title="Разное",ТНТ Music
-#http://
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2277.png" group-title="Разное",RU TV
 #http://
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/715.png" group-title="Разное",Музыка Первого
@@ -573,8 +583,6 @@ https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 #http://
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2408.png" group-title="Разное",Ля-минор
 #http://
-##EXTINF:-1 tvg-logo="https://sun6-22.userapi.com/gvFA2-S1fNj5s3tPS8FZ8Ovy_iDO1aaC3uRhyw/bvLgFPsXctA.jpg" group-title="Разное",360 Новости
-#http://
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2295.png" group-title="Разное",RT Documentary
 #http://
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2456.png" group-title="Разное",Кто есть кто
@@ -582,8 +590,6 @@ https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/743.png" group-title="Разное",РБК
 #http://
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2078.png" group-title="Разное",Мир 24
-#http://
-##EXTINF:-1 tvg-logo="https://sun6-22.userapi.com/gvFA2-S1fNj5s3tPS8FZ8Ovy_iDO1aaC3uRhyw/bvLgFPsXctA.jpg" group-title="Разное",360 Новости
 #http://
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2398.png" group-title="Разное",Вместе-РФ
 #http://
