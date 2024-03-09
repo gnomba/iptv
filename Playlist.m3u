@@ -259,10 +259,8 @@ http://92.242.110.52:9835/udp/238.1.8.18:1234
 https://woobl.ru/hls987/Blokbaster_hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6005.png" group-title="Кино",Видеокассета VHS
 https://media-gateway-cache.nuum.ru/live/4968/index.m3u8
-
-##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/669.png" group-title="Кино",Время
-#http://
-
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/669.png" group-title="Кино",Время
+http://92.242.110.52:9835/udp/238.1.11.25:1234
 #EXTINF:-1 tvg-logo="https://epgx.site/p/denpobedy.png" group-title="Кино",День Победы
 https://livetv.mylifeisgood.net.ru/channels/dcad9e4e7150ef14312ec85b9f2a002e.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/834.png" group-title="Кино",Дом Кино
@@ -420,9 +418,17 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 https://strm.yandex.ru/kal/start/start0.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/rnJmy9qUzKg/hqdefault.jpg" group-title="Спорт",Старт Триумф
 https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2048.png" group-title="Спорт",KHL
+https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
 
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6029.png" group-title="Разное",Первый российский национальный канал
+http://dmi3y-tv.ru/hls/CH_1RNKHD720.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2398.png" group-title="Разное",Вместе-РФ
+https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/don24.jpg" group-title="Разное",Дон 24
 https://donmedia.bonus-tv.ru/cdn/donmedia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://epgx.site/p/dumatv.png" group-title="Разное",Дума ТВ
+https://dumatv.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://eanews.ru/files/2017/12/25/15JaJB6f5dE.jpg" group-title="Разное",4 канал Екатеринбург
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/5816.png" group-title="Разное",Аист
@@ -449,6 +455,10 @@ https://streaming.televizor-24-tochka.ru/live/29.m3u8
 https://streaming.televizor-24-tochka.ru/live/27.m3u8
 #EXTINF:-1 tvg-logo="https://telegram-store.su/upload/000/kanal/bog021318215212.jpg" group-title="Разное",Крым 24
 https://streaming.televizor-24-tochka.ru/live/28.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2470.png" group-title="Разное",Ратник
+http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2476.png" group-title="Разное",Красная линия
+https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1755.png" group-title="Разное",НТВ Стиль
 http://cdn.ntv.ru/th_style/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-b2c.dom.ru/epg/chbiglogo/1686887520.png" group-title="Разное",Неизвестная Россия
@@ -544,8 +554,6 @@ https://strm.yandex.ru/kal/kvn_tv_belarus/kvn_tv_belarus0.m3u8
 #http://
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2054.png" group-title="Разное",Матч! Боец
 #http://
-##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2048.png" group-title="Разное",KHL
-#http://
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6646.png" group-title="Разное",Рыболов
 #http://
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/153.png" group-title="Разное",Авто Плюс
@@ -586,15 +594,7 @@ https://strm.yandex.ru/kal/kvn_tv_belarus/kvn_tv_belarus0.m3u8
 #http://
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/743.png" group-title="Разное",РБК
 #http://
-##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2078.png" group-title="Разное",Мир 24
-#http://
-##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2398.png" group-title="Разное",Вместе-РФ
-#http://
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2448.png" group-title="Разное",Союз
-#http://
-##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2476.png" group-title="Разное",Красная линия
-#http://
-##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2417.png" group-title="Разное",Большая Азия (резерв)
 #http://
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2170.png" group-title="Разное",Беларусь 24
 #http://
