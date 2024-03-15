@@ -320,6 +320,8 @@ http://195.9.195.3:8080/hls/204709.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/477.png" group-title="Кино",Любимое Кино
 http://88.135.128.20:7272/JS7lUbMstASMl0r
+#EXTINF:-1 tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/441/080/9.png" group-title="Кино",Мелодрамы
+https://player.smotrim.ru/iframe/stream/live_id/64051
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2275.png" group-title="Кино",Мир сериала
 https://woobl.ru/hls987/Mir_seriala.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2308.png" group-title="Кино",Москва Доверие
@@ -375,6 +377,8 @@ http://188.113.190.15/182/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4779.png" group-title="Кино",Страх HD
 http://195.9.195.3:8080/hls/202127.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2304.png" group-title="Кино",Телекафе
+http://stream01.vnet.am/Telekafe/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4780.png" group-title="Кино",Фантастика HD
 http://hlss.goodgame.ru/hls/187241.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4777.png" group-title="Кино",Хит HD
@@ -408,8 +412,8 @@ https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2048.png" group-title="Спорт",KHL
 https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2304.png" group-title="Разное",Телекафе
-http://stream01.vnet.am/Telekafe/mono.m3u8
+#EXTINF:-1 tvg-logo="https://sev.gov.ru/files/resize-images/93857d6343c04e12f84cd2c1777e2c15r.jpeg" group-title="Разное",Выставка-форум "Россия"
+https://player.smotrim.ru/iframe/stream/live_id/64720
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6029.png" group-title="Разное",Первый российский национальный канал
 http://dmi3y-tv.ru/hls/CH_1RNKHD720.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2310.png" group-title="Разное",Первый Космический
@@ -474,6 +478,10 @@ http://92.242.110.52:9835/udp/238.1.8.20:1234
 http://178.124.179.122:8088/Sarafan/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/617.png" group-title="Разное",Точка отрыва
 http://109.239.208.82:80/tochka/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2768.png" group-title="Разное",Арсенал
+http://91.221.201.2:7013/play/a009/index.m3u8
+
+##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2311.png" group-title="Разное",Приключения
 
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/434.png" group-title="Разное",Усадьба
 
