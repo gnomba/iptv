@@ -132,7 +132,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/79.png" group-title="ТВ",СТС
 http://s18209.cdn.ngenix.net/hls/CH_R02_STS/playlist.m3u8
-##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1322.png" group-title="ТВ",СТС Love
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1322.png" group-title="ТВ",СТС Love
 http://178.212.71.253:8002/play/a00r/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/698.png" group-title="ТВ",ТВ3
 http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
