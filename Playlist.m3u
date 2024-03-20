@@ -123,6 +123,8 @@ http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R04_DOMASHNY/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1003.png" group-title="ТВ",Пятница!
 http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2288.png" group-title="ТВ",Суббота
+http://195.26.83.96:7013/play/a00e/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1000.png" group-title="ТВ",ОТР
 http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1598.png" group-title="ТВ",Че
@@ -148,14 +150,6 @@ http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/323.png" group-title="ТВ",2x2
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
-
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/7711.png" group-title="ТВ",Первый Ярославский
-https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
-#EXTINF:-1 tvg-logo="https://1yar.tv/photos/!design/logoNewBig.png" group-title="ТВ",Первый Ярославский (резерв)
-https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-logo="https://06.img.avito.st/image/1/38KHMraBcyvxl4EttTX86n6Rdy0lk3MtQvJ3LfGXgS0xlX8vMZNzbw" group-title="ТВ",Рыбинск-40
-#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_RYBINSK40/variant.m3u8?version=2
 
 ##EXTINF:-1 tvg-logo="" group-title="Кино",Кино -->
 
@@ -369,8 +363,6 @@ http://83.234.207.29:8004/play/a014/index.m3u8
 http://193.201.98.10:5000/c106
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2044.png" group-title="Спорт",Матч! Футбол 1
 http://194.143.148.28:8080/MatchFutbol1/mpegts
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1042.png" group-title="Спорт",Матч! Футбол 2
-https://kinescope.io/5cuYjysVnE1GWyZm2uTbRx/master.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2005.png" group-title="Спорт",Матч! Футбол 3
 http://185.57.68.33/110/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4629.png" group-title="Спорт",Мир баскетбола
@@ -379,6 +371,8 @@ http://92.242.110.52:9835/udp/238.1.1.17:1234
 https://strm.yandex.ru/kal/start/start0.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/rnJmy9qUzKg/hqdefault.jpg" group-title="Спорт",Старт Триумф
 https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2782.png" group-title="Спорт",Футбол
+https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
 
 ##EXTINF:-1 tvg-logo="" group-title="Разное",Разное -->
 
@@ -462,38 +456,84 @@ https://strm.yandex.ru/kal/mult_belarus/mult_belarus0.m3u8
 https://strm.yandex.ru/kal/multilandia/multilandia0.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/284.png" group-title="Разное",Мультимузыка
 http://91.142.158.107:8092/play/24/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6029.png" group-title="Разное",Первый российский национальный канал
-http://dmi3y-tv.ru/hls/CH_1RNKHD720.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2310.png" group-title="Разное",Первый Космический
-http://stream01.vnet.am/Evrika/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/723.png" group-title="Разное",Наука
+http://109.239.208.82:80/nauka20/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-b2c.dom.ru/epg/chbiglogo/1686887520.png" group-title="Разное",Неизвестная Россия
+http://cdn.ntv.ru/unknown_russia/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/783.png" group-title="Разное",Ностальгия
+http://146.158.0.56/Nostalgiya/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1755.png" group-title="Разное",НТВ Стиль
+http://cdn.ntv.ru/th_style/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6745.png" group-title="Разное",НТС Иркутск
 http://194.143.148.28:8080/NTS/mpegts
 #EXTINF:-1 tvg-logo="https://epgx.site/p/nts-irkutsk.png" group-title="Разное",НТС Иркутск
 http://tv.streams.baikal-telecom.net/NTS/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1757.png" group-title="Разное",О!
+http://188.113.190.15/136/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2419.png" group-title="Разное",Охота и рыбалка
+http://188.113.190.15/69/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2310.png" group-title="Разное",Первый Космический
+http://stream01.vnet.am/Evrika/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6029.png" group-title="Разное",Первый российский национальный канал
+http://dmi3y-tv.ru/hls/CH_1RNKHD720.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/7711.png" group-title="Разное",Первый Ярославский
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
+#EXTINF:-1 tvg-logo="https://1yar.tv/photos/!design/logoNewBig.png" group-title="Разное",Первый Ярославский (резерв)
+https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2311.png" group-title="Разное",Приключения
+http://stream01.vnet.am/PriklyucheniyaHd/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/5818.png" group-title="Разное",Прима
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2450.png" group-title="Разное",Психология 21
+http://188.113.190.15/73/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2470.png" group-title="Разное",Ратник
+http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://sun9-29.userapi.com/impg/GLshnKSUta4eIfFPR97tZM6fgjVo-wuzaio4pg/KFhRD7429xE.jpg?size=320x320&quality=96&sign=d4f7948c76a3cb11bd6cb4f076be1938&c_uniq_tag=NKpqL1R6ZaYZpfKeXFaJ90btiRjAS6js4egPIsZ6Yok&type=album" group-title="Разное",Репортер 73 (Ульяновск)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_REP73/variant.m3u8
+#EXTINF:-1 tvg-logo="https://06.img.avito.st/image/1/38KHMraBcyvxl4EttTX86n6Rdy0lk3MtQvJ3LfGXgS0xlX8vMZNzbw" group-title="Разное",Рыбинск-40
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_RYBINSK40/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2437.png" group-title="Разное",Рыжий
+https://strm.yandex.ru/kal/ryzhii_sd_belarus/ryzhii_sd_belarus0.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/663.png" group-title="Разное",Сарафан
+http://178.124.179.122:8088/Sarafan/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/7669.png" group-title="Разное",Солнце
+http://tv.mediacdn.ru/live/disney/playlist_3000k.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2448.png" group-title="Разное",Союз
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2481.png" group-title="Разное",СТС Kids
+http://45.159.74.13:80/DisneyChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2239.png" group-title="Разное",СуперГерои
+http://83.234.207.29:8003/play/a01f/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.mycdn.me/i?r=BDGmhjfL9BzD6NIU04xipmtvOuhVZP67_4PuV8ZrZQ45IyOICUJLJJKT7yTs2n6kwEg" group-title="Разное",Таврия (Херсон)
+https://streaming.televizor-24-tochka.ru/live/24.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/5441.png" group-title="Разное",ТВОЕ ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://epgx.site/p/tvoetv-humor.png" group-title="Разное",ТВОЕ ТВ - ЮМОР
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.mycdn.me/i?r=BDGmhjfL9BzD6NIU04xipmtvOuhVZP67_4PuV8ZrZQ45IyOICUJLJJKT7yTs2n6kwEg" group-title="Разное",Таврия (Херсон)
-https://streaming.televizor-24-tochka.ru/live/24.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2424.png" group-title="Разное",Телепутешествия
+http://streaming.tv-teleport.ru/Teleputeshestviya/index.m3u8
+#EXTINF:-1 tvg-logo="https://sun9-67.userapi.com/impg/17gYG0Dz-DtL5R-KySGSDUsBRSlDwg9UdZe2Qw/7Ot4tkOORx0.jpg?size=600x600&quality=95&sign=c4b6b3e339d1fc2971d44767caf2ce69&type=album" group-title="Разное",Тонус
+http://109.239.208.82/tonus/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/617.png" group-title="Разное",Точка отрыва
+http://109.239.208.82:80/tochka/index.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/66.png" group-title="Разное",Уникум
+http://188.113.190.15/41/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/434.png" group-title="Разное",Усадьба
+http://176.113.48.221:8986/188
+
 #EXTINF:-1 tvg-logo="https://iursdn.ru/images/news/2023/01/30/sajt%20union.png" group-title="Разное",Юнион (ДНР)
 https://streaming.televizor-24-tochka.ru/live/27.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2470.png" group-title="Разное",Ратник
-http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1755.png" group-title="Разное",НТВ Стиль
-http://cdn.ntv.ru/th_style/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-b2c.dom.ru/epg/chbiglogo/1686887520.png" group-title="Разное",Неизвестная Россия
-http://cdn.ntv.ru/unknown_russia/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/663.png" group-title="Разное",Сарафан
-http://178.124.179.122:8088/Sarafan/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/617.png" group-title="Разное",Точка отрыва
-http://109.239.208.82:80/tochka/index.m3u8
+
 
 ##EXTINF:-1 tvg-logo="" group-title="NotFound",NotFound -->
 
+##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4605.png" group-title="NotFound",Хоккейный
+##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/7687.png" group-title="NotFound",УЛПРАВДА ТВ
+##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6667.png" group-title="NotFound",Первый Псковский
+##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1042.png" group-title="NotFound",Матч! Футбол 2
+#https://kinescope.io/5cuYjysVnE1GWyZm2uTbRx/master.m3u8
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2832.png" group-title="NotFound",Блокбастер HD
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2020.png" group-title="NotFound",Дом Кино Премиум HD
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2174.png" group-title="NotFound",Дорама
@@ -515,30 +555,13 @@ http://109.239.208.82:80/tochka/index.m3u8
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/984.png" group-title="NotFound",Россия 1 HD
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1649.png" group-title="NotFound",ТНТ4 HD
 ##EXTINF:-1 tvg-logo="https://sun6-22.userapi.com/GeE0GPfu6CwMNmTYZVj3JFh5_frXW_Ebr_tX1A/0jXwi5rGSg4.jpg" group-title="NotFound",Новороссия
-##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4605.png" group-title="NotFound",Хоккейный
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/7704.png" group-title="NotFound",Димград 24
-##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2311.png" group-title="NotFound",Приключения
-##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/434.png" group-title="NotFound",Усадьба
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/5708.png" group-title="NotFound",Ростов Папа
-##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/7687.png" group-title="NotFound",УЛПРАВДА ТВ
-##EXTINF:-1 tvg-logo="https://sun9-29.userapi.com/impg/GLshnKSUta4eIfFPR97tZM6fgjVo-wuzaio4pg/KFhRD7429xE.jpg?size=320x320&quality=96&sign=d4f7948c76a3cb11bd6cb4f076be1938&c_uniq_tag=NKpqL1R6ZaYZpfKeXFaJ90btiRjAS6js4egPIsZ6Yok&type=album" group-title="NotFound",Репортер 73
-##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6667.png" group-title="NotFound",Первый Псковский
-##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2288.png" group-title="NotFound",Суббота
-##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/783.png" group-title="NotFound",Ностальгия
-##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2437.png" group-title="NotFound",Рыжий
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2011.png" group-title="NotFound",Ani
-##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/66.png" group-title="NotFound",Уникум
-##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1757.png" group-title="NotFound",О!
-##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2481.png" group-title="NotFound",СТС Kids
-##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2239.png" group-title="NotFound",СуперГерои
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/410.png" group-title="NotFound",Da Vinci
-##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/723.png" group-title="NotFound",Наука
-##EXTINF:-1 tvg-logo="https://sun9-67.userapi.com/impg/17gYG0Dz-DtL5R-KySGSDUsBRSlDwg9UdZe2Qw/7Ot4tkOORx0.jpg?size=600x600&quality=95&sign=c4b6b3e339d1fc2971d44767caf2ce69&type=album" group-title="NotFound",Тонус
-##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2424.png" group-title="NotFound",Телепутешествия
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/521.png" group-title="NotFound",Viju Explore
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/277.png" group-title="NotFound",Viju History
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/765.png" group-title="NotFound",Viju Nature
-##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2782.png" group-title="NotFound",Футбол
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6646.png" group-title="NotFound",Рыболов
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2053.png" group-title="NotFound",Extreme Sports
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2055.png" group-title="NotFound",Viju+ Sport
@@ -551,7 +574,6 @@ http://109.239.208.82:80/tochka/index.m3u8
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/575.png" group-title="NotFound",Mezzo
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/801.png" group-title="NotFound",Mezzo Live
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2295.png" group-title="NotFound",RT Documentary
-##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2448.png" group-title="NotFound",Союз
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/325.png" group-title="NotFound",Discovery Channel
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/365.png" group-title="NotFound",Animal Planet
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/613.png" group-title="NotFound",Travel Channel
@@ -560,6 +582,3 @@ http://109.239.208.82:80/tochka/index.m3u8
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2052.png" group-title="NotFound",Eurosport 1
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4313.png" group-title="NotFound",Eurosport 2
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/415.png" group-title="NotFound",HDL
-##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/7669.png" group-title="NotFound",Солнце
-##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2419.png" group-title="NotFound",Охота и рыбалка
-##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2450.png" group-title="NotFound",Психология 21
