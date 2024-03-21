@@ -565,7 +565,7 @@ https://streaming.televizor-24-tochka.ru/live/27.m3u8
 
 ##EXTINF:-1 tvg-logo="" group-title="NotFound",NotFound -->
 
-##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4605.png" group-title="Спорт",Хоккейный
+##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4605.png" group-title="NotFound",Хоккейный
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/7687.png" group-title="NotFound",УЛПРАВДА ТВ
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6667.png" group-title="NotFound",Первый Псковский
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1042.png" group-title="NotFound",Матч! Футбол 2
