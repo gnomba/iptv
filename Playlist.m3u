@@ -493,8 +493,7 @@ http://109.239.208.82:80/nauka20/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4444.png" group-title="Разное",Наша Сибирь
 https://strm.yandex.ru/kal/sibir/sibir0.m3u8 
 #EXTINF:-1 tvg-logo="https://cdn-b2c.dom.ru/epg/chbiglogo/1686887520.png" group-title="Разное",Неизвестная Россия
-#http://cdn.ntv.ru/unknown_russia/playlist.m3u8
-https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
+http://cdn2.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/783.png" group-title="Разное",Ностальгия
 http://146.158.0.56/Nostalgiya/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1755.png" group-title="Разное",НТВ Стиль
@@ -552,8 +551,6 @@ http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 http://streaming.tv-teleport.ru/Teleputeshestviya/index.m3u8
 #EXTINF:-1 tvg-logo="https://sun9-67.userapi.com/impg/17gYG0Dz-DtL5R-KySGSDUsBRSlDwg9UdZe2Qw/7Ot4tkOORx0.jpg?size=600x600&quality=95&sign=c4b6b3e339d1fc2971d44767caf2ce69&type=album" group-title="Разное",Тонус
 http://109.239.208.82/tonus/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/617.png" group-title="Разное",Точка отрыва
-http://109.239.208.82:80/tochka/index.m3u
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/66.png" group-title="Разное",Уникум
 http://188.113.190.15/41/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/434.png" group-title="Разное",Усадьба
@@ -565,6 +562,7 @@ https://streaming.televizor-24-tochka.ru/live/27.m3u8
 
 ##EXTINF:-1 tvg-logo="" group-title="NotFound",NotFound -->
 
+##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/617.png" group-title="Разное",Точка отрыва
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4605.png" group-title="NotFound",Хоккейный
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/7687.png" group-title="NotFound",УЛПРАВДА ТВ
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6667.png" group-title="NotFound",Первый Псковский
