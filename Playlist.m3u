@@ -583,7 +583,7 @@ https://streaming.televizor-24-tochka.ru/live/27.m3u8
 
 ##EXTINF:-1 tvg-logo="" group-title="NotFound", # NotFound -->
 
-##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6240.png" group-title="Кино",START World
+##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6240.png" group-title="NotFound",START World
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2181.png" group-title="NotFound",FilmBox
 ##EXTINF:-1 tvg-logo="https://epgx.site/p/okko-sport.png" group-title="NotFound",Okko.Спорт
 ##EXTINF:-1 tvg-logo="https://static8.tgcnt.ru/posts/_0/b9/b9fb6bbb41a9181bdf7c1731f0557bc3.jpg" group-title="NotFound",MediaService Lorenz TV
@@ -598,7 +598,6 @@ https://streaming.televizor-24-tochka.ru/live/27.m3u8
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2836.png" group-title="NotFound",Камеди HD
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/462.png" group-title="NotFound",Киносвидание
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2493.png" group-title="NotFound",Киноужас
-##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/542.png" group-title="NotFound",Кинохит
 ##EXTINF:-1 tvg-logo="https://tricolorhd.msk.ru/images/logo_channel/ruskiy-mir-tv-ps1.png" group-title="NotFound",Крепкое кино
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2831.png" group-title="NotFound",Наш Кинопоказ
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1588.png" group-title="NotFound",Остросюжетное HD
