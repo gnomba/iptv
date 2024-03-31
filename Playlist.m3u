@@ -26,8 +26,6 @@ http://icecast.vgtrk.cdnvideo.ru/kulturafm
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/146.png" group-title="ТВ",Первый канал
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/983.png" group-title="ТВ",Первый канал HD
-http://89.104.114.32:8080/ort_hd/mono.m3u8?token=DWEvjhKS3G
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/711.png" group-title="ТВ",Россия 1
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/711.png" group-title="ТВ",Россия 1 (+1)
@@ -65,6 +63,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/353.png" group-title="ТВ",ТНТ (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/5692.png" group-title="ТВ",ТНТ International
+https://strm.yandex.ru/kal/tnt_interneshnl_belarus/tnt_interneshnl_belarus0.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1649.png" group-title="ТВ",ТНТ4
 http://91.205.199.3:80/tnt4/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1649.png" group-title="ТВ",ТНТ4 (+2)
@@ -638,7 +638,7 @@ http://188.113.190.15/41/tracks-v1a1/index.m3u8
 
 ##EXTINF:-1 tvg-logo="" group-title="NotFound", # NotFound -->
 
-##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/5692.png" group-title="NotFound",ТНТ International
+##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/983.png" group-title="NotFound",Первый канал HD
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1037.png" group-title="NotFound",Кино ТВ (+4)
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1037.png" group-title="NotFound",Кино ТВ (+7)
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6240.png" group-title="NotFound",START World
