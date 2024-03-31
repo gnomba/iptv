@@ -438,6 +438,7 @@ https://strm.yandex.ru/kal/udar/udar0.m3u8
 https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
 
 ##EXTINF:-1 tvg-logo="" group-title="Регионы", # Регионы -->
+
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/5841.png" group-title="Регионы",12 Канал (Омск)
 http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2265.png" group-title="Регионы",360°
