@@ -451,7 +451,7 @@ http://193.201.98.10:5000/c102
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/5841.png" group-title="Регионы",12 Канал (Омск)
 http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Регионы",31 канал (Челябинск)
+#EXTINF:-1 tvg-logo="" group-title="Регионы",31 канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2265.png" group-title="Регионы",360°
@@ -470,6 +470,9 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6752.png" group-title="Регионы",Городской телеканал Ярославль
 https://www.gtk.tv/hls/gtyar.m3u8
+#EXTINF:-1 tvg-logo="https://sun9-78.userapi.com/impg/PPb16uS-z-LZ5dB-ASvFMWNUZR-SSBQrEKIIRQ/cFKjedzcXHg.jpg?size=604x604&quality=95&sign=32e135a6d25b7aa2708764292550db7d&c_uniq_tag=FQuBfpZgV7J001j306bHuEElTeawKS31sdLMHHxKW3c&type=album" group-title="Регионы",Городской телеканал Ярославль
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_YARL_GTREG/variant.m3u8
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/don24.jpg" group-title="Регионы",Дон 24
 https://donmedia.bonus-tv.ru/cdn/donmedia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sun9-35.userapi.com/impg/sgS8RrNd-P2cuSEEY79JAB0y6YcT7p08GDWTgQ/SNf7cS0yNJw.jpg?size=1280x1280&quality=95&sign=68ee0a60c96534955a76f4aae7a55819&type=album" group-title="Регионы",За!ТВ (Запорожье)
