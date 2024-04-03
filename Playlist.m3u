@@ -33,7 +33,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3000.png" group-title="ТВ",Россия 1 (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/e6fb6b68aa6a51b624b5c05a8e1435a0.png" group-title="ТВ",Россия 1 (+3)
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSK/variant.m3u8?version=2
@@ -155,8 +155,8 @@ http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/898.png" group-title="ТВ",Ю
 http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/323.png" group-title="ТВ",2x2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2141.png" group-title="ТВ",Спас
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
@@ -204,12 +204,6 @@ https://bkm.beetv.kz/btv/live/hls/000004471.m3u8
 https://strm.yandex.ru/kal/hollywood_belarus/hollywood_belarus0.m3u8
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=2a00000179f01f9fc7f0e25f2013d18df066-4937215-images-thumbs&n=13" group-title="Кино",Kino 24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4466.png" group-title="Кино",Kinojam 1
-#EXTVLCOPT:http-user-agent=tricoloronline/2.2.1707/android
-http://live-mirror-04.ott.tricolor.tv/dtv/id860_MSKSG-PVR-1--Kinojam_1/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MDAyNTUwMDc4MjQwNyIsImV4cCI6MTY4ODE4OTgwOSwiaHdpZCI6ImI2YjQ3YmM4NWZhNWJmZDI5Mzk3MTg2MzFmMzZiNzg3YzYwZGYwNzdhZmRhZDM5ZTZmZTQ5NWRhMTI0NTBlYjIiLCJsYXN0X3JlcV9kYXRlIjoxNjg3NTg1MDA5LCJzZXNzaW9uX2lkIjoiMzY0ZDhmNmNiNjkyNmUzYzFmNGZmYjE4NDMzOTY0OTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.i6F_i9kbAPJtdObR59ST1tdZs0uO9bbqhKDfpgnK9cI
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4467.png" group-title="Кино",Kinojam 2
-#EXTVLCOPT:http-user-agent=tricoloronline/2.2.1707/android
-http://live-mirror-11.ott.tricolor.tv/dtv/id861_MSKSG-PVR-1--Kinojam_2/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MDAyNTUwMDc4MjQwNyIsImV4cCI6MTY4ODE4OTgwOSwiaHdpZCI6ImI2YjQ3YmM4NWZhNWJmZDI5Mzk3MTg2MzFmMzZiNzg3YzYwZGYwNzdhZmRhZDM5ZTZmZTQ5NWRhMTI0NTBlYjIiLCJsYXN0X3JlcV9kYXRlIjoxNjg3NTg1MDA5LCJzZXNzaW9uX2lkIjoiMzY0ZDhmNmNiNjkyNmUzYzFmNGZmYjE4NDMzOTY0OTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.i6F_i9kbAPJtdObR59ST1tdZs0uO9bbqhKDfpgnK9cI
 #EXTINF:-1 tvg-logo="https://www.navigator-tv.ru/sc-pic/i12527.png" group-title="Кино",KinoLiving
 http://92.242.110.52:9835/udp/238.1.8.1:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bn4m324/image-3.png" group-title="Кино",КІНО ТV VHS
@@ -669,6 +663,8 @@ http://188.113.190.15/41/tracks-v1a1/index.m3u8
 
 ##EXTINF:-1 tvg-logo="" group-title="NotFound", # NotFound -->
 
+##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4466.png" group-title="NotFound",Kinojam 1
+##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4467.png" group-title="NotFound",Kinojam 2
 ##EXTINF:-1 tvg-logo="https://epgx.site/p/tv1000-action-cee.png" group-title="NotFound",Viasat Kino Action
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/983.png" group-title="NotFound",Первый канал HD
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1037.png" group-title="NotFound",Кино ТВ (+4)
@@ -695,8 +691,8 @@ http://188.113.190.15/41/tracks-v1a1/index.m3u8
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1767.png" group-title="NotFound",ТНТ HD
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1649.png" group-title="NotFound",ТНТ4 HD
 ##EXTINF:-1 tvg-logo="https://sun6-22.userapi.com/GeE0GPfu6CwMNmTYZVj3JFh5_frXW_Ebr_tX1A/0jXwi5rGSg4.jpg" group-title="NotFound",Новороссия
-##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/7704.png" group-title="NotFound",Димград 24
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/5708.png" group-title="NotFound",Ростов Папа
+##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/7704.png" group-title="NotFound",Димград 24
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/521.png" group-title="NotFound",Viju Explore
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/277.png" group-title="NotFound",Viju History
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/765.png" group-title="NotFound",Viju Nature
