@@ -604,6 +604,8 @@ http://91.205.199.3:80/avto24/index.m3u8
 http://otv.wotom.net:4433/udp/238.1.1.131:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2768.png" group-title="Разное",Арсенал
 http://109.239.208.82:80/arsenal/index.m3u8
+#EXTINF:-1tvg-logo="http://epg.it999.ru/img/2026.png" group-title="Разное",Бобёр
+http://178.212.71.253:8002/play/a00m/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2417.png" group-title="Разное",Большая Азия
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2417.png" group-title="Разное",Большая Азия HD
