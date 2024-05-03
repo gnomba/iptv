@@ -10,7 +10,7 @@ http://nashe1.hostingradio.ru/rock-128.mp3
 #EXTINF:-1 tvg-logo="https://radioiskatel.ru/wp-content/uploads/2021/12/uu7Dexi4C4A.jpg" group-title="Радио",Искатель
 http://iskatel.hostingradio.ru:8015/iskatel-128.mp3
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1537439750.jpg" group-title="Радио",НАШЕ Радио
-http://nashe1.hostingradio.ru/nashe-128.mp3
+http://nashe1.hostingradio.ru:80/nashe-256
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/8/1556387358.jpg" group-title="Радио",Радио Вести FM
 http://icecast.vgtrk.cdnvideo.ru/vestifm
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/be/70/17398/c300.png" group-title="Радио",Радио Маяк
@@ -299,7 +299,7 @@ https://strm.yandex.ru/kal/kinoseria_belarus/kinoseria_belarus0.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2493.png" group-title="Кино",Киноужас
 http://31.131.136.4:8001/play/e00b
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/542.png" group-title="Кино",Кинохит
-http://109.248.236.21:4433/udp/238.1.1.53:1234
+https://strm.yandex.ru/kal/kinohit_belarus/kinohit_belarus0.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6258.png" group-title="Кино",Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1037.png" group-title="Кино",Кино ТВ
