@@ -95,12 +95,12 @@ https://player.smotrim.ru/iframe/stream/live_id/63338
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2271.png" group-title="ТВ",Известия
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/162.png" group-title="ТВ",НТВ
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 #http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
 http://cdn.ntv.ru/ntv0/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2001.png" group-title="ТВ",НТВ HD
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://epgx.site/p/ntv-amerika.png" group-title="ТВ",НТВ Америка
-http://4.59.210.197:8815/udp/127.0.0.1:6003
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/18.png" group-title="ТВ",Рен ТВ
 http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/405.png" group-title="ТВ",Звезда
@@ -735,6 +735,7 @@ http://188.113.190.15/41/tracks-v1a1/index.m3u8
 
 ##EXTINF:-1 tvg-logo="" group-title="NotFound", # NotFound -->
 
+##EXTINF:-1 tvg-logo="https://epgx.site/p/ntv-amerika.png" group-title="NotFound",НТВ Америка
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4864.png" group-title="NotFound",TLC
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6240.png" group-title="NotFound",START World
 ##EXTINF:-1 tvg-logo="https://tvtvtv.ru/icons/filmuadrama.png" group-title="NotFound",FilmUADrama
