@@ -110,7 +110,8 @@ http://s18209.cdn.ngenix.net/hls/CH_R03_ZVEZDA/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4661.png" group-title="ТВ",Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2447.png" group-title="ТВ",Победа
-http://flu.ttk.mx:9090/Pobeda/index.m3u8?token=orh6o
+#http://flu.ttk.mx:9090/Pobeda/index.m3u8?token=orh6o
+http://188.113.190.15/85/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/427.png" group-title="ТВ",Пятый канал
 http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/649.png" group-title="ТВ",ТВЦ
