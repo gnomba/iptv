@@ -426,6 +426,8 @@ http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
 http://188.113.190.15/39/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2048.png" group-title="Спорт",KHL
 https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1038.png" group-title="Спорт",KHL Prime HD
+https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2055.png" group-title="Спорт",Viju+ Sport
 http://45.159.74.13:80/AutoPlus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2285.png" group-title="Спорт",Бокс ТВ
