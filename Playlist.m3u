@@ -216,6 +216,8 @@ https://playlist.nuum.ru/live/28423/tracks-v1a1/mono.m3u8
 http://88.85.172.243:7012/play/a028
 #EXTINF:-1 tvg-logo="https://epgx.site/p/romance.png" group-title="Кино",Romance
 http://146.158.0.56:80/Motosport/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2497.png" group-title="Кино",Russian Extreme
+https://strm.yandex.ru/kal/russkoe_ekstremalnoe_tv_belarus/russkoe_ekstremalnoe_tv_belarus0.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/431.png" group-title="Кино",Shot TV
 http://92.242.110.52:9835/udp/238.1.6.2:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2145.png" group-title="Кино",Star Cinema
@@ -418,20 +420,16 @@ https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2052.png" group-title="Спорт",Eurosport 1
 http://45.159.74.14:80/Eurosport/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2052.png" group-title="Спорт",Eurosport 1
-http://91.207.114.209:5000/c153
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4313.png" group-title="Спорт",Eurosport 2
-http://193.201.98.10:5000/c154
+http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2053.png" group-title="Спорт",Extreme Sports
-http://176.113.48.221:8986/27
+http://188.113.190.15/39/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2048.png" group-title="Спорт",KHL
 https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2497.png" group-title="Спорт",Russian Extreme
-https://strm.yandex.ru/kal/russkoe_ekstremalnoe_tv_belarus/russkoe_ekstremalnoe_tv_belarus0.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2055.png" group-title="Спорт",Viju+ Sport
 http://45.159.74.13:80/AutoPlus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2285.png" group-title="Спорт",Бокс ТВ
-http://45.11.139.43:8081/stream/boks_tv/hls/playlist.m3u8
+https://strm.yandex.ru/kal/boks_tv_plus_belarus/boks_tv_plus_belarus0.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2051.png" group-title="Спорт",Матч!
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
@@ -440,18 +438,17 @@ http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2054.png" group-title="Спорт",Матч! Боец
 http://92.242.110.52:9835/udp/238.1.2.7:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2050.png" group-title="Спорт",Матч! Игра
-http://193.201.98.10:5000/c104
+http://31.210.208.171:8080/match_igra/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2043.png" group-title="Спорт",Матч! Планета
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2250.png" group-title="Спорт",Матч! Премьер
-http://83.234.207.29:8004/play/a014/index.m3u8
+http://188.113.190.15/103/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2042.png" group-title="Спорт",Матч! Страна
-http://193.201.98.10:5000/c106
+http://188.113.190.15/95/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2044.png" group-title="Спорт",Матч! Футбол 1
 http://194.143.148.28:8080/MatchFutbol1/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1042.png" group-title="Спорт",Матч! Футбол 2
-#https://kinescope.io/5cuYjysVnE1GWyZm2uTbRx/master.m3u8
-http://193.201.98.10:5000/c115
+http://188.113.190.15/176/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2005.png" group-title="Спорт",Матч! Футбол 3
 http://185.57.68.33/110/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4629.png" group-title="Спорт",Мир баскетбола
@@ -464,8 +461,6 @@ https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
 https://strm.yandex.ru/kal/udar/udar0.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2782.png" group-title="Спорт",Футбол
 https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2782.png" group-title="Спорт",Футбол
-http://193.201.98.10:5000/c102
 
 ##EXTINF:-1 tvg-logo="" group-title="Регионы", # Регионы -->
 
