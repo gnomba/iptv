@@ -448,9 +448,11 @@ http://91.142.158.107:8092/play/33/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2003.png" group-title="Спорт",Матч! Арена
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2054.png" group-title="Спорт",Матч! Боец
-http://92.242.110.52:9835/udp/238.1.2.7:1234
+#http://92.242.110.52:9835/udp/238.1.2.7:1234
+http://31.148.48.15:80/Match_Boec/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2050.png" group-title="Спорт",Матч! Игра
-http://31.210.208.171:8080/match_igra/index.m3u8?token=+W2MSER
+#http://31.210.208.171:8080/match_igra/index.m3u8?token=+W2MSER
+https://stream-msk-07.ott.tricolor.tv/dtv/id527_MSKSG-PVR-1--Match_Igra_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTAyNTUwMDYwNTg4MiIsImV4cCI6MTY5MjczNTA3OCwiaHdpZCI6IjA1OTgxOTUwMjliODE3MzIxYTQ2MGE3M2QwNWRjNGY5M2I5ZmM0NjM5OWFlOWRmYzJlZTZiMGUwNDVhZWViYzkiLCJsYXN0X3JlcV9kYXRlIjoxNjkyMTMwMjc4LCJzZXNzaW9uX2lkIjoiOWNmODQ0NGJiOGM3NWI5NGFjNDJiM2JkNGI3ZWMxMzIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.hUXvl74L08qIrIia8T5RQVD8khzcJt-HW6HB1kR6Shc
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2043.png" group-title="Спорт",Матч! Планета
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2250.png" group-title="Спорт",Матч! Премьер
