@@ -209,10 +209,6 @@ http://81.7.108.21:9000/play/FOXLife-DVBC354-sti4400019110528
 http://77.106.252.178:4022/udp/233.33.210.189:5050
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=2a00000179f01f9fc7f0e25f2013d18df066-4937215-images-thumbs&n=13" group-title="Кино",Kino 24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-#EXTINF:-1 tvg-logo="https://www.navigator-tv.ru/sc-pic/i12527.png" group-title="Кино",KinoLiving
-http://92.242.110.52:9835/udp/238.1.8.1:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Bn4m324/image-3.png" group-title="Кино",КІНО ТV VHS
-https://playlist.nuum.ru/live/28423/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6643.png" group-title="Кино",Plan B HD
 http://88.85.172.243:7012/play/a028
 #EXTINF:-1 tvg-logo="https://epgx.site/p/romance.png" group-title="Кино",Romance
@@ -740,6 +736,8 @@ http://188.113.190.15/41/tracks-v1a1/index.m3u8
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2229.png" group-title="Кино",Epic Drama HD
 ##EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/991/347/png-transparent-cinema-clapperboard-film-computer-icons-cine-miscellaneous-angle-text-thumbnail.png" group-title="NotFound",FILM TV
 ##EXTINF:-1 tvg-logo="https://onlineexpo.com/site/assets/files/10218/filmzone.png" group-title="NotFound",FilmZone
+##EXTINF:-1 tvg-logo="https://www.navigator-tv.ru/sc-pic/i12527.png" group-title="Кино",KinoLiving
+##EXTINF:-1 tvg-logo="https://i.ibb.co/Bn4m324/image-3.png" group-title="Кино",КІНО ТV VHS
 ##EXTINF:-1 tvg-logo="https://epgx.site/p/ntv-amerika.png" group-title="NotFound",НТВ Америка
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4864.png" group-title="NotFound",TLC
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6240.png" group-title="NotFound",START World
