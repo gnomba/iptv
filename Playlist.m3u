@@ -206,7 +206,7 @@ http://sc.id-tv.kz/FOX_HD_34_35.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/615.png" group-title="Кино",Fox Life
 http://81.7.108.21:9000/play/FOXLife-DVBC354-sti4400019110528
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/934.png" group-title="Кино",Hollywood HD
-https://strm.yandex.ru/kal/hollywood_belarus/hollywood_belarus0.m3u8
+http://77.106.252.178:4022/udp/233.33.210.189:5050
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=2a00000179f01f9fc7f0e25f2013d18df066-4937215-images-thumbs&n=13" group-title="Кино",Kino 24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 tvg-logo="https://www.navigator-tv.ru/sc-pic/i12527.png" group-title="Кино",KinoLiving
