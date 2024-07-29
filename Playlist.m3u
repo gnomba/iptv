@@ -191,6 +191,7 @@ http://78.62.135.122:8082/amediapremiumhd/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1395.png" group-title="Кино",Bollywood HD
 http://sc.id-tv.kz/bollywood_hd_34_35.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2138.png" group-title="Кино",Bolt
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o4/mtvhits/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2754.png" group-title="Кино",Cinema
 http://178.16.151.67/cinema_hd/index.m3u8
