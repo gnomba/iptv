@@ -78,9 +78,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/353.png" group-title="ТВ",ТНТ (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/5692.png" group-title="ТВ",ТНТ International (СНГ)
-http://ott-cdn.ucom.am/s19/04.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/5692.png" group-title="ТВ",ТНТ International (Европа)
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/5692.png" group-title="ТВ",ТНТ International
 http://85.187.13.40:18000/tntint
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1649.png" group-title="ТВ",ТНТ4
 http://91.205.199.3:80/tnt4/index.m3u8
@@ -190,24 +188,32 @@ http://stream01.vnet.am/Nauka/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1372.png" group-title="Кино",Amedia Premium HD
 http://78.62.135.122:8082/amediapremiumhd/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1395.png" group-title="Кино",Bollywood HD
-http://sc.id-tv.kz/bollywood_hd_34_35.m3u8
+https://stream2.cinerama.uz/1444/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2138.png" group-title="Кино",Bolt
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o4/mtvhits/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2754.png" group-title="Кино",Cinema
-http://178.16.151.67/cinema_hd/index.m3u8
+http://188.190.222.48:8765/Cinema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2359.png" group-title="Кино",FAN
-http://178.16.151.67/fan/index.m3u8
+http://94.232.104.237:8011/fan/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2182.png" group-title="Кино",FilmBox Arthouse
-http://188.113.190.15/207/mono.m3u8
+http://iptv.mega.net.ru:8888/FilmBOX_Arthouse/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/774.png" group-title="Кино",FlixSnip
-http://sc.id-tv.kz/FlixSnip.m3u8
+http://78.140.39.3/play/a01h/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.one/img/1031.png" group-title="Кино",Fox
 http://sc.id-tv.kz/FOX_HD_34_35.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/615.png" group-title="Кино",Fox Life
-http://81.7.108.21:9000/play/FOXLife-DVBC354-sti4400019110528
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/934.png" group-title="Кино",Hollywood HD
-http://77.106.252.178:4022/udp/233.33.210.189:5050
+http://hls.seversk.ru:8080/play/a01j/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/934.png" group-title="Кино",Hollywood
+https://stream2.cinerama.uz/1443/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4466.png" group-title="Кино",Kinojam 1
+rtmp://5.182.229.90//7260
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4466.png" group-title="Кино",Kinojam 1 HD
+http://135.181.115.81:8000/play/a027/index.m3u8?token=livetv
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4467.png" group-title="Кино",Kinojam 2
+rtmp://5.182.229.90//7261
+#EXTINF:-1 tvg-logo="https://www.navigator-tv.ru/sc-pic/i12527.png" group-title="Кино",KinoLiving HD
+http://31.211.77.158:8000/play/a053/index.m3u8
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=2a00000179f01f9fc7f0e25f2013d18df066-4937215-images-thumbs&n=13" group-title="Кино",Kino 24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6643.png" group-title="Кино",Plan B HD
@@ -215,44 +221,36 @@ http://88.85.172.243:7012/play/a028
 #EXTINF:-1 tvg-logo="https://epgx.site/p/romance.png" group-title="Кино",Romance
 http://146.158.0.56:80/Motosport/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2497.png" group-title="Кино",Russian Extreme
-https://strm.yandex.ru/kal/russkoe_ekstremalnoe_tv_belarus/russkoe_ekstremalnoe_tv_belarus0.m3u8
+http://178.163.99.241:4022/udp/234.0.0.173:2000
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/431.png" group-title="Кино",Shot TV
-http://92.242.110.52:9835/udp/238.1.6.2:1234
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2145.png" group-title="Кино",Star Cinema
-http://88.135.128.20:7272/szWljUvHlTAKXVa
+http://31.210.208.171:8080/shottv/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-logo="https://epgx.site/p/star-family.png" group-title="Кино",Star Family
-http://88.135.128.20:7272/MTsnTXg1kReNwSf
+http://188.190.222.48:8765/Star_Family/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6241.png" group-title="Кино",START Air
-http://92.242.110.52:9835/udp/238.1.7.28:1234
-#EXTINF:-1 tvg-logo="https://baltcom.lv/channel_logo/web_super_pluss.png" group-title="Кино",Super Plus HD
-http://88.135.128.20:7272/JkfGhb36Cvs7Fgz
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6724.png" group-title="Кино",Timeless Dizi Channel
-https://strm.yandex.ru/kal/timeless_dizi_channel_belarus/timeless_dizi_channel_belarus0.m3u8 
+http://188.190.222.48:8765/Start_Air/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6240.png" group-title="Кино",START World HD
+http://hls.seversk.ru:8080/play/a015/index.m3u
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3361.png" group-title="Кино",Trash
 https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/309.png" group-title="Кино",TV XXI
-https://strm.yandex.ru/kal/tv_21_belarus/tv_21_belarus0.m3u8
+http://91.205.199.3/tvxxi/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2743.png" group-title="Кино",Ultra HD Cinema 4K
 #EXTVLCOPT:http-user-agent=SmartTV
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qVYt8kP.png" group-title="Кино",Viasat Kino Comedy
-http://88.135.128.20:7272/5RqMvVnGzdoBQbf
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/127.png" group-title="Кино",Viju TV1000
 http://91.205.199.3:80/tv1000/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/125.png" group-title="Кино",Viju TV1000 Action
 http://91.205.199.3:80/tv1000action/index.m3u8
-#EXTINF:-1 tvg-logo="https://epgx.site/p/viju-tv1000-novella.png" group-title="Кино",Viju TV1000 Новелла
-http://158.101.194.132:8080/channel/n51877d66/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/267.png" group-title="Кино",Viju TV1000 Русское
 http://194.143.148.28:8080/TV1000RuKino/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1011.png" group-title="Кино",Viju+ Comedy
-http://188.113.190.15/203/tracks-v1a1/index.m3u8
+http://185.112.140.28/VIPComedy/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1012.png" group-title="Кино",Viju+ Megahit
-http://92.242.110.52:9835/udp/238.1.3.7:1234
+http://185.112.140.28:80/VIPMegahit/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1013.png" group-title="Кино",Viju+ Premiere
-http://188.113.190.15/201/tracks-v1a1/index.m3u8
+http://94.232.104.237:8011/natgeowild/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2838.png" group-title="Кино",Viju+ Serial
-http://176.113.48.221:8986/68
+http://91.205.199.3:80/vipserialhd/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/935.png" group-title="Кино",.black
 http://otv.wotom.net:4433/udp/238.1.1.139:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/311.png" group-title="Кино",.red
@@ -734,21 +732,22 @@ http://188.113.190.15/41/tracks-v1a1/index.m3u8
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4770.png" group-title="NotFound",BACKUS TV Original HD
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4662.png" group-title="NotFound",BACKUS TV Dark HD
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/920.png" group-title="NotFound",Comedy Central
-##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2229.png" group-title="Кино",Epic Drama HD
+##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2229.png" group-title="NotFound",Epic Drama HD
 ##EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/991/347/png-transparent-cinema-clapperboard-film-computer-icons-cine-miscellaneous-angle-text-thumbnail.png" group-title="NotFound",FILM TV
 ##EXTINF:-1 tvg-logo="https://onlineexpo.com/site/assets/files/10218/filmzone.png" group-title="NotFound",FilmZone
-##EXTINF:-1 tvg-logo="https://www.navigator-tv.ru/sc-pic/i12527.png" group-title="Кино",KinoLiving
-##EXTINF:-1 tvg-logo="https://i.ibb.co/Bn4m324/image-3.png" group-title="Кино",КІНО ТV VHS
+##EXTINF:-1 tvg-logo="https://i.ibb.co/Bn4m324/image-3.png" group-title="NotFound",КІНО ТV VHS
 ##EXTINF:-1 tvg-logo="https://epgx.site/p/ntv-amerika.png" group-title="NotFound",НТВ Америка
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4864.png" group-title="NotFound",TLC
-##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6240.png" group-title="NotFound",START World
 ##EXTINF:-1 tvg-logo="https://tvtvtv.ru/icons/filmuadrama.png" group-title="NotFound",FilmUADrama
 ##EXTINF:-1 tvg-logo="https://i.imgur.com/C2377w9.png" group-title="NotFound",VHSка
-##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4466.png" group-title="NotFound",Kinojam 1
-##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4467.png" group-title="NotFound",Kinojam 2
 ##EXTINF:-1 tvg-logo="https://epgx.site/p/tv1000-action-cee.png" group-title="NotFound",Viasat Kino Action
+##EXTINF:-1 tvg-logo="https://i.imgur.com/qVYt8kP.png" group-title="NotFound",Viasat Kino Comedy
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/983.png" group-title="NotFound",Первый канал HD
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2181.png" group-title="NotFound",FilmBox
+##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2145.png" group-title="NotFound",Star Cinema
+##EXTINF:-1 tvg-logo="https://epgx.site/p/viju-tv1000-novella.png" group-title="NotFound",Viju TV1000 Новелла
+##EXTINF:-1 tvg-logo="https://baltcom.lv/channel_logo/web_super_pluss.png" group-title="NotFound",Super Plus HD
+##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6724.png" group-title="NotFound",Timeless Dizi Channel
 ##EXTINF:-1 tvg-logo="https://epgx.site/p/okko-sport.png" group-title="NotFound",Okko.Спорт
 ##EXTINF:-1 tvg-logo="https://static8.tgcnt.ru/posts/_0/b9/b9fb6bbb41a9181bdf7c1731f0557bc3.jpg" group-title="NotFound",MediaService Lorenz TV
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4605.png" group-title="NotFound",Хоккейный
