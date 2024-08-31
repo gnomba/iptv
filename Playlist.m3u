@@ -298,7 +298,7 @@ http://94.232.104.237:8011/kinoseriya/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2493.png" group-title="Кино",Киноужас
 http://31.131.136.4:8001/play/e00b
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/542.png" group-title="Кино",Кинохит
-https://strm.yandex.ru/kal/kinohit_belarus/kinohit_belarus0.m3u8
+http://185.112.140.28/Kinohit/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6258.png" group-title="Кино",Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1037.png" group-title="Кино",Кино ТВ
@@ -307,25 +307,25 @@ http://vod.tuva.ru/kinotv/index.m3u8
 http://live-3.otcnet.ru/kinotvplus4/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1037.png" group-title="Кино",Кино ТВ (+7)
 http://live-3.otcnet.ru/kinotvplus7/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/138.png" group-title="Кино",Комедийное HD
-https://streamer1.connectto.com/519/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/138.png" group-title="Кино",Комедийное
+http://iptv.mega.net.ru:8888/Kinopokaz_HD_2/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1620.png" group-title="Кино",Комедия
 http://91.142.158.107:8092/play/30/index.m3u8
 #EXTINF:-1 tvg-logo="https://smotret.tv/images/koshmar-hd.jpg" group-title="Кино",Кошмар HD
 http://195.9.195.3:8080/hls/204709.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/477.png" group-title="Кино",Любимое Кино
-http://88.135.128.20:7272/JS7lUbMstASMl0r
+http://91.205.199.3/lubimoekino/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2275.png" group-title="Кино",Мир сериала
-https://woobl.ru/hls987/Mir_seriala.m3u8
+http://91.205.199.3/mirseriala/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2308.png" group-title="Кино",Москва Доверие
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3357.png" group-title="Кино",Мосфильм. Золотая коллекция
 http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=orh6o
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1584.png" group-title="Кино",Мужское Кино HD
-https://woobl.ru/hls987/Muzhskoe_kino_hd.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1584.png" group-title="Кино",Мужское Кино
+https://stream2.cinerama.uz/1237/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/485.png" group-title="Кино",Наше Новое Кино
-https://strm.yandex.ru/kal/nashe_novoe_kino_belarus/nashe_novoe_kino_belarus0.m3u8
+http://sc.id-tv.kz/Nnk_hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/518.png" group-title="Кино",НСТ
 http://91.142.158.107:8092/play/29/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1754.png" group-title="Кино",НТВ Сериал
@@ -337,7 +337,7 @@ http://cdn.ntv.ru/th_serial/playlist.m3u8
 #EXTVLCOPT:http-user-agent=SmartTV
 http://cdn.ntv.ru/th_hit/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2402.png" group-title="Кино",Ретро
-http://109.239.208.82:80/retro/index.m3u8
+http://178.124.179.122:8088/Retro/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/12.png" group-title="Кино",Родное кино
 https://strm.yandex.ru/kal/rodnoe_kino_belarus/rodnoe_kino_belarus0.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/994.png" group-title="Кино",Русский бестселлер
