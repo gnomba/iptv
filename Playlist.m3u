@@ -414,9 +414,9 @@ https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2052.png" group-title="Спорт",Eurosport 1
 http://45.159.74.14:80/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4313.png" group-title="Спорт",Eurosport 2
-http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
+http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2053.png" group-title="Спорт",Extreme Sports
-http://188.113.190.15/39/tracks-v1a1/index.m3u8
+http://edge02.odtv.az/o4/extremesport/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2048.png" group-title="Спорт",KHL
 https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1038.png" group-title="Спорт",KHL Prime HD
@@ -424,33 +424,33 @@ https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2055.png" group-title="Спорт",Viju+ Sport
 http://45.159.74.13:80/AutoPlus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2285.png" group-title="Спорт",Бокс ТВ
-https://strm.yandex.ru/kal/boks_tv_plus_belarus/boks_tv_plus_belarus0.m3u8
+http://95.216.40.210/bokstv/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2051.png" group-title="Спорт",Матч!
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2003.png" group-title="Спорт",Матч! Арена
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2054.png" group-title="Спорт",Матч! Боец
-http://92.242.110.52:9835/udp/238.1.2.7:1234
+http://87.120.142.11:18000/Match!
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2050.png" group-title="Спорт",Матч! Игра
 http://31.210.208.171:8080/match_igra/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2043.png" group-title="Спорт",Матч! Планета
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2250.png" group-title="Спорт",Матч! Премьер
-http://188.113.190.15/103/tracks-v1a1/index.m3u8
+http://95.216.40.210/nashfootball/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2042.png" group-title="Спорт",Матч! Страна
-http://188.113.190.15/95/tracks-v1a1/index.m3u8
+http://78.140.39.3/play/a00r/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2044.png" group-title="Спорт",Матч! Футбол 1
 http://194.143.148.28:8080/MatchFutbol1/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1042.png" group-title="Спорт",Матч! Футбол 2
-http://188.113.190.15/176/video.m3u8
+http://195.211.27.149:8887/8237/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2005.png" group-title="Спорт",Матч! Футбол 3
 http://185.57.68.33/110/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4629.png" group-title="Спорт",Мир баскетбола
-http://92.242.110.52:9835/udp/238.1.1.17:1234
+http://iptv.mega.net.ru:8888/RTD/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/tild3030-3838-4336-a231-646665626235/photo.png" group-title="Спорт",Старт
-https://strm.yandex.ru/kal/start/start0.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/rnJmy9qUzKg/hqdefault.jpg" group-title="Спорт",Старт Триумф
+https://livetv.mylifeisgood.net.ru/channels/startlive.m3u8
+#EXTINF:-1 tvg-logo="https://images.iptv.rt.ru/images/ch4dmgbmhk079s3jq2e0.png" group-title="Спорт",Старт Триумф
 https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2480.png" group-title="Спорт",Удар
 https://strm.yandex.ru/kal/udar/udar0.m3u8
