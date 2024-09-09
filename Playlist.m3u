@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz" url-tvg="http://epg.it999.ru/epg.xml.gz,http://myott.top/api/epg.xml.gz,https://iptvx.one/EPG.gz,http://www.teleguide.info/download/new3/jtv.zip,http://api.catcast.tv/api/timetable/epg.xml?channel_ids=38850,38821,38896,39484,38801,39161"
+#EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz" url-tvg="http://epg.it999.ru/epg.xml.gz,http://myott.top/api/epg.xml.gz,https://iptvx.one/EPG,http://www.teleguide.info/download/new3/jtv.zip,http://api.catcast.tv/api/timetable/epg.xml?channel_ids=38850,http://api.catcast.tv/api/timetable/epg.xml?channel_ids=38821,http://api.catcast.tv/api/timetable/epg.xml?channel_ids=38896,http://api.catcast.tv/api/timetable/epg.xml?channel_ids=39484,http://api.catcast.tv/api/timetable/epg.xml?channel_ids=38801,http://api.catcast.tv/api/timetable/epg.xml?channel_ids=39161"
 ## ,http://epg.it999.ru/ru2.xml.gz,https://gabbarit.page.link/epg
 
 ##EXTINF:-1 tvg-logo="" group-title="Радио", # Радио -->
