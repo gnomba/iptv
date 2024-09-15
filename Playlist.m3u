@@ -1,5 +1,5 @@
-#EXTM3U url-tvg="http://epg.it999.ru/epg.xml.gz "
-## https://iptvx.one/EPG, http://api.catcast.tv/api/timetable/epg.xml, http://www.teleguide.info/download/new3/jtv.zip, http://myott.top/api/epg.xml.gz
+#EXTM3U url-tvg="http://epg.it999.ru/epg.xml.gz,https://iptvx.one/EPG"
+## , http://api.catcast.tv/api/timetable/epg.xml, http://www.teleguide.info/download/new3/jtv.zip, http://myott.top/api/epg.xml.gz
 
 ##EXTINF:-1 tvg-logo="" group-title="Радио", # Радио -->
 
