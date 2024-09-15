@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://epg.it999.ru/epg.xml.gz,https://iptvx.one/EPG"
-## , http://api.catcast.tv/api/timetable/epg.xml, http://www.teleguide.info/download/new3/jtv.zip, http://myott.top/api/epg.xml.gz
+## http://api.catcast.tv/api/timetable/epg.xml, http://www.teleguide.info/download/new3/jtv.zip, http://myott.top/api/epg.xml.gz
 
 ##EXTINF:-1 tvg-logo="" group-title="Радио", # Радио -->
 
@@ -153,16 +153,19 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 https://cdn-01.bonus-tv.ru/RussiaToday/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2295.png" group-title="ТВ",RT Documentary
 https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2401.png" group-title="ТВ",RTVi
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://free-tv.me/iptv/src/s/secret_token/rtvi.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/740.png" group-title="ТВ",Карусель
 http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/898.png" group-title="ТВ",Ю
 http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/323.png" group-title="ТВ",2x2
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+http://78.62.135.122:8082/2x2/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2141.png" group-title="ТВ",Спас
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
 
 ##EXTINF:-1 tvg-logo="" group-title="Кино", # Кино -->
 
@@ -207,6 +210,9 @@ http://91.207.115.228:12000/play/a01o
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6643.png" group-title="Кино",Plan B HD
 http://88.85.172.243:7012/play/a028
+#EXTINF:-1 tvg-logo="https://epgx.site/p/romance.png" group-title="Кино",Romance
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://free-tv.me/iptv/src/s/secret_token/romance-hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2497.png" group-title="Кино",Russian Extreme
 http://178.163.99.241:4022/udp/234.0.0.173:2000
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/431.png" group-title="Кино",Shot TV
@@ -701,7 +707,6 @@ http://188.113.190.15/41/tracks-v1a1/index.m3u8
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1395.png" group-title="NotFound",Bollywood HD
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/920.png" group-title="NotFound",Comedy Central
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2229.png" group-title="NotFound",Epic Drama HD
-##EXTINF:-1 tvg-logo="https://epgx.site/p/romance.png" group-title="NotFound",Romance
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/799.png" group-title="NotFound",Киносерия
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/12.png" group-title="NotFound",Родное кино
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1584.png" group-title="NotFound",Мужское Кино HD
