@@ -69,7 +69,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/353.png" group-title="ТВ",ТНТ (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/5692.png" group-title="ТВ",ТНТ International
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/5692.png" group-title="ТВ",ТНТ-International (Европа)
 http://85.187.13.40:18000/tntint
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1649.png" group-title="ТВ",ТНТ4
 http://91.205.199.3:80/tnt4/index.m3u8
@@ -151,11 +151,11 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2269.png" group-title="ТВ",RT
 https://cdn-01.bonus-tv.ru/RussiaToday/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2295.png" group-title="ТВ",RT Documentary
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2295.png" group-title="ТВ",RT Д
 https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2401.png" group-title="ТВ",RTVi
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
-https://free-tv.me/iptv/src/s/secret_token/rtvi.m3u8
+http://45.143.108.110:2203/RTVi
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/740.png" group-title="ТВ",Карусель
 http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/898.png" group-title="ТВ",Ю
@@ -165,7 +165,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
 http://78.62.135.122:8082/2x2/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2141.png" group-title="ТВ",Спас
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
+http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
 
 ##EXTINF:-1 tvg-logo="" group-title="Кино", # Кино -->
 
@@ -227,9 +227,9 @@ http://hls.seversk.ru:8080/play/a015/index.m3u
 https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/309.png" group-title="Кино",TV XXI
 http://91.205.199.3/tvxxi/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2743.png" group-title="Кино",Ultra HD Cinema 4K
-#EXTVLCOPT:http-user-agent=SmartTV
-https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2743.png" group-title="Кино",Ultra HD Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_3840x2160_avc1/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/127.png" group-title="Кино",Viju TV1000
 http://91.205.199.3:80/tv1000/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/125.png" group-title="Кино",Viju TV1000 Action
@@ -402,7 +402,7 @@ http://45.159.74.13:80/AutoPlus/tracks-v1a1/mono.m3u8
 http://95.216.40.210/bokstv/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2051.png" group-title="Спорт",Матч!
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+http://91.142.158.107:8092/play/33/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2003.png" group-title="Спорт",Матч! Арена
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2054.png" group-title="Спорт",Матч! Боец
