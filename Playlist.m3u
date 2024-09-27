@@ -110,7 +110,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R03_ZVEZDA/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4661.png" group-title="ТВ",Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2447.png" group-title="ТВ",Победа
-http://94.232.104.237:8011/pobeda/index.m3u8
+http://91.205.199.3/pobeda/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/427.png" group-title="ТВ",Пятый канал
 http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/649.png" group-title="ТВ",ТВЦ
@@ -228,8 +228,8 @@ https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/309.png" group-title="Кино",TV XXI
 http://91.205.199.3/tvxxi/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2743.png" group-title="Кино",Ultra HD Cinema
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_3840x2160_avc1/variant.m3u8
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/127.png" group-title="Кино",Viju TV1000
 http://91.205.199.3:80/tv1000/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/125.png" group-title="Кино",Viju TV1000 Action
