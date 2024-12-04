@@ -52,7 +52,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/41219584b8e354b22a91aba680726079.png" group-title="ТВ",Россия 1 (+5)
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 #https://player.smotrim.ru/iframe/stream/live_id/60264
-https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_IRK_ROSSIA1/variant.m3u8
+http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_IRK_ROSSIA1/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3002.png" group-title="ТВ",Россия 1 (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 #https://player.smotrim.ru/iframe/stream/live_id/58509
