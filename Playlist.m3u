@@ -106,7 +106,8 @@ http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
 https://player.smotrim.ru/iframe/stream/live_id/21
 #EXTINF:-1 tvg-logo="https://avatars.dzeninfra.ru/get-zen-logos/1670662/pub_601a8695cb6f7a60d97d1b39_636134363694f30c570d6264/xxh" group-title="ТВ",Соловьев.Live
 #https://player.smotrim.ru/iframe/stream/live_id/63338
-https://player.smotrim.ru/iframe/stream/live_id/63338?43e=5.m3u8
+#https://player.smotrim.ru/iframe/stream/live_id/63338?43e=5.m3u8
+http://178.57.121.38:8080/idxtra/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2271.png" group-title="ТВ",Известия
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/162.png" group-title="ТВ",НТВ
