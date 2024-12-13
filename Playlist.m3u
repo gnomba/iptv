@@ -26,11 +26,10 @@ http://icecast.vgtrk.cdnvideo.ru/kulturafm
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/146.png" group-title="ТВ",Первый канал
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/711.png" group-title="ТВ",Россия 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/711.png" group-title="ТВ",Россия 1 HD
 #https://player.smotrim.ru/iframe/stream/live_id/2961
 #https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
-http://dmi3y-tv.ru/hls/T2/CH_RUSSIA1.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/8cdec831496c1d63e65cbb8898216977.png" group-title="ТВ",Россия 1 (-1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8
@@ -106,7 +105,8 @@ http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1683.png" group-title="ТВ",Россия 24
 https://player.smotrim.ru/iframe/stream/live_id/21
 #EXTINF:-1 tvg-logo="https://avatars.dzeninfra.ru/get-zen-logos/1670662/pub_601a8695cb6f7a60d97d1b39_636134363694f30c570d6264/xxh" group-title="ТВ",Соловьев.Live
-https://player.smotrim.ru/iframe/stream/live_id/63338
+#https://player.smotrim.ru/iframe/stream/live_id/63338
+https://player.smotrim.ru/iframe/stream/live_id/63338?43e=5.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2271.png" group-title="ТВ",Известия
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/162.png" group-title="ТВ",НТВ
