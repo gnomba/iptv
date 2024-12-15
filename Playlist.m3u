@@ -13,6 +13,8 @@ http://iskatel.hostingradio.ru:8015/iskatel-128.mp3
 http://nashe1.hostingradio.ru:80/nashe-256
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/8/1556387358.jpg" group-title="Радио",Радио Вести FM
 http://icecast.vgtrk.cdnvideo.ru/vestifm
+#EXTINF:-1 tvg-logo="https://dancemelody.ru/edd/gordost.webp" group-title="Радио",Радио Гордость
+https://strm.yandex.ru/kal/fm_gordost/fm_gordost0.m3u8
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/be/70/17398/c300.png" group-title="Радио",Радио Маяк
 http://icecast.vgtrk.cdnvideo.ru/mayakfm
 #EXTINF:-1 tvg-id="radio-mir" tvg-logo="https://epgx.site/p/radio-mir.png" group-title="Радио",Радио Мир
