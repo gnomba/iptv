@@ -3,26 +3,29 @@
 
 ##EXTINF:-1 tvg-logo="" group-title="Радио", # Радио -->
 
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/0705130436.jpg" group-title="Радио",Radio Ultra
+#EXTINF:-1 tvg-logo="https://dancemelody.ru/edd/ultra.webp" group-title="Радио",Radio Ultra
 http://nashe1.hostingradio.ru/ultra-192.mp3
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1436065484.jpg" group-title="Радио",RockFM
+#EXTINF:-1 tvg-logo="https://dancemelody.ru/edd/rockfm.webp" group-title="Радио",RockFM
 http://nashe1.hostingradio.ru/rock-128.mp3
-#EXTINF:-1 tvg-logo="https://radioiskatel.ru/wp-content/uploads/2021/12/uu7Dexi4C4A.jpg" group-title="Радио",Искатель
-http://iskatel.hostingradio.ru:8015/iskatel-128.mp3
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1537439750.jpg" group-title="Радио",НАШЕ Радио
-http://nashe1.hostingradio.ru:80/nashe-256
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/8/1556387358.jpg" group-title="Радио",Радио Вести FM
+#EXTINF:-1 tvg-logo="https://dancemelody.ru/edd/vestifm.webp" group-title="Радио",Вести FM
 http://icecast.vgtrk.cdnvideo.ru/vestifm
+##EXTINF:-1 tvg-logo="https://radioiskatel.ru/wp-content/uploads/2021/12/uu7Dexi4C4A.jpg" group-title="Радио",Искатель
+#EXTINF:-1 tvg-logo="https://amradio.ru/uploads/img/russia/internet/iskatel-russia.png" group-title="Радио",Искатель
+http://iskatel.hostingradio.ru:8015/iskatel-128.mp3
+#EXTINF:-1 tvg-logo="https://dancemelody.ru/edd/nashe.webp" group-title="Радио",НАШЕ Радио
+http://nashe1.hostingradio.ru:80/nashe-256
 #EXTINF:-1 tvg-logo="https://dancemelody.ru/edd/gordost.webp" group-title="Радио",Радио Гордость
 https://strm.yandex.ru/kal/fm_gordost/fm_gordost0.m3u8
-#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/be/70/17398/c300.png" group-title="Радио",Радио Маяк
+#EXTINF:-1 tvg-logo="https://dancemelody.ru/edd/mayak.webp" group-title="Радио",Радио Маяк
 http://icecast.vgtrk.cdnvideo.ru/mayakfm
-#EXTINF:-1 tvg-id="radio-mir" tvg-logo="https://epgx.site/p/radio-mir.png" group-title="Радио",Радио Мир
+#EXTINF:-1 tvg-id="radio-mir" tvg-logo="https://dancemelody.ru/edd/mir.webp" group-title="Радио",Радио Мир
 http://icecast-mirtv.cdnvideo.ru:8000/radio_mir_256
-#EXTINF:-1 tvg-logo="https://sun1-85.userapi.com/cCG-qDVN3Gir9dWwjUKdjyrLsU439-FGNO08ig/aXLgZ69YGjo.jpg" group-title="Радио",Радио России
+#EXTINF:-1 tvg-logo="https://dancemelody.ru/edd/radiorus.webp" group-title="Радио",Радио России
 http://icecast.vgtrk.cdnvideo.ru/rrzonam
-#EXTINF:-1 tvg-logo="http://mediatrap.ru/images/radio/81.png" group-title="Радио",Радио Культура
+#EXTINF:-1 tvg-logo="https://dancemelody.ru/edd/cultura.webp" group-title="Радио",Радио Культура
 http://icecast.vgtrk.cdnvideo.ru/kulturafm
+#EXTINF:-1 tvg-logo="https://dancemelody.ru/edd/solovievfm.webp" group-title="Радио",Соловьёв FM
+https://solovievfm.hostingradio.ru/solovievfm128.aacp
 
 ##EXTINF:-1 tvg-logo="" group-title="ТВ", # ТВ -->
 
