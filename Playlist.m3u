@@ -23,7 +23,7 @@ http://icecast-mirtv.cdnvideo.ru:8000/radio_mir_256
 http://icecast.vgtrk.cdnvideo.ru/rrzonam
 #EXTINF:-1 tvg-logo="https://dancemelody.ru/edd/cultura.webp" group-title="Радио",Радио Культура
 http://icecast.vgtrk.cdnvideo.ru/kulturafm
-#EXTINF:-1 tvg-logo="https://dancemelody.ru/edd/solovievfm.webp" group-title="Радио",Соловьёв FM
+#EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://dancemelody.ru/edd/solovievfm.webp" group-title="Радио",Соловьёв FM
 https://solovievfm.hostingradio.ru/solovievfm128.aacp
 
 ##EXTINF:-1 tvg-logo="" group-title="ТВ", # ТВ -->
