@@ -9,7 +9,6 @@ http://nashe1.hostingradio.ru/ultra-192.mp3
 http://nashe1.hostingradio.ru/rock-128.mp3
 #EXTINF:-1 tvg-logo="https://dancemelody.ru/edd/vestifm.webp" group-title="Радио",Вести FM
 http://icecast.vgtrk.cdnvideo.ru/vestifm
-##EXTINF:-1 tvg-logo="https://radioiskatel.ru/wp-content/uploads/2021/12/uu7Dexi4C4A.jpg" group-title="Радио",Искатель
 #EXTINF:-1 tvg-logo="https://amradio.ru/uploads/img/russia/internet/iskatel-russia.png" group-title="Радио",Искатель
 http://iskatel.hostingradio.ru:8015/iskatel-128.mp3
 #EXTINF:-1 tvg-logo="https://dancemelody.ru/edd/nashe.webp" group-title="Радио",НАШЕ Радио
@@ -58,8 +57,7 @@ https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOB
 http://dmi3y-tv.ru/hls/T2/CH_RUSSIA1_4.m3u8
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/41219584b8e354b22a91aba680726079.png" group-title="ТВ",Россия 1 (+5)
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
-#https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_IRK_ROSSIA1/variant.m3u8
-https://player.smotrim.ru/iframe/stream/live_id/60264
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1_5.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3002.png" group-title="ТВ",Россия 1 (+6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #https://player.smotrim.ru/iframe/stream/live_id/58509
@@ -91,7 +89,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/5692.png" group-title="ТВ",ТНТ-International (Европа)
 http://85.187.13.40:18000/tntint
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1649.png" group-title="ТВ",ТНТ4
-http://91.205.199.3:80/tnt4/index.m3u8
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1649.png" group-title="ТВ",ТНТ4 (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8?version=2
@@ -103,12 +102,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8?version=2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/187.png" group-title="ТВ",Россия К
 http://s18209.cdn.ngenix.net/hls/CH_R02_ROSSIAK/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/187.png" group-title="ТВ",Россия К
-https://player.smotrim.ru/iframe/stream/live_id/19201
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1683.png" group-title="ТВ",Россия 24
 http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1683.png" group-title="ТВ",Россия 24
-https://player.smotrim.ru/iframe/stream/live_id/21
 #EXTINF:-1 tvg-logo="https://avatars.dzeninfra.ru/get-zen-logos/1670662/pub_601a8695cb6f7a60d97d1b39_636134363694f30c570d6264/xxh" group-title="ТВ",Соловьев.Live
 #https://player.smotrim.ru/iframe/stream/live_id/63338
 #https://player.smotrim.ru/iframe/stream/live_id/63338?43e=5.m3u8
@@ -131,7 +126,8 @@ http://s18209.cdn.ngenix.net/hls/CH_R03_ZVEZDA/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4661.png" group-title="ТВ",Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2447.png" group-title="ТВ",Победа
-http://91.205.199.3/pobeda/index.m3u8
+#EXTVLCOPT:http-referrer=https://pobeda.tv/
+https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b5128000_slru.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/427.png" group-title="ТВ",Пятый канал
 http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/649.png" group-title="ТВ",ТВЦ
@@ -139,13 +135,13 @@ http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/649.png" group-title="ТВ",ТВЦ
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/649.png" group-title="ТВ",ТВЦ (+2)
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/649.png" group-title="ТВ",ТВЦ +2
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/649.png" group-title="ТВ",ТВЦ (+4)
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/649.png" group-title="ТВ",ТВЦ +4
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/649.png" group-title="ТВ",ТВЦ (+7)
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/649.png" group-title="ТВ",ТВЦ +7
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/743.png" group-title="ТВ",РБК
@@ -183,7 +179,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/323.png" group-title="ТВ",2x2
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
-http://78.62.135.122:8082/2x2/index.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2141.png" group-title="ТВ",Спас
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
