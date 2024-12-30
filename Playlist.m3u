@@ -224,27 +224,24 @@ rtmp://5.182.229.90//7261
 http://31.211.77.158:8000/play/a053/index.m3u8
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=2a00000179f01f9fc7f0e25f2013d18df066-4937215-images-thumbs&n=13" group-title="Кино",Kino 24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6643.png" group-title="Кино",Plan B HD
-http://88.85.172.243:7012/play/a028
 #EXTINF:-1 tvg-logo="https://epgx.site/p/romance.png" group-title="Кино",Romance
-#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
-https://free-tv.me/iptv/src/s/secret_token/romance-hd.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2497.png" group-title="Кино",Russian Extreme
-http://178.163.99.241:4022/udp/234.0.0.173:2000
+http://88.218.242.237:8000/play/a004
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/431.png" group-title="Кино",Shot TV
 http://31.210.208.171:8080/shottv/index.m3u8?token=+W2MSER
-#EXTINF:-1 tvg-logo="https://epgx.site/p/star-family.png" group-title="Кино",Star Family
-http://188.190.222.48:8765/Star_Family/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6241.png" group-title="Кино",START Air
-http://188.190.222.48:8765/Start_Air/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6240.png" group-title="Кино",START World HD
-http://hls.seversk.ru:8080/play/a015/index.m3u
+#EXTINF:-1 tvg-logo="https://epgx.site/p/star-family.png" group-title="Кино",Star Family HD
+http://api.peers.tv/timeshift/star_family_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzU2Mjc1ODAsImlhdCI6MTczNTU0MTE4MCwiY2lkIjo2LCJ1aWQiOjg3NjM0NDA2MCwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.gK5rOzcmDnGsZ2vxG15Jq9lJ-KhpEbEL4_abBXgqRi8&offset=3
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6241.png" group-title="Кино",Start Air HD
+#EXTVLCOPT:http-user-agent=SmartTV
+https://mhd128.iptv2022.com/p/O1bIHtQQXU1LTS5uOfPmsA,1735588821/streaming/start_air/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6240.png" group-title="Кино",Start World HD
+#EXTVLCOPT:http-user-agent=SmartTV
+https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3361.png" group-title="Кино",Trash
 https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/309.png" group-title="Кино",TV XXI
 http://91.205.199.3/tvxxi/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2743.png" group-title="Кино",Ultra HD Cinema
-#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=SmartTV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/127.png" group-title="Кино",Viju TV1000
 http://91.205.199.3:80/tv1000/index.m3u8
@@ -256,8 +253,8 @@ http://194.143.148.28:8080/TV1000RuKino/mpegts
 http://91.205.199.3/vipcomedi/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1012.png" group-title="Кино",Viju+ Megahit
 http://91.205.199.3/vipmegahit/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1013.png" group-title="Кино",Viju+ Premiere
-http://iptv.mega.net.ru:8888/ViP_Premiere_HD/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1013.png" group-title="Кино",Viju+ Premiere HD
+http://api.peers.tv/timeshift/tv1000_premium_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzU2Mjc1ODAsImlhdCI6MTczNTU0MTE4MCwiY2lkIjo2LCJ1aWQiOjg3NjM0NDA2MCwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.gK5rOzcmDnGsZ2vxG15Jq9lJ-KhpEbEL4_abBXgqRi8&offset=3
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2838.png" group-title="Кино",Viju+ Serial
 http://91.205.199.3:80/vipserialhd/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/935.png" group-title="Кино",.black
@@ -412,6 +409,8 @@ http://edge02.odtv.az/o4/extremesport/playlist.m3u8
 https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1038.png" group-title="Спорт",KHL Prime HD
 https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2497.png" group-title="Спорт",Russian Extreme HD
+http://stream-msk-06.ott.tricolor.tv/dtv/id294_MSKSG-PVR-1--HD_Russkiy_Extreme/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczNjA3NDQ3MiwiaHdpZCI6ImIzYTQxNDUxM2JmOGQyZDBlOTRiMzY3OWQyMGMxOTVlZjVmOTk3ZGM2ODM2NmRjMDkyNGQwMzI4NjgyNmVmNTQiLCJsYXN0X3JlcV9kYXRlIjoxNzM1NDY5NjcyLCJzZXNzaW9uX2lkIjoiNTQ0MzNjZmRlYzE1ZWRiZjU0ODg1ZDZhY2QwZTBjNTEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.qNTswbuFF5cBkCMHDkuC5SgNtc5PzAyjlFgnEfbBvRE
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2055.png" group-title="Спорт",Viju+ Sport
 http://45.159.74.13:80/AutoPlus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2285.png" group-title="Спорт",Бокс ТВ
@@ -717,6 +716,7 @@ http://188.113.190.15/41/tracks-v1a1/index.m3u8
 
 ##EXTINF:-1 tvg-logo="" group-title="NotFound", # NotFound -->
 
+##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6643.png" group-title="NotFound",Plan B HD
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4770.png" group-title="NotFound",BACKUS TV Original HD
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4662.png" group-title="NotFound",BACKUS TV Dark HD
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6262.png" group-title="NotFound",BackusTV Music
