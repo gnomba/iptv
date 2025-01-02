@@ -234,7 +234,7 @@ http://hls.peers.tv/streaming/star_cinema_hd/16/copy_a/playlist.m3u8?token=eyJhb
 http://api.peers.tv/timeshift/star_family_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzU4OTM5ODAsImlhdCI6MTczNTgwNzU4MCwiY2lkIjo2LCJ1aWQiOjg3Nzc0NDY3MywicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.j7uZPWNE7FKuF01GgmWhFgRq0iOAy1XwF52K62nclik&offset=3
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6241.png" group-title="Кино",Start Air HD
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/O1bIHtQQXU1LTS5uOfPmsA,1735588821/streaming/start_air/324/1/tracks-v5a1/mono.m3u8
+http://live.admuspeh.my/8398/index.m3u8?token=iptvshared
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6240.png" group-title="Кино",Start World HD
 #EXTVLCOPT:http-user-agent=SmartTV
 https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
@@ -243,7 +243,7 @@ https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/309.png" group-title="Кино",TV XXI
 http://91.205.199.3/tvxxi/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2743.png" group-title="Кино",Ultra HD Cinema
-#EXTVLCOPT:http-user-agent=SmartTV
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/127.png" group-title="Кино",Viju TV1000
 http://91.205.199.3:80/tv1000/index.m3u8
