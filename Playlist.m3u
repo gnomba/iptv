@@ -490,6 +490,8 @@ http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_YARL_GTREG/variant.m3u
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/don24.jpg" group-title="Регионы",Дон 24
 https://donmedia.bonus-tv.ru/cdn/donmedia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/ewpatorya24.png" group-title="Регионы",Евпатория 24
+http://195.26.83.96:7021/play/52/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/5819.png" group-title="Регионы",Енисей регион
 https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sun9-35.userapi.com/impg/sgS8RrNd-P2cuSEEY79JAB0y6YcT7p08GDWTgQ/SNf7cS0yNJw.jpg?size=1280x1280&quality=95&sign=68ee0a60c96534955a76f4aae7a55819&type=album" group-title="Регионы",За!ТВ (Запорожье)
@@ -518,13 +520,19 @@ https://livetv.mylifeisgood.net.ru/channels/moscow24.m3u8
 https://strm.yandex.ru/kal/sibir/sibir0.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/7698.png" group-title="Регионы",Нижний Новгород 24
 https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s00.yaplakal.com/pics/pics_original/3/4/2/5599243.png" group-title="Регионы",Новороссия ТВ
+http://130.193.73.10:8937/play/a002
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6745.png" group-title="Регионы",НТС Иркутск
 http://194.143.148.28:8080/NTS/mpegts
 #EXTINF:-1 tvg-logo="https://nts-tv.ru/sites/default/files/branding/nts_logo.png" group-title="Регионы",НТС Иркутск
 http://tv.streams.baikal-telecom.net/NTS/index.m3u8
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/nts-sevastopol.png" group-title="Регионы",НТС Севастополь
+http://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://filarmonia-donetsk.ru/wp-content/uploads/2016/07/oplot.png" group-title="Регионы", Оплот ТВ
 http://130.193.73.10:8937/play/a003
+#EXTINF:-1 tvg-logo="https://tvtvtv.ru/icons/oplot_2.png" group-title="Регионы",Оплот 2
+http://130.193.73.10:8937/play/a004
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2472.png" group-title="Регионы",Первый Крымский
 http://live1.trkcrimea.ru/1tvcrimea.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/7711.png" group-title="Регионы",Первый Ярославский
@@ -546,9 +554,12 @@ http://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R01_ROSTOVPAPA/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_RYBINSK40/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/690.png" group-title="Регионы",Санкт-Петербург
-https://player.smotrim.ru/iframe/stream/live_id/62037
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/7692.png" group-title="Регионы",Своё ТВ Ставрополь
 https://svoetv.mediacdn.ru/cdn/svoetv/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/sever.png" group-title="Регионы",Север 
+http://live2.mediacdn.ru/sr1/sever/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2830.png" group-title="Регионы",Сочи 24 HD
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/tavria.png" group-title="Регионы",Таврия ТВ
