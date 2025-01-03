@@ -468,8 +468,9 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/play
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Channel4_logo.jpg" group-title="Регионы",4 канал (Екатеринбург)
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/5816.png" group-title="Регионы",Аист (Иркутск)
-http://tv.streams.baikal-telecom.net/Aist/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/5816.png" group-title="Регионы",Аист
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_AIST/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2168.png" group-title="Регионы",Астрахань 24
 http://astrakhan24.mediacdn.ru:80/cdn/astrakhan24/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2170.png" group-title="Регионы",Беларусь 24
@@ -712,7 +713,7 @@ http://stream01.vnet.am/Tiji/mono.m3u8
 https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2438.png" group-title="Детские",Капитан Фантастика HD
 https://strm.yandex.ru/kal/kapitan_fantastika_belarus/kapitan_fantastika_belarus0.m3u8
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/get-kinopoisk-post-img/1642096/6945a62f5973ef30e6bb7ba067bca298/960" group-title="Детские",Лёва
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/liova.png" group-title="Детские",Лёва
 http://strm.yandex.ru/kal/leva/leva0.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/618.png" group-title="Детские",Мама
 http://stv.mediacdn.ru/live/cdn/mama/playlist_sdhigher.m3u8
