@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 ## http://epg.it999.ru/epg.xml.gz, http://api.catcast.tv/api/timetable/epg.xml, http://www.teleguide.info/download/new3/jtv.zip, http://myott.top/api/epg.xml.gz
 
-##EXTINF:-1 tvg-logo="" group-title="Радио", # Радио -->
+###- РАДИО -###
 
 #EXTINF:-1 tvg-logo="https://dancemelody.ru/edd/ultra.webp" group-title="Радио",Radio Ultra
 http://nashe1.hostingradio.ru/ultra-192.mp3
@@ -26,7 +26,7 @@ http://icecast.vgtrk.cdnvideo.ru/kulturafm
 #EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://dancemelody.ru/edd/solovievfm.webp" group-title="Радио",Соловьёв FM
 https://solovievfm.hostingradio.ru/solovievfm128.aacp
 
-##EXTINF:-1 tvg-logo="" group-title="ТВ", # ТВ -->
+###- ТВ -###
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/146.png" group-title="ТВ",Первый канал
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
@@ -183,7 +183,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
 
-##EXTINF:-1 tvg-logo="" group-title="Кино", # Кино -->
+###- КИНО -###
 
 #EXTINF:-1 tvg-logo="https://uzon.tv/uploads/posts/2021-04/312.jpg" group-title="Кино",312
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
@@ -362,7 +362,7 @@ http://stream01.vnet.am/Telekafe/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2404.png" group-title="Кино",Феникс Плюс Кино
 http://78.140.39.3/play/a010/index.m3u8
 
-##EXTINF:-1 tvg-logo="" group-title="Музыка", # Музыка -->
+###- МУЗЫКА -###
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/151.png" group-title="Музыка",Bridge
 http://hls.seversk.ru:8080/play/a00z/index.m3u8
@@ -403,7 +403,7 @@ https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2278.png" group-title="Музыка",Шансон ТВ
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 
-##EXTINF:-1 tvg-logo="" group-title="Спорт", # Спорт -->
+###- СПОРТ -###
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2052.png" group-title="Спорт",Eurosport 1
 http://45.159.74.14:80/Eurosport/tracks-v1a2/mono.m3u8
@@ -453,7 +453,7 @@ https://strm.yandex.ru/kal/udar/udar0.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2782.png" group-title="Спорт",Футбол
 https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
 
-##EXTINF:-1 tvg-logo="" group-title="Регионы", # Регионы -->
+###- РЕГИОНЫ -###
 
 #EXTINF:-1 tvg-logo="https://dan-news.ru/storage/c/2022/02/15/1644911761_141773_87.jpg" group-title="Регионы",1 Республиканский
 http://130.193.73.10:8937/play/a001
@@ -524,6 +524,8 @@ http://tv.streams.baikal-telecom.net/NTS/index.m3u8
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
 #EXTINF:-1 tvg-logo="http://filarmonia-donetsk.ru/wp-content/uploads/2016/07/oplot.png" group-title="Регионы", Оплот ТВ
 http://130.193.73.10:8937/play/a003
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2472.png" group-title="Регионы",Первый Крымский
+http://live1.trkcrimea.ru/1tvcrimea.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/7711.png" group-title="Регионы",Первый Ярославский
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
 #EXTINF:-1 tvg-logo="https://1yar.tv/photos/!design/logoNewBig.png" group-title="Регионы",Первый Ярославский
@@ -545,17 +547,20 @@ https://player.smotrim.ru/iframe/stream/live_id/62037
 https://svoetv.mediacdn.ru/cdn/svoetv/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2830.png" group-title="Регионы",Сочи 24 HD
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.mycdn.me/i?r=BDGmhjfL9BzD6NIU04xipmtvOuhVZP67_4PuV8ZrZQ45IyOICUJLJJKT7yTs2n6kwEg" group-title="Регионы",Таврия (Херсон)
-https://streaming.televizor-24-tochka.ru/live/24.m3u8
+#EXTINF:-1 tvg-logo="https://tavria.tv/_ipx/q_80&f_jpeg/imgs/video-player/cover.png" group-title="Регионы",Таврия ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tavria.tv/181b3567-c96d-4fe3-8385-6e9f9a1cd69b
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/tv3-by.png" group-title="Регионы",ТВ3 Беларусь
 http://93.189.224.246:52900/play/a00f/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/7687.png" group-title="Регионы",Ульяновская правда
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R01_ULPRAVDA/variant.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2578.png" group-title="Регионы",Хабар 24
+https://stream-msk-17.ott.tricolor.tv/dtv/id947_MSKSG-PVR-1--KZ24_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczNjA3NDQ3MiwiaHdpZCI6ImIzYTQxNDUxM2JmOGQyZDBlOTRiMzY3OWQyMGMxOTVlZjVmOTk3ZGM2ODM2NmRjMDkyNGQwMzI4NjgyNmVmNTQiLCJsYXN0X3JlcV9kYXRlIjoxNzM1NDY5NjcyLCJzZXNzaW9uX2lkIjoiNTQ0MzNjZmRlYzE1ZWRiZjU0ODg1ZDZhY2QwZTBjNTEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.qNTswbuFF5cBkCMHDkuC5SgNtc5PzAyjlFgnEfbBvRE
 #EXTINF:-1 tvg-logo="https://iursdn.ru/images/news/2023/01/30/sajt%20union.png" group-title="Регионы",Юнион (ДНР)
 http://130.193.73.10:8937/play/a005
 
-##EXTINF:-1 tvg-logo="" group-title="Разное", # Разное -->
+###- РАЗНОЕ -###
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2423.png" group-title="Разное",365 дней
 http://146.158.0.56:80/365dney/index.m3u8
@@ -696,7 +701,7 @@ http://109.239.208.82:80/tochka/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/434.png" group-title="Разное",Усадьба
 http://176.113.48.221:8986/188
 
-##EXTINF:-1 tvg-logo="" group-title="Детские", # Детские -->
+###- ДЕТСКИЕ -###
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2011.png" group-title="Детские",Ani
 http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
@@ -727,7 +732,7 @@ http://83.234.207.29:8003/play/a01f/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/66.png" group-title="Детские",Уникум
 http://188.113.190.15/41/tracks-v1a1/index.m3u8
 
-##EXTINF:-1 tvg-logo="" group-title="NotFound", # NotFound -->
+###- NOTFOUND -###
 
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6643.png" group-title="NotFound",Plan B HD
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4770.png" group-title="NotFound",BACKUS TV Original HD
