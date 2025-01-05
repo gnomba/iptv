@@ -303,6 +303,8 @@ http://vod.tuva.ru/kinotv/index.m3u8
 http://live-3.otcnet.ru/kinotvplus4/index.m3u8
 #EXTINF:-1 tvg-id="kino-tv-pl7" tvg-logo="http://epg.it999.ru/img/1037.png" group-title="Кино",Кино ТВ (+7)
 http://live-3.otcnet.ru/kinotvplus7/index.m3u8
+#EXTINF:-1 tvg-id="rus-hualiang-tv" tvg-logo="https://iptvx.one/picons/rus-hualiang-tv.png" group-title="Кино",Китай ТВ
+https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
 #EXTINF:-1 tvg-id="komedijnoe" tvg-logo="http://epg.it999.ru/img/138.png" group-title="Кино",Комедийное
 http://stream-msk-06.ott.tricolor.tv/dtv/id513_MSKSG-PVR-1--Komediinoe/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczNjYyMDAyMSwiaHdpZCI6ImJhNDM4OGI2N2NlNjg5ZmMwYWRlODE3OTlhYWNkZDZhNzg2ZmMxZWI5MzQ4M2YwYTEwMjNhZTViMmMyNDYwM2EiLCJsYXN0X3JlcV9kYXRlIjoxNzM2MDE1MjIxLCJzZXNzaW9uX2lkIjoiOTJhYTUyNTU3NGNmZDI0Yjc0ODNkNzUxZjI4OGIwOWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.uLo0cmjeeqr30_OOnEnsGj1VydNMcMt9G-Rr1Tjjt_Q
 #EXTINF:-1 tvg-id="russkaya-komedia" tvg-logo="http://epg.it999.ru/img/1620.png" group-title="Кино",Комедия
@@ -575,8 +577,6 @@ http://146.158.0.56:80/365dney/index.m3u8
 http://45.159.74.14:80/AnimalPlanet/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="big-planet" tvg-logo="http://epg.it999.ru/img/7623.png" group-title="Разное",Big Planet
 http://92.242.110.52:9835/udp/238.1.8.20:1234
-#EXTINF:-1 tvg-id="da-vinci" tvg-logo="http://epg.it999.ru/img/410.png" group-title="Разное",Da Vinci
-http://stream2.cinerama.uz/1231/mono.m3u8
 #EXTINF:-1 tvg-id="discovery-channel" tvg-logo="http://epg.it999.ru/img/325.png" group-title="Разное",Discovery Channel
 http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="e-tv" tvg-logo="http://epg.it999.ru/img/1676.png" group-title="Разное",E TV
@@ -704,6 +704,8 @@ http://176.113.48.221:8986/188
 
 #EXTINF:-1 tvg-id="ani" tvg-logo="http://epg.it999.ru/img/2011.png" group-title="Детские",Ani
 http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
+#EXTINF:-1 tvg-id="da-vinci" tvg-logo="http://epg.it999.ru/img/410.png" group-title="Детские",Da Vinci
+http://stream2.cinerama.uz/1231/mono.m3u8
 #EXTINF:-1 tvg-id="tiji" tvg-logo="http://epg.it999.ru/img/555.png" group-title="Детские",Tiji
 http://stream01.vnet.am/Tiji/mono.m3u8
 #EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-logo="http://epg.it999.ru/img/2027.png" group-title="Детские",В гостях у сказки
