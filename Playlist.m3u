@@ -361,7 +361,7 @@ http://91.197.104.34/AAC/mono.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-dance" tvg-logo="http://epg.it999.ru/img/2024.png" group-title="Музыка",Bridge Hits
 https://livetv.mylifeisgood.net.ru/channels/bridgehitstv.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-rock" tvg-logo="http://epg.it999.ru/img/6188.png" group-title="Музыка",Bridge Rock
-http://hls.seversk.ru:8080/play/a012/index.m3u8
+https://stream-msk-16.ott.tricolor.tv/dtv/id910_MSKSG-PVR-1--Bridge_rock_hd/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczNjYyMDAyMSwiaHdpZCI6ImJhNDM4OGI2N2NlNjg5ZmMwYWRlODE3OTlhYWNkZDZhNzg2ZmMxZWI5MzQ4M2YwYTEwMjNhZTViMmMyNDYwM2EiLCJsYXN0X3JlcV9kYXRlIjoxNzM2MDE1MjIxLCJzZXNzaW9uX2lkIjoiOTJhYTUyNTU3NGNmZDI0Yjc0ODNkNzUxZjI4OGIwOWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.uLo0cmjeeqr30_OOnEnsGj1VydNMcMt9G-Rr1Tjjt_Q
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" tvg-logo="http://epg.it999.ru/img/591.png" group-title="Музыка",Bridge Русский Хит
 http://stream01.vnet.am/Channel_115/mono.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-shlager" tvg-logo="http://epg.it999.ru/img/4621.png" group-title="Музыка",Bridge Шлягер
