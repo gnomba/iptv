@@ -522,7 +522,7 @@ https://livetv.mylifeisgood.net.ru/channels/moscow24.m3u8
 http://stream2.cinerama.uz/1424/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="nn-24" tvg-logo="http://epg.it999.ru/img/7698.png" group-title="Регионы",Нижний Новгород 24
 https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
-#EXTINF:-1 tvg-id="nntv" tvg-logo="http://epg.it999.ru/img/5706.png" group-title="Региoны",ННТВ
+#EXTINF:-1 tvg-id="nntv" tvg-logo="http://epg.it999.ru/img/5706.png" group-title="Регионы",ННТВ
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
 #EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://s00.yaplakal.com/pics/pics_original/3/4/2/5599243.png" group-title="Регионы",Новороссия ТВ
