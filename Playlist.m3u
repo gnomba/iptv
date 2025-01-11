@@ -115,6 +115,8 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 http://93.189.224.246:52900/play/a010/index.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru" tvg-logo="https://epg.one/img/427.png" group-title="ТВ",Пятый канал
 http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
+#EXTINF:-1 tvg-id="ОБЩЕСТВЕННАЯ СЛУЖБА НОВОСТЕЙ" tvg-logo="https://epg.one/img/6744.png" group-title="ТВ",ОСН ТВ
+http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 #EXTINF:-1 tvg-id="tvcentr" tvg-logo="https://epg.one/img/649.png" group-title="ТВ",ТВЦ
 http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/playlist.m3u8
 #EXTINF:-1 tvg-id="tvcentr" tvg-logo="https://epg.one/img/649.png" group-title="ТВ",ТВЦ
@@ -158,8 +160,6 @@ https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-id="rtvi" tvg-logo="https://epg.one/img/2401.png" group-title="ТВ",RTVi
 #EXTVLCOPT:http-user-agent=WINK/1.51.1 (AndroidTV/9) HlsWinkPlayer
 http://45.143.108.110:2203/RTVi
-#EXTINF:-1 tvg-id="karusel" tvg-logo="https://epg.one/img/740.png" group-title="ТВ",Карусель
-http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8
 #EXTINF:-1 tvg-id="yu" tvg-logo="https://epg.one/img/898.png" group-title="ТВ",Ю
 http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
 #EXTINF:-1 tvg-id="2na2" tvg-logo="https://epg.one/img/323.png" group-title="ТВ",2x2
@@ -171,7 +171,7 @@ http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
 
 ###- КИНО -###
 
-#EXTINF:-1 tvg-logo="https://uzon.tv/uploads/posts/2021-04/312.jpg" group-title="Кино",312
+#EXTINF:-1 tvg-logo="https://312tv.kg/v.jpg?v=1" group-title="Кино",312
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 tvg-id="312-kino" tvg-logo="https://epg.one/img/6654.png" group-title="Кино",312 Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
@@ -271,6 +271,8 @@ http://185.50.148.2:7703/Sony_Turbo/index.m3u8
 http://31.210.208.171:8080/set/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="sony-scifi" tvg-logo="https://epg.one/img/516.png" group-title="Кино",.sci-fi
 http://185.50.148.2:7703/Sony_Sci-Fi/index.m3u8
+#EXTINF:-1 tvg-id="blokbaster-hd" tvg-logo="https://epg.one/img/2832.png" group-title="Кино",Блокбастер HD
+http://stream-msk-01.ott.tricolor.tv/dtv/id645_MSKSG-PVR-1--Blokbaster_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczNjYyMDAyMSwiaHdpZCI6ImJhNDM4OGI2N2NlNjg5ZmMwYWRlODE3OTlhYWNkZDZhNzg2ZmMxZWI5MzQ4M2YwYTEwMjNhZTViMmMyNDYwM2EiLCJsYXN0X3JlcV9kYXRlIjoxNzM2MDE1MjIxLCJzZXNzaW9uX2lkIjoiOTJhYTUyNTU3NGNmZDI0Yjc0ODNkNzUxZjI4OGIwOWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.uLo0cmjeeqr30_OOnEnsGj1VydNMcMt9G-Rr1Tjjt_Q
 #EXTINF:-1 tvg-logo="https://epg.one/img/6005.png" group-title="Кино",Видеокассета
 https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
 #EXTINF:-1 tvg-id="vremia" tvg-logo="https://epg.one/img/669.png" group-title="Кино",Время
@@ -439,7 +441,7 @@ http://live.admuspeh.my/8676/index.m3u8?token=4gPHp5ZVYqDAR4oz
 https://tv.movielab.pro/5094/video.m3u8?token=2f88b446c16d4a9c07030599503a3a351020456f-524789e3398fcf01ed1025ccacff272c-1736668641-1736582241
 #EXTINF:-1 tvg-id="viasat-sport" tvg-logo="https://epg.one/img/2055.png" group-title="Спорт",Viju+ Sport
 http://213.226.137.140:81/tl/l97/mpegts
-#EXTINF:-1 tvg-id="astrakhan-ru-sport" tvg-logo="https://uzon.tv/uploads/posts/2021-03/astrakhan-sport.jpg" group-title="Спорт",Астрахань.ru Спорт
+#EXTINF:-1 tvg-id="astrakhan-ru-sport" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/6/64/ASTRAKHAN.RU_SPORT.jpg/revision/latest?cb=20240419121027&path-prefix=ru" group-title="Спорт",Астрахань.ru Спорт
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="box-tv" tvg-logo="https://epg.one/img/2285.png" group-title="Спорт",Бокс ТВ
 http://stream01.vnet.am/BoksTv/index.m3u8
@@ -741,6 +743,8 @@ http://stream-msk-04.ott.tricolor.tv/dtv/id158_MSKSG-PVR-1--HD_Teletr/03/plst.m3
 http://188.113.190.15/73/mono.m3u8
 #EXTINF:-1 tvg-id="ratnik" tvg-logo="https://epg.one/img/2470.png" group-title="Разное",Ратник
 http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="rzhd-tv" tvg-logo="https://iptvx.one/picons/rzhd-tv.png" group-title="Разное",РЖД ТВ
+https://hls-tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov" tvg-logo="https://epg.one/img/6646.png" group-title="Разное",Рыболов
 http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=HD_Oh_Rbl.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczNjYyMDAyMSwiaHdpZCI6ImJhNDM4OGI2N2NlNjg5ZmMwYWRlODE3OTlhYWNkZDZhNzg2ZmMxZWI5MzQ4M2YwYTEwMjNhZTViMmMyNDYwM2EiLCJsYXN0X3JlcV9kYXRlIjoxNzM2MDE1MjIxLCJzZXNzaW9uX2lkIjoiOTJhYTUyNTU3NGNmZDI0Yjc0ODNkNzUxZjI4OGIwOWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.uLo0cmjeeqr30_OOnEnsGj1VydNMcMt9G-Rr1Tjjt_Q
 #EXTINF:-1 tvg-id="sarafan" tvg-logo="https://epg.one/img/663.png" group-title="Разное",Сарафан
@@ -774,6 +778,8 @@ http://stream01.vnet.am/Tiji/mono.m3u8
 http://stream2.cinerama.uz/1270/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ginger-hd" tvg-logo="https://epg.one/img/2438.png" group-title="Детские",Капитан Фантастика HD
 http://stream2.cinerama.uz/1406/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="karusel" tvg-logo="https://epg.one/img/740.png" group-title="Детские",Карусель
+http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8
 #EXTINF:-1 tvg-id="liova" tvg-logo="https://iptvx.one/picons/liova.png" group-title="Детские",Лёва
 http://hls.peers.tv/streaming/lyova/16/g2500/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzY2ODA1ODAsImlhdCI6MTczNjU5NDE4MCwiY2lkIjo2LCJ1aWQiOjg4MTc5NTczNCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VCtPU5Ul3XvUkmDXyI18eSwUqWIpw_aBFJetMBoYLHg&offset=3
 #EXTINF:-1 tvg-id="mama" tvg-logo="https://epg.one/img/618.png" group-title="Детские",Мама
@@ -818,7 +824,6 @@ http://188.113.190.15/41/tracks-v1a1/index.m3u8
 ##EXTINF:-1 tvg-id="" tvg-logo="https://static8.tgcnt.ru/posts/_0/b9/b9fb6bbb41a9181bdf7c1731f0557bc3.jpg" group-title="NotFound",MediaService Lorenz TV
 ##EXTINF:-1 tvg-id="" tvg-logo="https://epg.one/img/4605.png" group-title="NotFound",Хоккейный
 ##EXTINF:-1 tvg-id="" tvg-logo="https://epg.one/img/6667.png" group-title="NotFound",Первый Псковский
-##EXTINF:-1 tvg-id="" tvg-logo="https://epg.one/img/2832.png" group-title="NotFound",Блокбастер HD
 ##EXTINF:-1 tvg-id="" tvg-logo="https://epg.one/img/2019.png" group-title="NotFound",Душевное кино HD
 ##EXTINF:-1 tvg-id="" tvg-logo="https://epg.one/img/2836.png" group-title="NotFound",Камеди HD
 ##EXTINF:-1 tvg-id="" tvg-logo="https://tricolorhd.msk.ru/images/logo_channel/ruskiy-mir-tv-ps1.png" group-title="NotFound",Крепкое кино
