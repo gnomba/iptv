@@ -793,41 +793,41 @@ http://188.113.190.15/41/tracks-v1a1/index.m3u8
 
 ###- NOTFOUND -###
 
-##EXTINF:-1 tvg-logo="https://sun9-35.userapi.com/impg/sgS8RrNd-P2cuSEEY79JAB0y6YcT7p08GDWTgQ/SNf7cS0yNJw.jpg?size=1280x1280&quality=95&sign=68ee0a60c96534955a76f4aae7a55819&type=album" group-title="NotFound",За!ТВ (Запорожье)
-##EXTINF:-1 tvg-id="romance" tvg-logo="https://iptvx.one/picons/romance.png" group-title="NotFound",Romance
-##EXTINF:-1 tvg-id="travel-channel" tvg-logo="https://epg.one/img/613.png" group-title="NotFound",Travel Channel
-##EXTINF:-1 tvg-id="" tvg-logo="https://epg.one/img/6643.png" group-title="NotFound",Plan B HD
-##EXTINF:-1 tvg-id="" tvg-logo="https://epg.one/img/4770.png" group-title="NotFound",BACKUS TV Original HD
-##EXTINF:-1 tvg-id="" tvg-logo="https://epg.one/img/4662.png" group-title="NotFound",BACKUS TV Dark HD
-##EXTINF:-1 tvg-id="" tvg-logo="https://epg.one/img/6262.png" group-title="NotFound",BackusTV Music
-##EXTINF:-1 tvg-id="" tvg-logo="https://epg.one/img/1395.png" group-title="NotFound",Bollywood HD
-##EXTINF:-1 tvg-id="" tvg-logo="https://epg.one/img/2229.png" group-title="NotFound",Epic Drama HD
-##EXTINF:-1 tvg-id="" tvg-logo="https://epg.one/img/4780.png" group-title="NotFound",Фантастика HD
-##EXTINF:-1 tvg-id="" tvg-logo="https://epg.one/img/4779.png" group-title="NotFound",Страх HD
-##EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/991/347/png-transparent-cinema-clapperboard-film-computer-icons-cine-miscellaneous-angle-text-thumbnail.png" group-title="NotFound",FILM TV
-##EXTINF:-1 tvg-id="" tvg-logo="https://onlineexpo.com/site/assets/files/10218/filmzone.png" group-title="NotFound",FilmZone
-##EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Bn4m324/image-3.png" group-title="NotFound",КІНО ТV VHS
-##EXTINF:-1 tvg-id="" tvg-logo="https://iptvx.one/picons/ntv-amerika.png" group-title="NotFound",НТВ Америка
-##EXTINF:-1 tvg-id="" tvg-logo="https://epg.one/img/4864.png" group-title="NotFound",TLC
-##EXTINF:-1 tvg-id="" tvg-logo="https://iptvx.one/picons/filmua-drama.png" group-title="NotFound",Film.Ua Drama
-##EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/C2377w9.png" group-title="NotFound",VHSка
-##EXTINF:-1 tvg-id="" tvg-logo="https://iptvx.one/picons/tv1000-action-cee.png" group-title="NotFound",Viasat Kino Action
-##EXTINF:-1 tvg-id="" tvg-logo="https://iptvx.one/picons/vip-comedy-cee.png" group-title="NotFound",Viasat Kino Comedy
-##EXTINF:-1 tvg-id="" tvg-logo="https://baltcom.lv/channel_logo/web_super_pluss.png" group-title="NotFound",Super Plus HD
-##EXTINF:-1 tvg-id="" tvg-logo="https://static8.tgcnt.ru/posts/_0/b9/b9fb6bbb41a9181bdf7c1731f0557bc3.jpg" group-title="NotFound",MediaService Lorenz TV
-##EXTINF:-1 tvg-id="" tvg-logo="https://epg.one/img/6667.png" group-title="NotFound",Первый Псковский
-##EXTINF:-1 tvg-id="" tvg-logo="https://epg.one/img/2019.png" group-title="NotFound",Душевное кино HD
-##EXTINF:-1 tvg-id="" tvg-logo="https://epg.one/img/2836.png" group-title="NotFound",Камеди HD
-##EXTINF:-1 tvg-id="" tvg-logo="https://tricolorhd.msk.ru/images/logo_channel/ruskiy-mir-tv-ps1.png" group-title="NotFound",Крепкое кино
-##EXTINF:-1 tvg-id="" tvg-logo="https://epg.one/img/2831.png" group-title="NotFound",Наш Кинопоказ
-##EXTINF:-1 tvg-id="" tvg-logo="https://epg.one/img/1588.png" group-title="NotFound",Остросюжетное HD
-##EXTINF:-1 tvg-id="" tvg-logo="https://epg.one/img/2732.png" group-title="NotFound",Премиальное HD
-##EXTINF:-1 tvg-id="" tvg-logo="https://epg.one/img/2829.png" group-title="NotFound",Про Любовь HD
-##EXTINF:-1 tvg-id="" tvg-logo="https://epg.one/img/2835.png" group-title="NotFound",Наше Мужское HD
-##EXTINF:-1 tvg-id="" tvg-logo="https://epg.one/img/4777.png" group-title="NotFound",Хит HD
-##EXTINF:-1 tvg-id="" tvg-logo="https://tricolorhd.msk.ru/images/logo_channel/ruskiy-mir-tv-ps1.png" group-title="NotFound",Советское родное
-##EXTINF:-1 tvg-id="" tvg-logo="https://epg.one/img/7704.png" group-title="NotFound",Димград 24
-##EXTINF:-1 tvg-id="" tvg-logo="https://epg.one/img/801.png" group-title="NotFound",Mezzo Live
-##EXTINF:-1 tvg-id="" tvg-logo="https://epg.one/img/5368.png" group-title="NotFound",Music Box Gold
-##EXTINF:-1 tvg-id="" tvg-logo="https://epg.one/img/2408.png" group-title="NotFound",Ля-минор
-##EXTINF:-1 tvg-id="" tvg-logo="" group-title="NotFound",Cinema Classic
+##EXTINF:-1 tvg-logo="https://sun9-35.userapi.com/impg/sgS8RrNd-P2cuSEEY79JAB0y6YcT7p08GDWTgQ/SNf7cS0yNJw.jpg?size=1280x1280&quality=95&sign=68ee0a60c96534955a76f4aae7a55819&type=album" group-title="NotFound⛔",За!ТВ (Запорожье)
+##EXTINF:-1 tvg-id="romance" tvg-logo="https://iptvx.one/picons/romance.png" group-title="NotFound⛔",Romance
+##EXTINF:-1 tvg-id="travel-channel" tvg-logo="https://epg.one/img/613.png" group-title="NotFound⛔",Travel Channel
+##EXTINF:-1 tvg-id="" tvg-logo="https://epg.one/img/6643.png" group-title="NotFound⛔",Plan B HD
+##EXTINF:-1 tvg-id="" tvg-logo="https://epg.one/img/4770.png" group-title="NotFound⛔",BACKUS TV Original HD
+##EXTINF:-1 tvg-id="" tvg-logo="https://epg.one/img/4662.png" group-title="NotFound⛔",BACKUS TV Dark HD
+##EXTINF:-1 tvg-id="" tvg-logo="https://epg.one/img/6262.png" group-title="NotFound⛔",BackusTV Music
+##EXTINF:-1 tvg-id="" tvg-logo="https://epg.one/img/1395.png" group-title="NotFound⛔",Bollywood HD
+##EXTINF:-1 tvg-id="" tvg-logo="https://epg.one/img/2229.png" group-title="NotFound⛔",Epic Drama HD
+##EXTINF:-1 tvg-id="" tvg-logo="https://epg.one/img/4780.png" group-title="NotFound⛔",Фантастика HD
+##EXTINF:-1 tvg-id="" tvg-logo="https://epg.one/img/4779.png" group-title="NotFound⛔",Страх HD
+##EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/991/347/png-transparent-cinema-clapperboard-film-computer-icons-cine-miscellaneous-angle-text-thumbnail.png" group-title="NotFound⛔",FILM TV
+##EXTINF:-1 tvg-id="" tvg-logo="https://onlineexpo.com/site/assets/files/10218/filmzone.png" group-title="NotFound⛔",FilmZone
+##EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Bn4m324/image-3.png" group-title="NotFound⛔",КІНО ТV VHS
+##EXTINF:-1 tvg-id="" tvg-logo="https://iptvx.one/picons/ntv-amerika.png" group-title="NotFound⛔",НТВ Америка
+##EXTINF:-1 tvg-id="" tvg-logo="https://epg.one/img/4864.png" group-title="NotFound⛔",TLC
+##EXTINF:-1 tvg-id="" tvg-logo="https://iptvx.one/picons/filmua-drama.png" group-title="NotFound⛔",Film.Ua Drama
+##EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/C2377w9.png" group-title="NotFound⛔",VHSка
+##EXTINF:-1 tvg-id="" tvg-logo="https://iptvx.one/picons/tv1000-action-cee.png" group-title="NotFound⛔",Viasat Kino Action
+##EXTINF:-1 tvg-id="" tvg-logo="https://iptvx.one/picons/vip-comedy-cee.png" group-title="NotFound⛔",Viasat Kino Comedy
+##EXTINF:-1 tvg-id="" tvg-logo="https://baltcom.lv/channel_logo/web_super_pluss.png" group-title="NotFound⛔",Super Plus HD
+##EXTINF:-1 tvg-id="" tvg-logo="https://static8.tgcnt.ru/posts/_0/b9/b9fb6bbb41a9181bdf7c1731f0557bc3.jpg" group-title="NotFound⛔",MediaService Lorenz TV
+##EXTINF:-1 tvg-id="" tvg-logo="https://epg.one/img/6667.png" group-title="NotFound⛔",Первый Псковский
+##EXTINF:-1 tvg-id="" tvg-logo="https://epg.one/img/2019.png" group-title="NotFound⛔",Душевное кино HD
+##EXTINF:-1 tvg-id="" tvg-logo="https://epg.one/img/2836.png" group-title="NotFound⛔",Камеди HD
+##EXTINF:-1 tvg-id="" tvg-logo="https://tricolorhd.msk.ru/images/logo_channel/ruskiy-mir-tv-ps1.png" group-title="NotFound⛔",Крепкое кино
+##EXTINF:-1 tvg-id="" tvg-logo="https://epg.one/img/2831.png" group-title="NotFound⛔",Наш Кинопоказ
+##EXTINF:-1 tvg-id="" tvg-logo="https://epg.one/img/1588.png" group-title="NotFound⛔",Остросюжетное HD
+##EXTINF:-1 tvg-id="" tvg-logo="https://epg.one/img/2732.png" group-title="NotFound⛔",Премиальное HD
+##EXTINF:-1 tvg-id="" tvg-logo="https://epg.one/img/2829.png" group-title="NotFound⛔",Про Любовь HD
+##EXTINF:-1 tvg-id="" tvg-logo="https://epg.one/img/2835.png" group-title="NotFound⛔",Наше Мужское HD
+##EXTINF:-1 tvg-id="" tvg-logo="https://epg.one/img/4777.png" group-title="NotFound⛔",Хит HD
+##EXTINF:-1 tvg-id="" tvg-logo="https://tricolorhd.msk.ru/images/logo_channel/ruskiy-mir-tv-ps1.png" group-title="NotFound⛔",Советское родное
+##EXTINF:-1 tvg-id="" tvg-logo="https://epg.one/img/7704.png" group-title="NotFound⛔",Димград 24
+##EXTINF:-1 tvg-id="" tvg-logo="https://epg.one/img/801.png" group-title="NotFound⛔",Mezzo Live
+##EXTINF:-1 tvg-id="" tvg-logo="https://epg.one/img/5368.png" group-title="NotFound⛔",Music Box Gold
+##EXTINF:-1 tvg-id="" tvg-logo="https://epg.one/img/2408.png" group-title="NotFound⛔",Ля-минор
+##EXTINF:-1 tvg-id="" tvg-logo="" group-title="NotFound⛔",Cinema Classic
