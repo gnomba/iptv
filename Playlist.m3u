@@ -561,7 +561,10 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 #EXTINF:-1 tvg-id="volga" tvg-logo="https://epg.one/img/2468.png" group-title="Регионы",Волга
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
-#EXTINF:-1 tvg-id="volgograd-24" tvg-logo="https://iptvx.one/picons/volgograd-24.png" group-title="Регионы",Волгоград 24
+#EXTINF:-1 tvg-id="volgograd-1" tvg-logo="https://epg.one/img/6769.png" group-title="Регионы",Волгоград 1 HD
+#EXTVLCOPT:http-user-agent=SmartTV
+http://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_VGRAD_VOLGOGRAD1/variant.m3u8
+#EXTINF:-1 tvg-id="volgograd-24" tvg-logo="https://epg.one/img/6768.png" group-title="Регионы",Волгоград 24
 http://dmi3y-tv.ru/hls/smotrim/region/CH_VOLGOGRAD24_VGRAD.m3u8
 #EXTINF:-1 tvg-id="gorodskoy-yaroslavl" tvg-logo="https://epg.one/img/6752.png" group-title="Регионы",Городской телеканал Ярославль
 https://www.gtk.tv/hls/gtyar.m3u8
@@ -609,6 +612,8 @@ http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
 http://dmi3y-tv.ru/hls/region/CH_LUGANSK24_LUGANSK.m3u8
 #EXTINF:-1 tvg-id="moskva-24" tvg-logo="https://epg.one/img/334.png" group-title="Регионы",Москва 24
 https://stream-msk-13.ott.tricolor.tv/dtv/id254_MSKSG-PVR-1--Moskva24/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczNzYyMDU3MiwiaHdpZCI6Ijc2ZjljNjRmNzJjZWQ5YTQ3ZTZjZWM2NzFmNTEzYzBmNzE1MzYwOTIzOWY0Nzg5OTZhZDQyNmU4ZmE1MzVkNzgiLCJsYXN0X3JlcV9kYXRlIjoxNzM3MDE1NzcyLCJzZXNzaW9uX2lkIjoiY2I2MGY0NTM3NjE5NDQxNGFkNzZhNjhjZjNlNjEyMWEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Zx5vAdgA29KtgprxTFELmfaeXbUpWhXgK0efFN1RpMg
+#EXTINF:-1 tvg-id="mtv-volgograd" tvg-logo="https://epg.one/img/6767.png" group-title="Регионы",МТВ Волгоград
+http://dmi3y-tv.ru/hls/region/CH_MTVHD720_VGRAD.m3u8
 #EXTINF:-1 tvg-id="nasha-sibir" tvg-logo="https://epg.one/img/4444.png" group-title="Регионы",Наша Сибирь
 http://185.23.80.28:8080/NashaSibir/index.m3u8?token=test
 #EXTINF:-1 tvg-id="nn-24" tvg-logo="https://epg.one/img/7698.png" group-title="Регионы",Нижний Новгород 24
@@ -629,12 +634,18 @@ http://130.193.73.10:8937/play/a003
 http://130.193.73.10:8937/play/a004
 #EXTINF:-1 tvg-id="pervy-krymsky" tvg-logo="https://epg.one/img/2472.png" group-title="Регионы",Первый Крымский
 http://live1.trkcrimea.ru/1tvcrimea.m3u8
+#EXTINF:-1 tvg-id="pervy-rostovsky" tvg-logo="https://iptvx.one/picons/pervy-rostovsky.png" group-title="Регионы",Первый Ростовский
+#EXTVLCOPT:http-user-agent=SmartTV
+http://dmi3y-tv.ru/hls/zabava/region/RD/CH_1ROSTOVSKIYHD.m3u8
 #EXTINF:-1 tvg-id="pervy-yaroslavsky" tvg-logo="https://epg.one/img/7711.png" group-title="Регионы",Первый Ярославский
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
 #EXTINF:-1 tvg-id="pervy-yaroslavsky" tvg-logo="https://iptvx.one/picons/pervy-yaroslavsky.png" group-title="Регионы",Первый Ярославский
 https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="prima" tvg-logo="https://epg.one/img/5818.png" group-title="Регионы",Прима
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
+#EXTINF:-1 tvg-id="prodvizhenie" tvg-logo="https://epg.one/img/2297.png" group-title="Регионы",Продвижение (Астрахань)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R03_PRO_ASTRAKHAN/variant.m3u8
 #EXTINF:-1 tvg-id="region29" tvg-logo="https://iptvx.one/picons/region29.png" group-title="Регионы",Регион 29
 #EXTVLCOPT:http-user-agent=WINK/1.52.2 (AndroidTV/9) HlsWinkPlayer
 http://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PRAVDASEVERA/variant.m3u8
@@ -643,6 +654,8 @@ http://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PRAVDASEVERA/variant.m3u8
 http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_REP73/variant.m3u8
 #EXTINF:-1 group-title="Регионы",Россия 1 (Волгоград)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Регионы",Россия 1 (Краснодар)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnodar/russia1-sd/index.m3u8
 #EXTINF:-1 group-title="Регионы",Россия 1 (Ярославль)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yaroslavl/russia1-sd/index.m3u8
 #EXTINF:-1 tvg-id="rybinsk40" tvg-logo="https://iptvx.one/picons/rybinsk40.png" group-title="Регионы",Рыбинск-40
