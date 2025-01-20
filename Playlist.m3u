@@ -71,6 +71,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="tnt-pl4" tvg-logo="https://epg.one/img/353.png" group-title="ТВ",ТНТ (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.52.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8?version=2
+#EXTINF:-1 tvg-id="tnt-pl6" tvg-logo="https://epg.one/img/353.png" group-title="ТВ",ТНТ (+6)
+#EXTVLCOPT:http-user-agent=WINK/1.52.2 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT_6.m3u8
 #EXTINF:-1 tvg-id="tnt-pl7" tvg-logo="https://epg.one/img/353.png" group-title="ТВ",ТНТ (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.52.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8?version=2
@@ -131,6 +134,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="tvcentr-pl4" tvg-logo="https://epg.one/img/649.png" group-title="ТВ",ТВ Центр +4
 #EXTVLCOPT:http-user-agent=WINK/1.52.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8?version=2
+#EXTINF:-1 tvg-id="tvcentr-pl6" tvg-logo="https://epg.one/img/649.png" group-title="ТВ",ТВ Центр +6
+#EXTVLCOPT:http-user-agent=WINK/1.52.2 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_6.m3u8
 #EXTINF:-1 tvg-id="tvcentr-pl7" tvg-logo="https://epg.one/img/649.png" group-title="ТВ",ТВ Центр +7
 #EXTVLCOPT:http-user-agent=WINK/1.52.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8?version=2
@@ -556,7 +562,7 @@ http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 #EXTINF:-1 tvg-id="volga" tvg-logo="https://epg.one/img/2468.png" group-title="Регионы",Волга
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
 #EXTINF:-1 tvg-id="volgograd-24" tvg-logo="https://iptvx.one/picons/volgograd-24.png" group-title="Регионы",Волгоград 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
+http://dmi3y-tv.ru/hls/smotrim/region/CH_VOLGOGRAD24_VGRAD.m3u8
 #EXTINF:-1 tvg-id="gorodskoy-yaroslavl" tvg-logo="https://epg.one/img/6752.png" group-title="Регионы",Городской телеканал Ярославль
 https://www.gtk.tv/hls/gtyar.m3u8
 #EXTINF:-1 tvg-id="gorodskoy-yaroslavl" tvg-logo="https://iptvx.one/picons/gorodskoy-yaroslavl.png" group-title="Регионы",Городской телеканал Ярославль
@@ -635,6 +641,10 @@ http://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PRAVDASEVERA/variant.m3u8
 #EXTINF:-1 tvg-id="reportior-73" tvg-logo="https://iptvx.one/picons/reportior-73.png" group-title="Регионы",Репортер 73
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_REP73/variant.m3u8
+#EXTINF:-1 group-title="Регионы",Россия 1 (Волгоград)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Регионы",Россия 1 (Ярославль)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yaroslavl/russia1-sd/index.m3u8
 #EXTINF:-1 tvg-id="rybinsk40" tvg-logo="https://iptvx.one/picons/rybinsk40.png" group-title="Регионы",Рыбинск-40
 #EXTVLCOPT:http-user-agent=WINK/1.52.2 (AndroidTV/9) HlsWinkPlayer
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_RYBINSK40/variant.m3u8?version=2
