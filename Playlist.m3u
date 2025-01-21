@@ -277,7 +277,7 @@ http://91.205.199.3:80/tv1000/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://epg.one/img/125.png" group-title="Кино",Viju TV1000 Action
 http://91.205.199.3:80/tv1000action/index.m3u8
 #EXTINF:-1 tvg-id="viju-tv1000-romantica" tvg-logo="https://iptvx.one/picons/viju-tv1000-romantica.png" group-title="Кино",Viju TV1000 romantica
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=56HgHSk9crHAXU5BUyvjwA&e=1737389581&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=SROk_Ce-mN89NVb3Xx61Gw&e=1738467565&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-logo="https://iptvx.one/picons/viju-tv1000-novella.png" group-title="Кино",Viju TV1000 Новелла
 http://live.admuspeh.my/8973/index.m3u8?token=iptvshared
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-logo="https://epg.one/img/267.png" group-title="Кино",Viju TV1000 Русское
@@ -655,11 +655,11 @@ http://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PRAVDASEVERA/variant.m3u8
 #EXTINF:-1 tvg-id="reportior-73" tvg-logo="https://iptvx.one/picons/reportior-73.png" group-title="Регионы",Репортер 73
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_REP73/variant.m3u8
-#EXTINF:-1 group-title="Регионы",Россия 1 (Волгоград)
+#EXTINF:-1 tvg-id="rossia1" group-title="Регионы",Россия 1 (Волгоград)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Регионы",Россия 1 (Краснодар)
+#EXTINF:-1 tvg-id="rossia1" group-title="Регионы",Россия 1 (Кубань)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnodar/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="Регионы",Россия 1 (Ярославль)
+#EXTINF:-1 tvg-id="rossia1" group-title="Регионы",Россия 1 (Ярославль)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yaroslavl/russia1-sd/index.m3u8
 #EXTINF:-1 tvg-id="rostov-papa" tvg-logo="https://epg.one/img/5708.png" group-title="Регионы",Ростов-папа HD
 #EXTVLCOPT:http-user-agent=SmartTV
