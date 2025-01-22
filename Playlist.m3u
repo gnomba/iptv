@@ -53,7 +53,7 @@ http://dmi3y-tv.ru/hls/T2/CH_RUSSIA1_4.m3u8
 http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1_5.m3u8
 #EXTINF:-1 tvg-id="rossia1-pl6" tvg-logo="https://epg.one/img/3002.png" group-title="ТВ",Россия 1 (+6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1_6.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_6.m3u8
 #EXTINF:-1 tvg-id="rossia1-pl7" tvg-logo="https://epg.one/img/7989.png" group-title="ТВ",Россия 1 (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.52.2 (AndroidTV/9) HlsWinkPlayer
 http://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_ROSSIA1/variant.m3u8
