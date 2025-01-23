@@ -500,7 +500,7 @@ http://31.210.208.171:8080/match_igra/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="match-planeta" tvg-logo="https://epg.one/img/2043.png" group-title="Спорт",Матч! Планета
 http://stream02.vnet.am/MatchPlaneta/playlist.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://epg.one/img/2250.png" group-title="Спорт",Матч! Премьер
-https://mhd128.iptv2022.com/p/F2HQBr6D5r1wWldUIxob0A,1737493216/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
+http://s1.merlive.am/matchpremier/index.m3u8
 #EXTINF:-1 tvg-id="match-nash-sport" tvg-logo="https://epg.one/img/2042.png" group-title="Спорт",Матч! Страна
 http://213.226.137.140:81/tl/l73/mpegts
 #EXTINF:-1 tvg-id="match-football1" tvg-logo="https://epg.one/img/2044.png" group-title="Спорт",Матч! Футбол 1
