@@ -4,27 +4,29 @@
 
 ###- РАДИО -###
 
-#EXTINF:-1 tvg-logo="https://dancemelody.ru/edd/ultra.webp" group-title="Радио",Radio Ultra
+#EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/radio-ultra.png" group-title="Радио",Radio Ultra
 http://nashe1.hostingradio.ru/ultra-192.mp3
-#EXTINF:-1 tvg-logo="https://dancemelody.ru/edd/rockfm.webp" group-title="Радио",RockFM
+#EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/rockfm.jpg" group-title="Радио",RockFM
 http://nashe1.hostingradio.ru/rock-128.mp3
-#EXTINF:-1 tvg-logo="https://dancemelody.ru/edd/vestifm.webp" group-title="Радио",Вести FM
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/vestifm.jpg" group-title="Радио",Вести FM
 http://icecast.vgtrk.cdnvideo.ru/vestifm
-#EXTINF:-1 tvg-logo="https://amradio.ru/uploads/img/russia/internet/iskatel-russia.png" group-title="Радио",Искатель
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/iskatel.jpg" group-title="Радио",Искатель
 http://iskatel.hostingradio.ru:8015/iskatel-128.mp3
-#EXTINF:-1 tvg-logo="https://dancemelody.ru/edd/nashe.webp" group-title="Радио",НАШЕ Радио
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/nashe.jpg" group-title="Радио",НАШЕ Радио
 http://nashe1.hostingradio.ru:80/nashe-256
-#EXTINF:-1 tvg-logo="https://dancemelody.ru/edd/gordost.webp" group-title="Радио",Радио Гордость
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/anapa.jpg" group-title="Радио",Радио Анапа
+https://rosradio-online.ru/logos/anapa.jpg
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/gordost.jpg" group-title="Радио",Радио Гордость
 https://strm.yandex.ru/kal/fm_gordost/fm_gordost0.m3u8
-#EXTINF:-1 tvg-logo="https://dancemelody.ru/edd/mayak.webp" group-title="Радио",Радио Маяк
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/mayak.jpg" group-title="Радио",Радио Маяк
 http://icecast.vgtrk.cdnvideo.ru/mayakfm
-#EXTINF:-1 tvg-id="radio-mir" tvg-logo="https://dancemelody.ru/edd/mir.webp" group-title="Радио",Радио Мир
+#EXTINF:-1 tvg-id="radio-mir" tvg-logo="https://rosradio-online.ru/logos/mir.jpg" group-title="Радио",Радио Мир
 http://icecast-mirtv.cdnvideo.ru:8000/radio_mir_256
-#EXTINF:-1 tvg-logo="https://dancemelody.ru/edd/radiorus.webp" group-title="Радио",Радио России
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/radio_rossii.jpg" group-title="Радио",Радио России
 http://icecast.vgtrk.cdnvideo.ru/rrzonam
-#EXTINF:-1 tvg-logo="https://dancemelody.ru/edd/cultura.webp" group-title="Радио",Радио Культура
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/kultura.jpg" group-title="Радио",Радио Культура
 http://icecast.vgtrk.cdnvideo.ru/kulturafm
-#EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://dancemelody.ru/edd/solovievfm.webp" group-title="Радио",Соловьёв FM
+#EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://top-radio.ru/assets/image/radio/180/soloviev-fm.jpg" group-title="Радио",Соловьёв FM
 https://solovievfm.hostingradio.ru/solovievfm128.aacp
 
 ###- ТВ -###
@@ -210,7 +212,7 @@ http://stream-msk-10.ott.tricolor.tv/dtv/id640_MSKSG-PVR-1--Bollywood/03/plst.m3
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://api.peers.tv/timeshift/bolt_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Mzc4MjcxODAsImlhdCI6MTczNzc0MDc4MCwiY2lkIjo2LCJ1aWQiOjg4NzkzMDQ4NCwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.UkJAGXnafNMROfNWR-dcB9ELXHj0SVjAtaYoFcbp6nM&offset=3
 #EXTINF:-1 tvg-id="cinema-ru" tvg-logo="https://epg.one/img/2754.png" group-title="Кино",Cinema
-http://stream-msk-06.ott.tricolor.tv/dtv/id423_MSKSG-PVR-1--Cinema/03/plst.m3u8?drmreq==eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczODIyODQ1MSwiaHdpZCI6IjUwMjA1N2UxYTQ3ZDdhYTI5OGE4ZTMzZmFlNWE3NzFhM2IzNDk2ZjBiYzNhYTQ4MTUxZTYwODc2ODQ2YmYzZmYiLCJsYXN0X3JlcV9kYXRlIjoxNzM3NjIzNjUxLCJzZXNzaW9uX2lkIjoiY2JhMDJmNjcwMjBhMzUzNDFkYzNiYTUxMDFiMTQwYTkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.bbkFWz-em4UC7Z-obrUBFv8qsE8ogXkSGGAZ8yDMRU0
+http://stream-msk-06.ott.tricolor.tv/dtv/id423_MSKSG-PVR-1--Cinema/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczODIyODQ1MSwiaHdpZCI6IjUwMjA1N2UxYTQ3ZDdhYTI5OGE4ZTMzZmFlNWE3NzFhM2IzNDk2ZjBiYzNhYTQ4MTUxZTYwODc2ODQ2YmYzZmYiLCJsYXN0X3JlcV9kYXRlIjoxNzM3NjIzNjUxLCJzZXNzaW9uX2lkIjoiY2JhMDJmNjcwMjBhMzUzNDFkYzNiYTUxMDFiMTQwYTkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.bbkFWz-em4UC7Z-obrUBFv8qsE8ogXkSGGAZ8yDMRU0
 #EXTINF:-1 tvg-id="cinema" tvg-logo="https://epg.one/img/2549.png" group-title="Кино",Cinema Космос ТВ
 http://178.124.152.238:8088/cinema
 #EXTINF:-1 tvg-id="paramount-comedy" tvg-logo="https://epg.one/img/920.png" group-title="Кино",Comedy Central
