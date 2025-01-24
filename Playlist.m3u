@@ -15,7 +15,7 @@ http://iskatel.hostingradio.ru:8015/iskatel-128.mp3
 #EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/nashe.jpg" group-title="Радио",НАШЕ Радио
 http://nashe1.hostingradio.ru:80/nashe-256
 #EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/anapa.jpg" group-title="Радио",Радио Анапа
-https://rosradio-online.ru/logos/anapa.jpg
+http://r1071.zapto.org:1071/karolinskogo9
 #EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/gordost.jpg" group-title="Радио",Радио Гордость
 https://strm.yandex.ru/kal/fm_gordost/fm_gordost0.m3u8
 #EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/mayak.jpg" group-title="Радио",Радио Маяк
