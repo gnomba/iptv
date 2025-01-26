@@ -713,6 +713,8 @@ https://s03.watcher.uz/57/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.
 
 ###- РАЗНОЕ -###
 
+#EXTINF:-1 tvg-id="360-int" src="https://iptvx.one/picons/360-int.png" group-title="Разное",360° Международный
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/mono.m3u8
 #EXTINF:-1 tvg-id="365-dnej" tvg-logo="https://epg.one/img/2423.png" group-title="Разное",365 дней
 http://213.226.137.140:81/tl/l413/mpegts
 #EXTINF:-1 tvg-id="animal-planet-eu" tvg-logo="https://epg.one/img/365.png" group-title="Разное",Animal Planet
