@@ -75,7 +75,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="tnt-pl4" tvg-logo="https://epg.one/img/353.png" group-title="ТВ",ТНТ (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.53.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="tnt" tvg-shift="+9" tvg-logo="https://epg.one/img/353.png" group-title="ТВ",ТНТ (+6)
+#EXTINF:-1 tvg-id="tnt" tvg-shift="+6" tvg-logo="https://epg.one/img/353.png" group-title="ТВ",ТНТ (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.53.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT_6.m3u8
 #EXTINF:-1 tvg-id="tnt-pl7" tvg-logo="https://epg.one/img/353.png" group-title="ТВ",ТНТ (+7)
@@ -141,7 +141,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="tvcentr-pl4" tvg-logo="https://epg.one/img/649.png" group-title="ТВ",ТВ Центр +4
 #EXTVLCOPT:http-user-agent=WINK/1.53.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="tvcentr" tvg-shift="+9" tvg-logo="https://epg.one/img/649.png" group-title="ТВ",ТВ Центр +6
+#EXTINF:-1 tvg-id="tvcentr" tvg-shift="+6" tvg-logo="https://epg.one/img/649.png" group-title="ТВ",ТВ Центр +6
 #EXTVLCOPT:http-user-agent=WINK/1.53.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_6.m3u8
 #EXTINF:-1 tvg-id="tvcentr-pl7" tvg-logo="https://epg.one/img/649.png" group-title="ТВ",ТВ Центр +7
