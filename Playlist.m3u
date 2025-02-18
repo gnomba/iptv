@@ -47,19 +47,19 @@ http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
 #EXTINF:-1 tvg-id="rossia1-pl2" tvg-logo="https://epg.one/img/3000.png" group-title="ТВ",Россия 1 +2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1_2.m3u8
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1_2.m3u8
 #EXTINF:-1 tvg-id="rossia1-pl3" tvg-logo="https://iptvx.one/picons/rossia1-pl3.png" group-title="ТВ",Россия 1 +3
 #EXTVLCOPT:http-user-agent=WINK/1.53.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
 #EXTINF:-1 tvg-id="rossia1-pl4" tvg-logo="https://epg.one/img/3001.png" group-title="ТВ",Россия 1 +4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://dmitry-tv.ddns.net/hls/T2/CH_RUSSIA1_4.m3u8
+http://dmi3y-tv.ru/hls/T2/CH_RUSSIA1_4.m3u8
 #EXTINF:-1 tvg-id="rossia1-pl5" tvg-logo="https://iptvx.one/picons/rossia1-pl5.png" group-title="ТВ",Россия 1 +5 HD
 #EXTVLCOPT:http-user-agent=WINK/1.53.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1_5.m3u8
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1_5.m3u8
 #EXTINF:-1 tvg-id="rossia1-pl6" tvg-logo="https://epg.one/img/3002.png" group-title="ТВ",Россия 1 +6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_6.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_6.m3u8
 #EXTINF:-1 tvg-id="rossia1-pl7" tvg-logo="https://epg.one/img/7989.png" group-title="ТВ",Россия 1 +7
 #EXTVLCOPT:http-user-agent=WINK/1.53.1 (AndroidTV/9) HlsWinkPlayer
 http://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_ROSSIA1/variant.m3u8
@@ -79,7 +79,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8?version=2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="tnt" tvg-shift="-6" tvg-logo="https://epg.one/img/353.png" group-title="ТВ",ТНТ (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.53.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT_6.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT_6.m3u8
 #EXTINF:-1 tvg-id="tnt-pl7" tvg-logo="https://epg.one/img/353.png" group-title="ТВ",ТНТ (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.53.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8?version=2
@@ -151,7 +151,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8?version=2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="tvcentr" tvg-shift="-6" tvg-logo="https://epg.one/img/649.png" group-title="ТВ",ТВ Центр +6
 #EXTVLCOPT:http-user-agent=WINK/1.53.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC_6.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_6.m3u8
 #EXTINF:-1 tvg-id="tvcentr-pl7" tvg-logo="https://epg.one/img/649.png" group-title="ТВ",ТВ Центр +7
 #EXTVLCOPT:http-user-agent=WINK/1.53.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8?version=2
@@ -621,7 +621,7 @@ http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist
 #EXTVLCOPT:http-user-agent=SmartTV
 http://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_VGRAD_VOLGOGRAD1/variant.m3u8
 #EXTINF:-1 tvg-id="volgograd-24" tvg-logo="https://epg.one/img/6768.png" group-title="Регионы",Волгоград 24
-http://dmitry-tv.ddns.net/hls/smotrim/region/CH_VOLGOGRAD24_VGRAD.m3u8
+http://dmi3y-tv.ru/hls/smotrim/region/CH_VOLGOGRAD24_VGRAD.m3u8
 #EXTINF:-1 tvg-id="gorodskoy-yaroslavl" tvg-logo="https://epg.one/img/6752.png" group-title="Регионы",Городской телеканал Ярославль
 https://www.gtk.tv/hls/gtyar.m3u8
 #EXTINF:-1 tvg-id="gorodskoy-yaroslavl" tvg-logo="https://iptvx.one/picons/gorodskoy-yaroslavl.png" group-title="Регионы",Городской телеканал Ярославль
@@ -669,17 +669,17 @@ http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
 #EXTINF:-1 tvg-id="lipeckoe-vremia" tvg-logo="https://epg.one/img/5810.png" group-title="Регионы",Липецкое время
 http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://luganet.ru/wp-content/uploads/2020/01/%D0%9B%D1%83%D0%B3%D0%B0%D0%BD%D1%81%D0%BA-24.png" group-title="Регионы",Луганск 24
-http://dmitry-tv.ddns.net/hls/region/CH_LUGANSK24_LUGANSK.m3u8
+http://dmi3y-tv.ru/hls/region/CH_LUGANSK24_LUGANSK.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/f/fa/Мариуполь_24_логотип.png/revision/latest?cb=20231225112437&path-prefix=ru" group-title="Регионы",Мариуполь 24
-http://dmitry-tv.ddns.net/hls/region/CH_MARIUPOL24HD720_MARIUPOL.m3u8
+http://dmi3y-tv.ru/hls/region/CH_MARIUPOL24HD720_MARIUPOL.m3u8
 #EXTINF:-1 tvg-id="moskva-24" tvg-logo="https://epg.one/img/334.png" group-title="Регионы",Москва 24
 https://stream-msk-13.ott.tricolor.tv/dtv/id254_MSKSG-PVR-1--Moskva24/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczOTE3NDQzOCwiaHdpZCI6IjYzN2VjMDBmZjA2YjFjNmFmZjA1NTk0MWMzZWM2NTVjODM0OGVmMTQ2Zjk1ZDlmODIyNGE4MjY0NzRjZjlhOTgiLCJsYXN0X3JlcV9kYXRlIjoxNzM4NTY5NjM4LCJzZXNzaW9uX2lkIjoiMTNkYWNjNDZiZjg1ZDJiODIwY2I3ZDEyYzU1MjNjZmEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.VRXZo4VO6eTTCQcmGRvYxwAxGYN8CKdtxi2sadY9k-A
 #EXTINF:-1 tvg-id="mtv-volgograd" tvg-logo="https://epg.one/img/6767.png" group-title="Регионы",МТВ Волгоград
-http://dmitry-tv.ddns.net/hls/region/CH_MTVHD720_VGRAD.m3u8
+http://dmi3y-tv.ru/hls/region/CH_MTVHD720_VGRAD.m3u8
 #EXTINF:-1 tvg-id="nasha-sibir" tvg-logo="https://epg.one/img/4444.png" group-title="Регионы",Наша Сибирь
 http://185.23.80.28:8080/NashaSibir/index.m3u8?token=test
 #EXTINF:-1 tvg-id="nn-24" tvg-logo="https://epg.one/img/7698.png" group-title="Регионы",Нижний Новгород 24
-http://dmitry-tv.ddns.net/hls/smotrim/region/CH_NN24_NN.m3u8
+http://dmi3y-tv.ru/hls/smotrim/region/CH_NN24_NN.m3u8
 #EXTINF:-1 tvg-id="nntv" tvg-logo="https://epg.one/img/5706.png" group-title="Регионы",ННТВ
 #EXTVLCOPT:http-user-agent=WINK/1.53.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
@@ -696,7 +696,7 @@ http://130.193.73.10:8937/play/a004
 http://live1.trkcrimea.ru/1tvcrimea.m3u8
 #EXTINF:-1 tvg-id="pervy-rostovsky" tvg-logo="https://iptvx.one/picons/pervy-rostovsky.png" group-title="Регионы",Первый Ростовский
 #EXTVLCOPT:http-user-agent=SmartTV
-http://dmitry-tv.ddns.net/hls/zabava/region/RD/CH_1ROSTOVSKIYHD.m3u8
+http://dmi3y-tv.ru/hls/zabava/region/RD/CH_1ROSTOVSKIYHD.m3u8
 #EXTINF:-1 tvg-id="pervy-yaroslavsky" tvg-logo="https://epg.one/img/7711.png" group-title="Регионы",Первый Ярославский
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
 #EXTINF:-1 tvg-id="pervy-yaroslavsky" tvg-logo="https://iptvx.one/picons/pervy-yaroslavsky.png" group-title="Регионы",Первый Ярославский
@@ -894,7 +894,7 @@ http://188.113.190.15/69/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="eureka-hd" tvg-logo="https://epg.one/img/2310.png" group-title="Разное",Первый Космический
 http://stream01.vnet.am/Evrika/mono.m3u8
 #EXTINF:-1 tvg-id="prnk-tv" tvg-logo="https://epg.one/img/6029.png" group-title="Разное",Первый российский национальный канал
-http://dmitry-tv.ddns.net/hls/CH_1RNKHD720.m3u8
+http://dmi3y-tv.ru/hls/CH_1RNKHD720.m3u8
 #EXTINF:-1 tvg-id="prikluchenia-hd" tvg-logo="https://epg.one/img/2311.png" group-title="Разное",Приключения HD
 http://stream-msk-04.ott.tricolor.tv/dtv/id158_MSKSG-PVR-1--HD_Teletr/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczOTE3NDQzOCwiaHdpZCI6IjYzN2VjMDBmZjA2YjFjNmFmZjA1NTk0MWMzZWM2NTVjODM0OGVmMTQ2Zjk1ZDlmODIyNGE4MjY0NzRjZjlhOTgiLCJsYXN0X3JlcV9kYXRlIjoxNzM4NTY5NjM4LCJzZXNzaW9uX2lkIjoiMTNkYWNjNDZiZjg1ZDJiODIwY2I3ZDEyYzU1MjNjZmEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.VRXZo4VO6eTTCQcmGRvYxwAxGYN8CKdtxi2sadY9k-A
 #EXTINF:-1 tvg-id="psixologia-21" tvg-logo="https://epg.one/img/2450.png" group-title="Разное",Психология 21
