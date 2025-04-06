@@ -45,21 +45,21 @@ http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m
 #EXTINF:-1 tvg-id="rossia1-pl1" tvg-logo="https://iptvx.one/picons/rossia1-pl1.png" group-title="ТВ",Россия 1 +1
 #EXTVLCOPT:http-user-agent=WINK/1.57.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
-#EXTINF:-1 tvg-id="rossia1-pl2" tvg-logo="https://epg.one/img/3000.png" group-title="ТВ",Россия 1 +2
+#EXTINF:-1 tvg-id="rossia1-pl2" tvg-logo="https://epg.one/img/3000.png" group-title="ТВ",Россия 1 +2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1_2.m3u8
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="rossia1-pl3" tvg-logo="https://iptvx.one/picons/rossia1-pl3.png" group-title="ТВ",Россия 1 +3
 #EXTVLCOPT:http-user-agent=WINK/1.57.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
-#EXTINF:-1 tvg-id="rossia1-pl4" tvg-logo="https://epg.one/img/3001.png" group-title="ТВ",Россия 1 +4
+#EXTINF:-1 tvg-id="rossia1-pl4" tvg-logo="https://epg.one/img/3001.png" group-title="ТВ",Россия 1 +4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://dmi3y-tv.ru/hls/T2/CH_RUSSIA1_4.m3u8
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="rossia1-pl5" tvg-logo="https://iptvx.one/picons/rossia1-pl5.png" group-title="ТВ",Россия 1 +5 HD
 #EXTVLCOPT:http-user-agent=WINK/1.57.1 (AndroidTV/9) HlsWinkPlayer
-http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1_5.m3u8
-#EXTINF:-1 tvg-id="rossia1-pl6" tvg-logo="https://epg.one/img/3002.png" group-title="ТВ",Россия 1 +6
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl6" tvg-logo="https://epg.one/img/3002.png" group-title="ТВ",Россия 1 +6 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_6.m3u8
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="rossia1-pl7" tvg-logo="https://epg.one/img/7989.png" group-title="ТВ",Россия 1 +7
 #EXTVLCOPT:http-user-agent=WINK/1.57.1 (AndroidTV/9) HlsWinkPlayer
 http://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_ROSSIA1/variant.m3u8
@@ -622,7 +622,8 @@ http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist
 #EXTVLCOPT:http-user-agent=SmartTV
 http://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_VGRAD_VOLGOGRAD1/variant.m3u8
 #EXTINF:-1 tvg-id="volgograd-24" tvg-logo="https://epg.one/img/6768.png" group-title="Регионы",Волгоград 24
-http://dmi3y-tv.ru/hls/smotrim/region/CH_VOLGOGRAD24_VGRAD.m3u8
+#EXTVLCOPT:http-user-agent=WINK/1.57.1 (AndroidTV/9) HlsWinkPlayer
+http://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VGRAD_VOLGOGRAD24/variant.m3u8
 #EXTINF:-1 tvg-id="gorodskoy-yaroslavl" tvg-logo="https://epg.one/img/6752.png" group-title="Регионы",Городской телеканал Ярославль
 https://www.gtk.tv/hls/gtyar.m3u8
 #EXTINF:-1 tvg-id="gorodskoy-yaroslavl" tvg-logo="https://iptvx.one/picons/gorodskoy-yaroslavl.png" group-title="Регионы",Городской телеканал Ярославль
@@ -895,7 +896,7 @@ http://188.113.190.15/69/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="eureka-hd" tvg-logo="https://epg.one/img/2310.png" group-title="Разное",Первый Космический
 http://stream01.vnet.am/Evrika/mono.m3u8
 #EXTINF:-1 tvg-id="prnk-tv" tvg-logo="https://epg.one/img/6029.png" group-title="Разное",Первый российский национальный канал
-http://dmi3y-tv.ru/hls/CH_1RNKHD720.m3u8
+https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
 #EXTINF:-1 tvg-id="prikluchenia-hd" tvg-logo="https://epg.one/img/2311.png" group-title="Разное",Приключения HD
 http://stream-msk-04.ott.tricolor.tv/dtv/id158_MSKSG-PVR-1--HD_Teletr/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczOTE3NDQzOCwiaHdpZCI6IjYzN2VjMDBmZjA2YjFjNmFmZjA1NTk0MWMzZWM2NTVjODM0OGVmMTQ2Zjk1ZDlmODIyNGE4MjY0NzRjZjlhOTgiLCJsYXN0X3JlcV9kYXRlIjoxNzM4NTY5NjM4LCJzZXNzaW9uX2lkIjoiMTNkYWNjNDZiZjg1ZDJiODIwY2I3ZDEyYzU1MjNjZmEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.VRXZo4VO6eTTCQcmGRvYxwAxGYN8CKdtxi2sadY9k-A
 #EXTINF:-1 tvg-id="psixologia-21" tvg-logo="https://epg.one/img/2450.png" group-title="Разное",Психология 21
