@@ -71,7 +71,7 @@ https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA1/variant.m3u8
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
 #EXTINF:-1 tvg-id="tnt" tvg-logo="https://epg.one/img/353.png" group-title="ТВ",ТНТ
 #EXTVLCOPT:http-user-agent=WINK/1.58.1 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTINF:-1 tvg-id="tnt-pl2" tvg-logo="https://epg.one/img/353.png" group-title="ТВ",ТНТ (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.58.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8?version=2
