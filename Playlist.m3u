@@ -513,9 +513,10 @@ http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
 #EXTINF:-1 tvg-id="extreme-sports" tvg-logo="https://epg.one/img/2053.png" group-title="Спорт",Extreme Sports
 http://109.200.130.123:7537/play/a02p
 #EXTINF:-1 tvg-id="kxl" tvg-logo="https://epg.one/img/2048.png" group-title="Спорт",KHL
-http://178.57.121.38:8080/khl/index.m3u8?token=test
+#EXTVLCOPT:http-user-agent=WINK/1.58.1 (AndroidTV/9) HlsWinkPlayer
+http://178.124.152.238:8088/khl
 #EXTINF:-1 tvg-id="kxl-hd" tvg-logo="https://epg.one/img/1038.png" group-title="Спорт",KHL Prime
-http://213.226.137.140:81/tl/l67/mpegts
+https://tv.movielab.pro/177/video.m3u8?token=51e3962c5a408f1d70f0c19da0e6559f3883d587-125dd89ac348c78303fafb69a5f34eff-1744614668-1744528268
 #EXTINF:-1 tvg-logo="https://bonus-betting.ru/wp-content/uploads/2021/10/nhl-logo.png" group-title="Спорт", NHL (Интересные моменты)
 https://nhl-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="russian-extreme-uhd" tvg-logo="https://epg.one/img/2497.png" group-title="Спорт",Russian Extreme UHD
