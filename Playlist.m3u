@@ -516,7 +516,7 @@ http://109.200.130.123:7537/play/a02p
 #EXTVLCOPT:http-user-agent=WINK/1.58.1 (AndroidTV/9) HlsWinkPlayer
 http://178.124.152.238:8088/khl
 #EXTINF:-1 tvg-id="kxl-hd" tvg-logo="https://epg.one/img/1038.png" group-title="Спорт",KHL Prime
-https://tv.movielab.pro/177/video.m3u8?token=51e3962c5a408f1d70f0c19da0e6559f3883d587-125dd89ac348c78303fafb69a5f34eff-1744614668-1744528268
+http://radio.tvs.by:8088/KHL_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://bonus-betting.ru/wp-content/uploads/2021/10/nhl-logo.png" group-title="Спорт", NHL (Интересные моменты)
 https://nhl-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="russian-extreme-uhd" tvg-logo="https://epg.one/img/2497.png" group-title="Спорт",Russian Extreme UHD
