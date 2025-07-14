@@ -35,7 +35,7 @@ https://solovievfm.hostingradio.ru/solovievfm128.aacp
 
 ###- ТВ -###
 
-#EXTINF:-1 tvg-id="pervy" tvg-logo="https://karnei4.github.io/convert/img/9195.png" group-title="ТВ",Первый канал
+#EXTINF:-1 tvg-id="pervy" tvg-logo="https://epg.one/img/146.png" group-title="ТВ",Первый канал
 #EXTVLCOPT:http-user-agent=WINK/1.63.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="https://karnei4.github.io/convert/img/5963.png" group-title="ТВ",Россия 1 HD
