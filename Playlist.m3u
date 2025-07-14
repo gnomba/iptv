@@ -30,7 +30,7 @@ http://icecast-mirtv.cdnvideo.ru:8000/radio_mir_256
 http://icecast.vgtrk.cdnvideo.ru/rrzonam
 #EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/kultura.jpg" group-title="Радио",Радио Культура
 http://icecast.vgtrk.cdnvideo.ru/kulturafm
-#EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://top-radio.ru/assets/image/radio/180/soloviev-fm.jpg" group-title="Радио",Соловьёв FM
+#EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/soloviev-fm.jpg" group-title="Радио",Соловьёв FM
 https://solovievfm.hostingradio.ru/solovievfm128.aacp
 
 ###- ТВ -###
@@ -87,30 +87,30 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT_6.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="tnt-int-eu" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/tnt_int-eu.png" group-title="ТВ",ТНТ-International (Европа)
 http://85.187.13.40:18000/tntint
-#EXTINF:-1 tvg-id="tnt4" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/1649.png" group-title="ТВ",ТНТ4
+#EXTINF:-1 tvg-id="tnt4" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/tnt4.png" group-title="ТВ",ТНТ4
 #EXTVLCOPT:http-user-agent=WINK/1.63.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
-#EXTINF:-1 tvg-id="tnt4-pl2" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/1649.png" group-title="ТВ",ТНТ4 (+2)
+#EXTINF:-1 tvg-id="tnt4-pl2" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/tnt4_2.png" group-title="ТВ",ТНТ4 (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.63.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="tnt4-pl4" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/1649.png" group-title="ТВ",ТНТ4 (+4)
+#EXTINF:-1 tvg-id="tnt4-pl4" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/tnt4_4.png" group-title="ТВ",ТНТ4 (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.63.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="tnt4-pl7" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/1649.png" group-title="ТВ",ТНТ4 (+7)
+#EXTINF:-1 tvg-id="tnt4-pl7" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/tnt4_7.png" group-title="ТВ",ТНТ4 (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.63.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="rtr-planeta-eu" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/6770.png" group-title="ТВ",РТР-Планета Европа
+#EXTINF:-1 tvg-id="rtr-planeta-eu" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rtr-planeta_eu.png" group-title="ТВ",РТР-Планета Европа
 http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8
-#EXTINF:-1 tvg-id="kultura" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/187.png" group-title="ТВ",Россия К
+#EXTINF:-1 tvg-id="kultura" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/kultura.png" group-title="ТВ",Россия К
 http://s18209.cdn.ngenix.net/hls/CH_R02_ROSSIAK/playlist.m3u8
-#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/1683.png" group-title="ТВ",Россия 24
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rossia-24.png" group-title="ТВ",Россия 24
 http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
-#EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://avatars.dzeninfra.ru/get-zen-logos/1670662/pub_601a8695cb6f7a60d97d1b39_636134363694f30c570d6264/xxh" group-title="ТВ",Соловьев.Live
+#EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/soloviev-live.jpg" group-title="ТВ",Соловьев.Live
 #http://178.57.121.38:8080/idxtra/index.m3u8?token=test
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
-#EXTINF:-1 tvg-id="izvestia" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2271.png" group-title="ТВ",Известия
+#EXTINF:-1 tvg-id="izvestia" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/izvestia.png" group-title="ТВ",Известия
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/TASS_Logo_(Cyrillic)_2017.svg/1200px-TASS_Logo_(Cyrillic)_2017.svg.png" group-title="ТВ", ТАСС
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/tass.png" group-title="ТВ", ТАСС
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://s00.yaplakal.com/pics/pics_original/3/4/2/5599243.png" group-title="ТВ",Новороссия ТВ
 http://130.193.73.10:8937/play/a002
