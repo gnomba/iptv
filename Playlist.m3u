@@ -73,16 +73,16 @@ https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
 #EXTINF:-1 tvg-id="tnt" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/353.png" group-title="ТВ",ТНТ
 #EXTVLCOPT:http-user-agent=WINK/1.63.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="tnt-pl2" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/353.png" group-title="ТВ",ТНТ (+2)
+#EXTINF:-1 tvg-id="tnt-pl2" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/353_2.png" group-title="ТВ",ТНТ (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.63.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="tnt-pl4" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/353.png" group-title="ТВ",ТНТ (+4)
+#EXTINF:-1 tvg-id="tnt-pl4" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/353_4.png" group-title="ТВ",ТНТ (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.63.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="tnt" tvg-shift="-6" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/353.png" group-title="ТВ",ТНТ (+6)
+#EXTINF:-1 tvg-id="tnt" tvg-shift="-6" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/353_6.png" group-title="ТВ",ТНТ (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.63.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT_6.m3u8
-#EXTINF:-1 tvg-id="tnt-pl7" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/353.png" group-title="ТВ",ТНТ (+7)
+#EXTINF:-1 tvg-id="tnt-pl7" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/353_7.png" group-title="ТВ",ТНТ (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.63.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="tnt-int-eu" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/5692.png" group-title="ТВ",ТНТ-International (Европа)
