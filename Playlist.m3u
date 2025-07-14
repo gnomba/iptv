@@ -112,7 +112,7 @@ http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/tass.png" group-title="ТВ", ТАСС
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://s00.yaplakal.com/pics/pics_original/3/4/2/5599243.png" group-title="ТВ",Новороссия ТВ
+#EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/novorossia.png" group-title="ТВ",Новороссия ТВ
 http://130.193.73.10:8937/play/a002
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/162.png" group-title="ТВ",НТВ
 #EXTVLCOPT:http-user-agent=WINK/1.63.1 (AndroidTV/9) HlsWinkPlayer
