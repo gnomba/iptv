@@ -43,31 +43,31 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rossia1_-1.png" group-title="ТВ",Россия 1 -1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8
-#EXTINF:-1 tvg-id="rossia1-pl1" tvg-logo="https://iptvx.one/picons/rossia1-pl1.png" group-title="ТВ",Россия 1 +1
+#EXTINF:-1 tvg-id="rossia1-pl1" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rossia1_1.png" group-title="ТВ",Россия 1 +1
 #EXTVLCOPT:http-user-agent=WINK/1.63.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
-#EXTINF:-1 tvg-id="rossia1-pl2" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/3000.png" group-title="ТВ",Россия 1 +2 HD
+#EXTINF:-1 tvg-id="rossia1-pl2" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rossia1_2.png" group-title="ТВ",Россия 1 +2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-id="rossia1-pl3" tvg-logo="https://iptvx.one/picons/rossia1-pl3.png" group-title="ТВ",Россия 1 +3
+#EXTINF:-1 tvg-id="rossia1-pl3" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rossia1_3.png" group-title="ТВ",Россия 1 +3
 #EXTVLCOPT:http-user-agent=WINK/1.63.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
-#EXTINF:-1 tvg-id="rossia1-pl4" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/3001.png" group-title="ТВ",Россия 1 +4 HD
+#EXTINF:-1 tvg-id="rossia1-pl4" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rossia1_4.png" group-title="ТВ",Россия 1 +4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-id="rossia1-pl5" tvg-logo="https://iptvx.one/picons/rossia1-pl5.png" group-title="ТВ",Россия 1 +5 HD
+#EXTINF:-1 tvg-id="rossia1-pl5" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rossia1_5.png" group-title="ТВ",Россия 1 +5 HD
 #EXTVLCOPT:http-user-agent=WINK/1.63.1 (AndroidTV/9) HlsWinkPlayer
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-id="rossia1-pl6" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/3002.png" group-title="ТВ",Россия 1 +6 HD
+#EXTINF:-1 tvg-id="rossia1-pl6" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rossia1_6.png" group-title="ТВ",Россия 1 +6 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-id="rossia1-pl7" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/7989.png" group-title="ТВ",Россия 1 +7
+#EXTINF:-1 tvg-id="rossia1-pl7" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rossia1_7.png" group-title="ТВ",Россия 1 +7
 #EXTVLCOPT:http-user-agent=WINK/1.63.1 (AndroidTV/9) HlsWinkPlayer
 http://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_ROSSIA1/variant.m3u8
-#EXTINF:-1 tvg-id="rossia1-pl8" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/3003.png" group-title="ТВ",Россия 1 +8
+#EXTINF:-1 tvg-id="rossia1-pl8" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rossia1_8.png" group-title="ТВ",Россия 1 +8
 #EXTVLCOPT:http-user-agent=WINK/1.63.1 (AndroidTV/9) HlsWinkPlayer
 https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA1/variant.m3u8
-#EXTINF:-1 tvg-id="rossia1-pl9" tvg-logo="https://iptvx.one/picons/rossia1-pl9.png" group-title="ТВ",Россия 1 +9
+#EXTINF:-1 tvg-id="rossia1-pl9" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rossia1_9.png" group-title="ТВ",Россия 1 +9
 #EXTVLCOPT:http-user-agent=WINK/1.63.1 (AndroidTV/9) HlsWinkPlayer
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
 #EXTINF:-1 tvg-id="tnt" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/tnt.png" group-title="ТВ",ТНТ
