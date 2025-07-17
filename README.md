@@ -6,14 +6,14 @@
 
 # CLI
 ## установить зависимости:
-### curl fzf mpv
+### `curl fzf mpv`
 ## поднастроить mpv:
-### mkdir -pv ~/.config/mpv/
-### > ~/.config/mpv/mpv.conf
-### echo "user-agent=\\"WINK/1.64.2 (AndroidTV/9) HlsWinkPlayer\\"" > ~/.config/mpv/mpv.conf
+### `mkdir -pv ~/.config/mpv/`
+### `> ~/.config/mpv/mpv.conf`
+### `echo "user-agent=\\"WINK/1.64.2 (AndroidTV/9) HlsWinkPlayer\\"" > ~/.config/mpv/mpv.conf`
 ## устновить приложение:
-### sudo wget https://raw.githubusercontent.com/shahin8r/iptv/master/iptv -qO /usr/local/bin/iptv && sudo chmod +x /usr/local/bin/iptv
+### `sudo wget https://raw.githubusercontent.com/shahin8r/iptv/master/iptv -qO /usr/local/bin/iptv && sudo chmod +x /usr/local/bin/iptv`
 ## подгрузить плейлист:
-### iptv https://raw.githubusercontent.com/gnomba/iptv/main/Playlist.m3u
+### `iptv https://raw.githubusercontent.com/gnomba/iptv/main/Playlist.m3u`
 ## запустить:
-### iptv
+### `iptv`
