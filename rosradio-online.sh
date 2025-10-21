@@ -11,9 +11,8 @@ for vSTATION in ${vREGIONS}; do
     for vDETAIL_ITEM in ${vDETAIL_LIST}; do
         echo "    - ${vDETAIL_ITEM}"
         vDETAIL_URL="${vBASE_URL}/${vDETAIL_ITEM}"
-        vDETAIL_HTML="$(curl -s ${vDETAIL_URL})"
+        vDETAIL_HTML="$(curl -s ${vDETAIL_URL} | sed 's/ (Горный Алтай)//g')"
         vDETAIL_NAME="$(echo "${vDETAIL_HTML}" | grep '<td class=city>' | sed 's/^<tr height=70><td class=city>//;s/<\/td><\/tr>.*$//')"
-        
         echo "${vDETAIL_NAME}"
         vNAME="$(echo "${vDETAIL_NAME}" | awk -F"<br>" '{print $1}')"; echo "${vNAME}"
         vCITY="$(echo "${vDETAIL_NAME}" | grep -oP "(?<=<br>)[^(']+(?= \()")"; echo "${vCITY}"
@@ -21,10 +20,10 @@ for vSTATION in ${vREGIONS}; do
         vFM="$(echo "${vDETAIL_NAME}" | awk -F"<br>" '{print $3}')"; echo "${vFM}"
         vDETAIL_LOGO="$(echo "${vDETAIL_HTML}" | grep -o 'logos.*.jpg')"; echo "${vDETAIL_LOGO}"
         vLOGO="${vBASE_URL}/${vDETAIL_LOGO}"; echo "${vLOGO}"
-        break
+        #break
     done
 
-    break
+    #break
 done
 
 exit 0
