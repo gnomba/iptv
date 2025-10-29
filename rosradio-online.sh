@@ -2,7 +2,8 @@
 
 vRED='\033[0;31m'
 vGREEN='\033[0;32m'
-vNC='\033[0m' # No Color
+vYELLOW='\033[0;33m'
+vNoColor='\033[0m' # No Color
 
 vBASE_URL="https://rosradio-online.ru"
 echo "[+] ${vBASE_URL}"
@@ -38,19 +39,17 @@ for vSTATION in ${vREGIONS}; do
         for vHTTP_ITEM in ${vHTTP_LIST}; do
             echo "ITEM ->  ${vHTTP_ITEM}"
             sleep 1
-            vTEMP_FILE="$(mktemp)"; echo "${vTEMP_FILE}"
-            timeout 5 ffprobe -hide_banner -v 0 -select_streams v -print_format flat -show_format -show_streams ${vHTTP_ITEM} 2>&1 > "${vTEMP_FILE}"
-            ll ${vTEMP_FILE}; cat ${vTEMP_FILE}
-            vRESULT="$(grep 'format_name=' "${vTEMP_FILE}" | awk -F'"' '{print $2}')"
-            rm -fv "${vTEMP_FILE}"
-            echo "vRESULT=${vRESULT}"
-            if [[ "${vRESULT}" != "" ]]; then
-                echo -e " ${vGREEN}[+] CHECK: OK -> ${vRESULT}${vNC}"
+            #ffprobe -i ${vHTTP_ITEM} 2>&1 | egrep 'Stream ' > temp.txt
+            #vRESULT="$(cat temp.txt)"
+            #echo "vRESULT=${vRESULT}"
+            if (ffprobe -v error -i ${vHTTP_ITEM} 2>&1) | egrep 'Stream '; then
+                echo -e " ${vGREEN}[+] CHECK: OK -> \"\"${vNoColor}"
             else
-                echo -e " ${vRED}[-] CHECK: ${vRESULT}${vNC}"
+                echo -e " ${vRED}[-] CHECK: \"\"${vNoColor}"
             fi
+            vRESULT=""; rm -fv temp.txt
         done
-        break
+        #break
     done
 
     break
