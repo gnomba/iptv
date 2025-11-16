@@ -44,18 +44,18 @@ for vSTATION in ${vREGIONS}; do
         vHTTP_LIST="$(echo "${vDETAIL_HTML}" | grep 'a class=link' | sed "s/<[^>]*>//g" | sed "s/Draw_Question2//g;s/(11)//g;s/\r$//g")"
         #echo "LIST: ${vHTTP_LIST}"
         for vHTTP_ITEM in ${vHTTP_LIST}; do
-            echo "ITEM ->  ${vHTTP_ITEM}"
-            vRESULT="$(curl -s --max-time 5 -A "Mozilla/5.0" -H "Icy-MetaData:0" -o /dev/null -w "%{http_code}" "${vHTTP_ITEM}")"
+            echo -e "ITEM ${vYELLOW}->${vNoColor}  ${vHTTP_ITEM}"
+            #vRESULT="$(curl -s --max-time 5 -A "Mozilla/5.0" -H "Icy-MetaData:0" -o /dev/null -w "%{http_code}" "${vHTTP_ITEM}")"
             #echo "vRESULT=${vRESULT}"
-            if [[ "${vRESULT}" != "404" && -n "${vHTTP_ITEM}" ]]; then
-                echo -e " ${vGREEN}[+] CHECK: OK -> \"${vRESULT}\"${vNoColor}"
-                echo -e "#EXTINF:-1 tvg-name=\"${vNAME}\" tvg-logo=\"${vLOGO}\" group-title=\"${vREGION}\",${vNAME} [${vCITY} ${vFM}]\n${vHTTP_ITEM}\n" >> rosradio-online_${vREGION// /_}.m3u
-            else
-                echo -e " ${vRED}[-] CHECK: \"${vRESULT}\"${vNoColor}"
-                echo -e "#EXTINF:-1 tvg-name=\"${vNAME}\" tvg-logo=\"${vLOGO}\" group-title=\"${vREGION}\",${vNAME} [${vCITY} ${vFM}]\n${vHTTP_ITEM}\n" >> ${vRESULT}.txt
-            fi
-            #echo "${vHTTP_ITEM}" >> ${vRESULT}.txt
-            vRESULT=""
+            #if [[ "${vRESULT}" != "404" && -n "${vHTTP_ITEM}" ]]; then
+            #    echo -e " ${vGREEN}[+] CHECK: OK -> \"${vRESULT}\"${vNoColor}"
+            #    echo -e "#EXTINF:-1 tvg-name=\"${vNAME}\" tvg-logo=\"${vLOGO}\" group-title=\"${vREGION}\",${vNAME} [${vCITY} ${vFM}]\n${vHTTP_ITEM}\n" >> rosradio-online_${vREGION// /_}.m3u
+            #else
+            #    echo -e " ${vRED}[-] CHECK: \"${vRESULT}\"${vNoColor}"
+            #    echo -e "#EXTINF:-1 tvg-name=\"${vNAME}\" tvg-logo=\"${vLOGO}\" group-title=\"${vREGION}\",${vNAME} [${vCITY} ${vFM}]\n${vHTTP_ITEM}\n" >> ${vRESULT}.txt
+            #fi
+            echo -e "#EXTINF:-1 tvg-name=\"${vNAME}\" tvg-logo=\"${vLOGO}\" group-title=\"${vREGION}\",${vNAME} [${vCITY} ${vFM}]\n${vHTTP_ITEM}\n" >> rosradio-online.m3u
+            #vRESULT=""
         done
         #break
     done
