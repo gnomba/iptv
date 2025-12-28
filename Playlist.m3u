@@ -144,7 +144,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8?version=2
 #EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8?version=2
 
-#EXTINF:-1 tvg-name="ТНТ4 Int." tvg-id="tnt4-international" tvg-logo="https://iptvx.one/picons/tnt4.png" group-title="Развлекательные",ТНТ4 Int.
+#EXTINF:-1 tvg-name="ТНТ4 Int." tvg-id="tnt4-international" tvg-logo="https://iptvx.one/picons/tnt4.png" group-title="ТВ",ТНТ4 Int.
 https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
 
 #EXTINF:-1 tvg-name="РТР-Планета Европа" tvg-id="rtr-planeta-eu" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rtr-planeta_eu.png" group-title="ТВ",РТР-Планета Европа
