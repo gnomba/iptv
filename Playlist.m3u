@@ -98,7 +98,7 @@ https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA1/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
 
-#EXTINF:-1 tvg-name="ТНТ" tvg-id="tnt" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/tnt.png" group-title="ТВ",ТНТ (-1)
+#EXTINF:-1 tvg-name="ТНТ" tvg-id="tnt" tvg-shift="+1" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/tnt.png" group-title="ТВ",ТНТ (-1)
 http://dmi3y-tv6.ru/hls/DVB-T2/CH_TNT-1.m3u8
 
 #EXTINF:-1 tvg-name="ТНТ" tvg-id="tnt" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/tnt.png" group-title="ТВ",ТНТ
@@ -125,8 +125,8 @@ http://dmi3y-tv6.ru/hls/DVB-T2/CH_TNT_6.m3u8
 #https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8?version=2
 http://dmi3y-tv6.ru/hls/DVB-T2/CH_TNT_7.m3u8
 
-#EXTINF:-1 tvg-name="ТНТ-International (Европа)" tvg-id="tnt-int-eu" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/tnt_int-eu.png" group-title="ТВ",ТНТ-International (Европа)
-http://85.187.13.40:18000/tntint
+#EXTINF:-1 tvg-name="ТНТ Int. (Европа)" tvg-id="tnt-int-eu" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/tnt_int-eu.png" group-title="ТВ",ТНТ Int. (Европа)
+http://178.134.1.158:8081/tnt/index.m3u8
 
 #EXTINF:-1 tvg-name="ТНТ4" tvg-id="tnt4" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/tnt4.png" group-title="ТВ",ТНТ4
 #EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
@@ -143,6 +143,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8?version=2
 #EXTINF:-1 tvg-name="ТНТ4 (+7)" tvg-id="tnt4-pl7" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/tnt4_7.png" group-title="ТВ",ТНТ4 (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-name="ТНТ4 Int." tvg-id="tnt4-international" tvg-logo="https://iptvx.one/picons/tnt4.png" group-title="Развлекательные",ТНТ4 Int.
+https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
 
 #EXTINF:-1 tvg-name="РТР-Планета Европа" tvg-id="rtr-planeta-eu" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rtr-planeta_eu.png" group-title="ТВ",РТР-Планета Европа
 http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8
