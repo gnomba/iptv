@@ -147,6 +147,9 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 tvg-name="Россия 24" tvg-id="rossia-24" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rossia-24.png" group-title="ТВ",Россия 24 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 
+#EXTINF:-1 tvg-name="Россия 24" tvg-id="rossia-24" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rossia-24.png" group-title="ТВ",Россия 24 International
+https://player.smotrim.ru/iframe/stream/live_id/3214d57c-8651-435a-938c-be13bfd00a04
+
 #EXTINF:-1 tvg-name="Соловьев.Live" tvg-id="solovjinypomiot" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/soloviev-live.jpg" group-title="ТВ",Соловьев.Live
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
 
@@ -171,7 +174,8 @@ http://194.158.222.36:6107
 https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-1k_v5.m3u8
 
 #EXTINF:-1 tvg-name="Рен ТВ" tvg-id="rentv" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/18.png" group-title="ТВ",Рен ТВ
-http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
+#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 
 #EXTINF:-1 tvg-name="Звезда" tvg-id="zvezda" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/405.png" group-title="ТВ",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
@@ -185,6 +189,7 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Победа" tvg-id="pobeda" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2447.png" group-title="ТВ",Победа
 #EXTVLCOPT:http-referrer=https://pobeda.tv/
 https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b5128000_slru.m3u8
+#https://streaming.thestream.cyou/live/43.m3u8
 
 #EXTINF:-1 tvg-name="Пятый канал" tvg-id="5kanal-ru" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/427.png" group-title="ТВ",Пятый канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
