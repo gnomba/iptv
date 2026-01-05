@@ -17,3 +17,6 @@
 ### `iptv https://raw.githubusercontent.com/gnomba/iptv/main/Playlist.m3u`
 ## запустить:
 ### `iptv`
+
+# m3u.su
+### `for vNUM in $(curl -s https://m3u.su/ | grep page-link | sed -e 's/<[^>]*>//g' | awk '{print $1}'); do for vFILE in $(curl -s https://m3u.su/page/${vNUM} | grep 'm3u.su/'); do wget ${vFILE}.m3u; done; done`
