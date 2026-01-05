@@ -19,4 +19,8 @@
 ### `iptv`
 
 # m3u.su
+## BASH
 ### `for vNUM in $(curl -s https://m3u.su/ | grep page-link | sed -e 's/<[^>]*>//g' | awk '{print $1}'); do for vFILE in $(curl -s https://m3u.su/page/${vNUM} | grep 'm3u.su/'); do wget ${vFILE}.m3u; done; done`
+## POWERSHELL
+### `$fileNames = (Get-ChildItem -File *.m3u | ForEach-Object {$_.Name}); $fileNames.Length`
+### `$fileNames | ForEach-Object {./iptv-m3u-checker.ps1 "$_"}`
