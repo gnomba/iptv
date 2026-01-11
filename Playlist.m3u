@@ -256,7 +256,8 @@ http://s18209.cdn.ngenix.net/hls/CH_R02_STS/playlist.m3u8
 http://178.212.71.253:8002/play/a00r/index.m3u8
 
 #EXTINF:-1 tvg-name="ТВ3" tvg-id="tv3-ru" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/698.png" group-title="ТВ",ТВ3
-http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
+#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 
 #EXTINF:-1 tvg-name="Мир" tvg-id="mir" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/726.png" group-title="ТВ",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
@@ -270,17 +271,7 @@ https://cdn-01.bonus-tv.ru/RussiaToday/playlist.m3u8
 #EXTINF:-1 tvg-name="RT Д Русский" tvg-id="rtd-ru" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2295.png" group-title="ТВ",RT Д Русский
 https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Al Jazeera International" tvg-id="al-jazeera-int" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2131.png" group-title="ТВ",Al Jazeera International
-http://m3u8.ott.blue/watch/92/video.m3u8?geo=auto&token=94450098895765784220366841698509
-
-#EXTINF:-1 tvg-name="Fox News [иноагент]" tvg-id="fox-news-us" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/8405.png" group-title="ТВ",Fox News [иноагент]
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="CNN [иноагент]" tvg-id="cnn" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/8372.png" group-title="ТВ",CNN Int [иноагент]
-https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
-
-#EXTINF:-1 tvg-name="BBC [иноагент]" tvg-id="bbc" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/828.png" group-title="ТВ",BBC [иноагент]
-https://d1kvlt93j1bc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6vpx7bvwjm7ao/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
+##EXTINF:-1 tvg-name="Al Jazeera International" tvg-id="al-jazeera-int" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2131.png" group-title="ТВ",Al Jazeera International
 
 #EXTINF:-1 tvg-name="RTVi" tvg-id="rtvi" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2401.png" group-title="ТВ",RTVi
 #EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
@@ -305,39 +296,35 @@ http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 tvg-name="312 Кино" tvg-id="312-kino" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/6654.png" group-title="Кино",312 Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 
-#EXTINF:-1 tvg-name="4K Русское кино HD" tvg-id="4k-ruskino" tvg-logo="https://iptvx.one/picons/4k-ruskino.png" group-title="Кино",4K Русское кино HD
-http://158.101.211.157:2020/channel/30e32928/index.m3u8?q=fbd037f5f317272809a6470ae115f9fe
+##EXTINF:-1 tvg-name="4K Русское кино HD" tvg-id="4k-ruskino" tvg-logo="https://iptvx.one/picons/4k-ruskino.png" group-title="Кино",4K Русское кино HD
 
 #EXTINF:-1 tvg-name="Amedia 1" tvg-id="amedia1" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/1371.png" group-title="Кино",Amedia 1
-http://185.50.148.2:7707/A1/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=amedia
 
 #EXTINF:-1 tvg-name="Amedia 2" tvg-id="amedia2" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2492.png" group-title="Кино",Amedia 2
-http://185.50.148.2:7707/A2/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=amedia2
 
 #EXTINF:-1 tvg-name="Amedia Hit" tvg-id="amedia-hit" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2007.png" group-title="Кино",Amedia Hit
-http://stream01.vnet.am/Nauka/mono.m3u8
+http://158.101.222.193:88/georgia_play.php?id=amediahit
 
-#EXTINF:-1 tvg-name="Amedia Premium HD" tvg-id="amedia-premium" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/1372.png" group-title="Кино",Amedia Premium HD
-http://stream01.vnet.am/AmediaPremium/mono.m3u8
+##EXTINF:-1 tvg-name="Amedia Premium HD" tvg-id="amedia-premium" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/1372.png" group-title="Кино",Amedia Premium HD
 
 #EXTINF:-1 tvg-name="Bollywood HD" tvg-id="bollywood-hd" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/1395.png" group-title="Кино",Bollywood HD
-http://stream-msk-10.ott.tricolor.tv/dtv/id640_MSKSG-PVR-1--Bollywood/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MzA5MDQ4MiwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUyNDg1NjgyLCJzZXNzaW9uX2lkIjoiZjc2ZTkxZGMzYmJlOTgwYzhjODcyMmFiOTk1ZDM5MDkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.VWBMEQMPzqPwzYVypq9Q0Gh6DZSo191NzCAwvVeFOeY
+http://176.118.197.101/Bollywood_HD/index.m3u8
 
 #EXTINF:-1 tvg-name="Bolt Россия" tvg-id="bolt-ru" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2138.png" group-title="Кино",Bolt Россия
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://api.peers.tv/timeshift/bolt_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Mzg5MjE1ODAsImlhdCI6MTczODgzNTE4MCwiY2lkIjo2LCJ1aWQiOjg5MTU4NDczNCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.tEPhXbf7ZdTAQETmvgGuy9cAXPYWZcJfkkS9oUfrUis&offset=3
+http://hls127.freeott.top:8080/Bolt/mono.m3u8
 
 #EXTINF:-1 tvg-name="Cinema" tvg-id="cinema-ru" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2754.png" group-title="Кино",Cinema
-http://stream-msk-06.ott.tricolor.tv/dtv/id423_MSKSG-PVR-1--Cinema/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MzA5MDQ4MiwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUyNDg1NjgyLCJzZXNzaW9uX2lkIjoiZjc2ZTkxZGMzYmJlOTgwYzhjODcyMmFiOTk1ZDM5MDkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.VWBMEQMPzqPwzYVypq9Q0Gh6DZSo191NzCAwvVeFOeY
+http://176.118.197.101/Cinema/index.m3u8
 
-#EXTINF:-1 tvg-name="Cinema Космос ТВ" tvg-id="cinema" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2549.png" group-title="Кино",Cinema Космос ТВ
-http://178.124.152.238:8088/cinema
+##EXTINF:-1 tvg-name="Cinema Космос ТВ" tvg-id="cinema" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2549.png" group-title="Кино",Cinema Космос ТВ
 
-#EXTINF:-1 tvg-name="Comedy Central" tvg-id="paramount-comedy" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/920.png" group-title="Кино",Comedy Central
-https://woobl.ru/stream/157.m3u8
+##EXTINF:-1 tvg-name="Comedy Central" tvg-id="paramount-comedy" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/920.png" group-title="Кино",Comedy Central
 
 #EXTINF:-1 tvg-name="FAN HD" tvg-id="fanhd" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2359.png" group-title="Кино",FAN HD
-http://stream-msk-08.ott.tricolor.tv/dtv/id511_MSKSG-PVR-1--FAN_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MzA5MDQ4MiwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUyNDg1NjgyLCJzZXNzaW9uX2lkIjoiZjc2ZTkxZGMzYmJlOTgwYzhjODcyMmFiOTk1ZDM5MDkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.VWBMEQMPzqPwzYVypq9Q0Gh6DZSo191NzCAwvVeFOeY
+http://31.148.48.15/Fan/index.m3u8
 
 #EXTINF:-1 tvg-name="FilmBox Russia" tvg-id="filmbox-ru" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2181.png" group-title="Кино",FilmBox Russia
 http://api.peers.tv/timeshift/filmbox/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Mzg5MjE1ODAsImlhdCI6MTczODgzNTE4MCwiY2lkIjo2LCJ1aWQiOjg5MTU4NDczNCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.tEPhXbf7ZdTAQETmvgGuy9cAXPYWZcJfkkS9oUfrUis&offset=3
@@ -835,9 +822,6 @@ https://stream-msk-09.ott.tricolor.tv/dtv/id700_MSKSG-PVR-1--Hokeinii_HD/02/plst
 
 ###- РЕГИОНЫ -###
 
-#EXTINF:-1 tvg-name="1 Республиканский" tvg-logo="https://dan-news.ru/storage/c/2022/02/15/1644911761_141773_87.jpg" group-title="Регионы",1 Республиканский
-https://streaming.televizor-24-tochka.ru/live/27.m3u8
-
 #EXTINF:-1 tvg-name="12 Канал [Омск]" tvg-id="12-omsk" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/5841.png" group-title="Регионы",12 Канал [Омск]
 http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 
@@ -894,11 +878,8 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus3.smil/chunklist_b5160000_sleng.m3u8
 #http://dmi3y-tv6.ru/hls/blrus/CH_BELARUS3HD.m3u8
 
-#EXTINF:-1 tvg-name="Беларусь 5 HD" tvg-id="belarus5" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2541.png" group-title="Регионы",Беларусь 5 HD
+#EXTINF:-1 tvg-name="Беларусь 5 HD" tvg-id="belarus5" tvg-logo="https://iptvx.one/picons/belarus5-inet.png" group-title="Регионы",Беларусь 5 HD
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Беларусь 5 Интернет" tvg-id="belarus5-inet" tvg-logo="https://iptvx.one/picons/belarus5-inet.png" group-title="Регионы",Беларусь 5 Интернет
-https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int/chunklist_w601692199_b2660000_sleng.m3u8
 
 #EXTINF:-1 tvg-name="БелРос" tvg-id="tro" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2294.png" group-title="Регионы",БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
@@ -925,7 +906,7 @@ https://www.gtk.tv/hls/gtyar.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_YARL_GTREG/variant.m3u8
 
-#EXTINF:-1 tvg-name="Губерния Самара" tvg-id="gubernia-samara" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/6750.png" group-title="Регионы",Губерния Самара
+#EXTINF:-1 tvg-name="Губерния [Самара]" tvg-id="gubernia-samara" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/6750.png" group-title="Регионы",Губерния [Самара]
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Губерния [Хабаровск]" tvg-id="gubernia" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/6751.png" group-title="Регионы",Губерния [Хабаровск]
@@ -944,7 +925,7 @@ http://195.26.83.96:7029/play/a009
 #EXTINF:-1 tvg-name="Енисей HD [Красноярск]" tvg-id="enisey-region" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/5819.png" group-title="Регионы",Енисей HD [Красноярск]
 https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Кавказ 24" tvg-id="kavkaz24" tvg-logo="https://iptvx.one/picons/kavkaz24.png" group-title="Регионы",Кавказ 24
+#EXTINF:-1 tvg-name="Кавказ 24 [Ставрополь]" tvg-id="kavkaz24" tvg-logo="https://iptvx.one/picons/kavkaz24.png" group-title="Регионы",Кавказ 24 [Ставрополь]
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
 #https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/track_103_93b61749/chunklist.m3u8
 
@@ -965,14 +946,14 @@ http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Крик-ТВ [Екатеринбург]" tvg-id="krik-tv" tvg-logo="https://iptvx.one/picons/krik-tv.png" group-title="Регионы",Крик-ТВ [Екатеринбург]
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Крым 24" tvg-id="krym24" tvg-logo="https://iptvx.one/picons/krym24.png" group-title="Регионы",Крым 24
+#EXTINF:-1 tvg-name="Крым 24 [Симферополь]" tvg-id="krym24" tvg-logo="https://iptvx.one/picons/krym24.png" group-title="Регионы",Крым 24 [Симферополь]
 http://live24.trkcrimea.ru/24tvcrimea.m3u8
 
-#EXTINF:-1 tvg-name="Кубань 24" tvg-id="kuban-24" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/6027.png" group-title="Регионы",Кубань 24
+#EXTINF:-1 tvg-name="Кубань 24 [Краснодар]" tvg-id="kuban-24" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/6027.png" group-title="Регионы",Кубань 24 [Краснодар]
 #EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
 
-#EXTINF:-1 tvg-name="Легендарный 24 HD" tvg-id="legendarny24" tvg-logo="https://iptvx.one/picons/legendarny24.png" group-title="Регионы",Легендарный 24 HD
+#EXTINF:-1 tvg-name="Легендарный 24 HD [Севастополь]" tvg-id="legendarny24" tvg-logo="https://iptvx.one/picons/legendarny24.png" group-title="Регионы",Легендарный 24 HD [Севастополь]
 https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 
 #EXTINF:-1 tvg-name="Лен ТВ 24 [Санкт-Петербург]" tvg-id="lot-47" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/7701.png" group-title="Регионы",Лен ТВ 24 [Санкт-Петербург]
@@ -997,30 +978,33 @@ http://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7
 http://dmi3y-tv6.ru/hls/region/CH_MTVHD720_VGRAD.m3u8
 
 #EXTINF:-1 tvg-name="Наша Сибирь" tvg-id="nasha-sibir" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/4444.png" group-title="Регионы",Наша Сибирь
-http://185.23.80.28:8080/NashaSibir/index.m3u8?token=test
+http://arbiter.bolshoe.tv/?path=abr1/nashasibirHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDI2IDc6NTI6NTQgQU0maGFzaF92YWx1ZT1KQzJURUQrRTR2YVhTejhWUGNCS2RBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 tvg-name="Нижний Новгород 24" tvg-id="nn-24" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/7698.png" group-title="Регионы",Нижний Новгород 24
 http://dmi3y-tv6.ru/hls/smotrim/region/CH_NN24_NN.m3u8
 
-#EXTINF:-1 tvg-name="ННТВ" tvg-id="nntv" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/5706.png" group-title="Регионы",ННТВ
+#EXTINF:-1 tvg-name="ННТВ [Нижний Новгород]" tvg-id="nntv" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/5706.png" group-title="Регионы",ННТВ [Нижний Новгород]
 #EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
 
-#EXTINF:-1 tvg-name="НТС Иркутск" tvg-id="nts-irkutsk" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/6745.png" group-title="Регионы",НТС Иркутск
+#EXTINF:-1 tvg-name="НТС [Иркутск]" tvg-id="nts-irkutsk" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/6745.png" group-title="Регионы",НТС [Иркутск]
 #EXTVLCOPT:http-user-agent=SmartTV
 http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_RENTVIRK/variant.m3u8
 
-#EXTINF:-1 tvg-name="НТС Севастополь" tvg-id="nts-sevastopol" tvg-logo="https://iptvx.one/picons/nts-sevastopol.png" group-title="Регионы",НТС Севастополь
+#EXTINF:-1 tvg-name="НТС [Севастополь]" tvg-id="nts-sevastopol" tvg-logo="https://iptvx.one/picons/nts-sevastopol.png" group-title="Регионы",НТС [Севастополь]
 http://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="Оплот ТВ" tvg-logo="http://filarmonia-donetsk.ru/wp-content/uploads/2016/07/oplot.png" group-title="Регионы",Оплот ТВ
-http://130.193.73.10:8937/play/a003
+#EXTINF:-1 tvg-name="Оплот ТВ [Донецк]" tvg-logo="https://tvtvtv.ru/icons/oplot_tv.png" group-title="Регионы",Оплот ТВ [Донецк]
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://31.131.141.195:8000/play/a006/index.m3u8
 
-#EXTINF:-1 tvg-name="Оплот 2" tvg-logo="https://tvtvtv.ru/icons/oplot_2.png" group-title="Регионы",Оплот 2
-http://130.193.73.10:8937/play/a004
+##EXTINF:-1 tvg-name="Оплот 2 [ДНР]" tvg-logo="https://tvtvtv.ru/icons/oplot_2.png" group-title="Регионы",Оплот 2 [ДНР]
 
-#EXTINF:-1 tvg-name="Первый Крымский" tvg-id="pervy-krymsky" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2472.png" group-title="Регионы",Первый Крымский
-http://live1.trkcrimea.ru/1tvcrimea.m3u8
+#EXTINF:-1 tvg-name="Первый крымский [Симферополь]" tvg-id="pervy-krymsky" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2472.png" group-title="Регионы",Первый крымский [Симферополь]
+https://live1.1tvcrimea.ru/1tvcrimea.m3u8
+
+#EXTINF:-1 tvg-name="Первый Республиканский [Донецк]" tvg-logo="https://dan-news.ru/storage/c/2022/02/15/1644911761_141773_87.jpg" group-title="Регионы",Первый Республиканский [Донецк]
+https://streaming.televizor-24-tochka.ru/live/27.m3u8
 
 #EXTINF:-1 tvg-name="Первый Ростовский" tvg-id="pervy-rostovsky" tvg-logo="https://iptvx.one/picons/pervy-rostovsky.png" group-title="Регионы",Первый Ростовский
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -1029,36 +1013,31 @@ http://dmi3y-tv6.ru/hls/zabava/region/RD/CH_1ROSTOVSKIYHD.m3u8
 #EXTINF:-1 tvg-name="Первый Ярославский" tvg-id="pervy-yaroslavsky" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/7711.png" group-title="Регионы",Первый Ярославский
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
 
-#EXTINF:-1 tvg-name="Первый Ярославский" tvg-id="pervy-yaroslavsky" tvg-logo="https://iptvx.one/picons/pervy-yaroslavsky.png" group-title="Регионы",Первый Ярославский
-https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist_hdhigh.m3u8
-
-#EXTINF:-1 tvg-name="Прима" tvg-id="prima" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/5818.png" group-title="Регионы",Прима
+#EXTINF:-1 tvg-name="Прима [Красноярск]" tvg-id="prima" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/5818.png" group-title="Регионы",Прима [Красноярск]
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Продвижение (Астрахань)" tvg-id="prodvizhenie" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2297.png" group-title="Регионы",Продвижение (Астрахань)
+#EXTINF:-1 tvg-name="Продвижение [Астрахань]" tvg-id="prodvizhenie" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2297.png" group-title="Регионы",Продвижение [Астрахань]
 #EXTVLCOPT:http-user-agent=SmartTV
 http://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R03_PRO_ASTRAKHAN/variant.m3u8
 
-#EXTINF:-1 tvg-name="Регион 29" tvg-id="region29" tvg-logo="https://iptvx.one/picons/region29.png" group-title="Регионы",Регион 29
+#EXTINF:-1 tvg-name="Регион 29 [Архангельск]" tvg-id="region29" tvg-logo="https://iptvx.one/picons/region29.png" group-title="Регионы",Регион 29 [Архангельск]
 #EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
 http://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PRAVDASEVERA/variant.m3u8
 
-#EXTINF:-1 tvg-name="Репортер 73" tvg-id="reportior-73" tvg-logo="https://iptvx.one/picons/reportior-73.png" group-title="Регионы",Репортер 73
+#EXTINF:-1 tvg-name="Репортер 73 [Ульяновск]" tvg-id="reportior-73" tvg-logo="https://iptvx.one/picons/reportior-73.png" group-title="Регионы",Репортер 73 [Ульяновск]
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_REP73/variant.m3u8
 
-#EXTINF:-1 tvg-name="Россия 1 (Волгоград)" tvg-id="rossia1" group-title="Регионы",Россия 1 (Волгоград)
+#EXTINF:-1 tvg-name="Россия 1 (Волгоград)" tvg-id="rossia1" group-title="Регионы",Россия 1 [Волгоград]
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
 
-#EXTINF:-1 tvg-name="Россия 1 (Кубань)" tvg-id="rossia1" group-title="Регионы",Россия 1 (Кубань)
+#EXTINF:-1 tvg-name="Россия 1 (Кубань)" tvg-id="rossia1" group-title="Регионы",Россия 1 [Кубань]
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnodar/russia1-sd/index.m3u8
 
-#EXTINF:-1 tvg-name="Россия 1 (Ярославль)" tvg-id="rossia1" group-title="Регионы",Россия 1 (Ярославль)
+#EXTINF:-1 tvg-name="Россия 1 (Ярославль)" tvg-id="rossia1" group-title="Регионы",Россия 1 [Ярославль]
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yaroslavl/russia1-sd/index.m3u8
 
-#EXTINF:-1 tvg-name="Ростов-папа HD" tvg-id="rostov-papa" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/5708.png" group-title="Регионы",Ростов-папа HD
-#EXTVLCOPT:http-user-agent=http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
-http://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R01_ROSTOVPAPA/variant.m3u8
+##EXTINF:-1 tvg-name="Ростов-папа HD" tvg-id="rostov-papa" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/5708.png" group-title="Регионы",Ростов-папа HD
 
 #EXTINF:-1 tvg-name="Рыбинск-40" tvg-id="rybinsk40" tvg-logo="https://iptvx.one/picons/rybinsk40.png" group-title="Регионы",Рыбинск-40
 #EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
@@ -1068,42 +1047,43 @@ https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_RYBINSK40/variant.m3u8?versi
 #EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
 http://player.smotrim.ru/iframe/stream/live_id/1a30bc46-0b5f-4f48-a3df-97e33bde0aa8
 
-#EXTINF:-1 tvg-name="Своё ТВ Ставрополь" tvg-id="svoyo-tv-stavropol" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/7692.png" group-title="Регионы",Своё ТВ Ставрополь
-https://svoetv.mediacdn.ru/cdn/svoetv/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-name="Своё ТВ HD [Ставрополь]" tvg-id="svoyo-tv-stavropol" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/7692.png" group-title="Регионы",Своё ТВ HD [Ставрополь]
+https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Север" tvg-id="sever" tvg-logo="https://iptvx.one/picons/sever.png" group-title="Регионы",Север 
+#EXTINF:-1 tvg-name="Север HD [Нарьян-Мар]" tvg-id="sever" tvg-logo="https://iptvx.one/picons/sever.png" group-title="Регионы",Север HD [Нарьян-Мар]
 http://live2.mediacdn.ru/sr1/sever/playlist_hdhigh.m3u8
 
 #EXTINF:-1 tvg-name="Сочи 24" tvg-id="sochi24" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2830.png" group-title="Регионы",Сочи 24
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Таврия ТВ" tvg-id="tavria" tvg-logo="https://iptvx.one/picons/tavria.png" group-title="Регионы",Таврия ТВ
+#EXTINF:-1 tvg-name="Таврия ТВ [Херсон]" tvg-id="tavria" tvg-logo="https://iptvx.one/picons/tavria.png" group-title="Регионы",Таврия ТВ [Херсон]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tavr.mediacdn.ru/cdn/tavria/playlist.m3u8
+https://bl.rutube.ru/livestream/c5a272dc23ad505667bc2b54f98a3241/index.m3u8?s=x60dcz_TmG1p0uw_393nzg&e=2068117996&scheme=https
+#https://rtpmedia-pull-hls.cdnvideo.ru/rtpmedia-pull/stream1/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-name="ТВ3 Беларусь" tvg-id="tv3-by" tvg-logo="https://iptvx.one/picons/tv3-by.png" group-title="Регионы",ТВ3 Беларусь
 http://93.189.224.246:52900/play/a00f/index.m3u8
 
-#EXTINF:-1 tvg-name="Ульяновская правда" tvg-id="ulianovskaya-pravda" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/7687.png" group-title="Регионы",Ульяновская правда
+#EXTINF:-1 tvg-name="Ульяновская правда [Ульяновск]" tvg-id="ulianovskaya-pravda" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/7687.png" group-title="Регионы",Ульяновская правда [Ульяновск]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R01_ULPRAVDA/variant.m3u8
 
-#EXTINF:-1 tvg-name="Хабар 24" tvg-id="xabar24" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2578.png" group-title="Регионы",Хабар 24
-https://stream-msk-17.ott.tricolor.tv/dtv/id947_MSKSG-PVR-1--KZ24_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MzA5MDQ4MiwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUyNDg1NjgyLCJzZXNzaW9uX2lkIjoiZjc2ZTkxZGMzYmJlOTgwYzhjODcyMmFiOTk1ZDM5MDkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.VWBMEQMPzqPwzYVypq9Q0Gh6DZSo191NzCAwvVeFOeY
+#EXTINF:-1 tvg-name="Хабар 24 [KZ]" tvg-id="xabar24" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2578.png" group-title="Регионы",Хабар 24 [KZ]
+https://iptv.itv.uz/hls/live/t/OrbEwO9sAWbLQfAljzrBhA/e/1768204375/1408/index.m3u8?ip=213.183.53.193
 
-#EXTINF:-1 tvg-name="O'zbekiston 24" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/7931.png" group-title="Регионы",O'zbekiston 24
+#EXTINF:-1 tvg-name="O'zbekiston 24 [UZ]" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/7931.png" group-title="Регионы",O'zbekiston 24 [UZ]
 https://s04.watcher.uz/8/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 
-#EXTINF:-1 tvg-name="O'zbekiston" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2644.png" group-title="Регионы",O'zbekiston
+#EXTINF:-1 tvg-name="O'zbekiston [UZ]" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2644.png" group-title="Регионы",O'zbekiston [UZ]
 https://s03.watcher.uz/56/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 
-#EXTINF:-1 tvg-name="Toshkent" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2646.png" group-title="Регионы",Toshkent
+#EXTINF:-1 tvg-name="Toshkent [UZ]" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2646.png" group-title="Регионы",Toshkent [UZ]
 https://s03.watcher.uz/58/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 
-#EXTINF:-1 tvg-name="TV1 KG" tvg-id="tv1-kg-hd" tvg-logo="https://iptvx.one/picons/tv1-kg-hd.png" group-title="Регионы",TV1 KG
+#EXTINF:-1 tvg-name="TV1 [KG]" tvg-id="tv1-kg-hd" tvg-logo="https://iptvx.one/picons/tv1-kg-hd.png" group-title="Регионы",TV1 [KG]
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Yoshlar" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2645.png" group-title="Регионы",Yoshlar
+#EXTINF:-1 tvg-name="Yoshlar [UZ]" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2645.png" group-title="Регионы",Yoshlar [UZ]
 https://s03.watcher.uz/57/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 
 ###- РАЗНОЕ -###
