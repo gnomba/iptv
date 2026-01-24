@@ -148,7 +148,7 @@ http://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150
 #EXTINF:-1 tvg-name="РТР-Планета Европа" tvg-id="rtr-planeta-eu" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rtr-planeta_eu.png" group-title="ТВ",РТР-Планета Европа
 http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8
 
-#EXTINF:-1 tvg-name="РТР-Планета СНГ" tvg-id="rtr-belarus" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rtr-planeta_sng.png" group-title="ТВ",РТР-Планета СНГ
+#EXTINF:-1 tvg-name="РТР-Планета СНГ" tvg-id="rtr-planeta-arm" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rtr-planeta_sng.png" group-title="ТВ",РТР-Планета СНГ
 https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f.m3u8
 
 #EXTINF:-1 tvg-name="Россия К" tvg-id="kultura" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/kultura.png" group-title="ТВ",Россия К HD
