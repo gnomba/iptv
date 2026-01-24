@@ -1,4 +1,4 @@
-#EXTM3U cache="5000" url-tvg="https://178.250.159.98/EPG_NOARCH" x-tvg-url="https://178.250.159.98/EPG_NOARCH"
+#EXTM3U cache="5000" url-tvg="https://iptvx.one/EPG_NOARCH" x-tvg-url="https://iptvx.one/EPG_NOARCH"
 ## https://epg.one/epg.xml.gz, http://api.catcast.tv/api/timetable/epg.xml, http://www.teleguide.info/download/new3/jtv.zip, https://www.teleguide.info/download/new3/xmltv.xml.gz, http://myott.top/api/epg.xml.gz
 ## iptvx.one - 178.250.159.98
 #PLAYLIST:Гитхуб
@@ -139,16 +139,16 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8?version=2
 #EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8?version=2
 
-#EXTINF:-1 tvg-name="РТР-Планета Европа" tvg-id="rtr-planeta-eu" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rtr-planeta_eu.png" group-title="ТВ",РТР-Планета Европа
-http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8
-
 #EXTINF:-1 tvg-name="РТР-Планета Азия" tvg-id="rtr-planeta-azia" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rtr-planeta_azia.png" group-title="ТВ",РТР-Планета Азия
 http://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363.m3u8
 
 #EXTINF:-1 tvg-name="РТР-Планета Америка" tvg-id="rtr-planeta-amerika" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rtr-planeta_amerika.png" group-title="ТВ",РТР-Планета Америка
 http://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150d6a.m3u8
 
-#EXTINF:-1 tvg-name="РТР-Планета СНГ" tvg-id="rtr-planeta-sng" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rtr-planeta_sng.png" group-title="ТВ",РТР-Планета СНГ
+#EXTINF:-1 tvg-name="РТР-Планета Европа" tvg-id="rtr-planeta-eu" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rtr-planeta_eu.png" group-title="ТВ",РТР-Планета Европа
+http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8
+
+#EXTINF:-1 tvg-name="РТР-Планета СНГ" tvg-id="rtr-belarus" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rtr-planeta_sng.png" group-title="ТВ",РТР-Планета СНГ
 https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f.m3u8
 
 #EXTINF:-1 tvg-name="Россия К" tvg-id="kultura" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/kultura.png" group-title="ТВ",Россия К HD
@@ -203,6 +203,7 @@ http://193.25.8.59:8000/tochka
 #https://streaming.thestream.cyou/live/43.m3u8
 
 #EXTINF:-1 tvg-name="Пятый канал" tvg-id="5kanal-ru" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/427.png" group-title="ТВ",Пятый канал
+#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 
 #EXTINF:-1 tvg-name="ОСН ТВ" tvg-id="osn-tv" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/6744.png" group-title="ТВ",ОСН ТВ
