@@ -1,8 +1,8 @@
-#EXTM3U cache="5000" url-tvg="https://iptvx.one/EPG_LITE" x-tvg-url="https://iptvx.one/EPG_LITE"
+#EXTM3U cache="5000" url-tvg="https://iptvx.one/EPG" x-tvg-url="https://iptvx.one/EPG"
 ## https://iptvx.one/EPG, https://iptvx.one/EPG_LITE, https://iptvx.one/EPG_NOARCH, https://epg.one/epg.xml.gz, https://www.teleguide.info/download/new3/xmltv.xml.gz
 #PLAYLIST:Гитхуб
 
-###- РАДИО -###
+# РАДИО #
 
 #EXTINF:-1 tvg-name="Radio Ultra" tvg-logo="https://top-radio.ru/assets/image/radio/180/radio-ultra.png" group-title="Радио",Radio Ultra
 http://nashe1.hostingradio.ru/ultra-192.mp3
@@ -43,7 +43,7 @@ https://radiorostova.ru:8443/rostovradio
 #EXTINF:-1 tvg-name="Соловьёв FM" tvg-id="solovjinypomiot" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/soloviev-fm.jpg" group-title="Радио",Соловьёв FM
 https://solovievfm.hostingradio.ru/solovievfm128.aacp
 
-###- ТВ -###
+# ТВ #
 
 #EXTINF:-1 tvg-name="Первый канал" tvg-id="pervy" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/pervy.png" group-title="ТВ",Первый канал
 #EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
@@ -289,7 +289,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
 
-###- КИНО -###
+# КИНО #
 
 #EXTINF:-1 tvg-name="312" tvg-id="312" tvg-logo="https://312tv.kg/v.jpg?v=1" group-title="Кино",312
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
@@ -644,7 +644,7 @@ rtmp://212.0.213.132//Fenix_Kino
 #EXTINF:-1 tvg-name="Хит HD" tvg-id="khit-hd" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2833.png" group-title="Кино",Хит HD
 http://stream-msk-09.ott.tricolor.tv/dtv/id644_MSKSG-PVR-1--Hit_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MzA5MDQ4MiwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUyNDg1NjgyLCJzZXNzaW9uX2lkIjoiZjc2ZTkxZGMzYmJlOTgwYzhjODcyMmFiOTk1ZDM5MDkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.VWBMEQMPzqPwzYVypq9Q0Gh6DZSo191NzCAwvVeFOeY
 
-###- МУЗЫКА -###
+# МУЗЫКА #
 
 #EXTINF:-1 tvg-name="AIVA" tvg-id="aiva" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2837.png" group-title="Музыка",AIVA
 https://stream-msk-11.ott.tricolor.tv/dtv/id935_MSKSG-PVR-1--AIVA_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MzA5MDQ4MiwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUyNDg1NjgyLCJzZXNzaW9uX2lkIjoiZjc2ZTkxZGMzYmJlOTgwYzhjODcyMmFiOTk1ZDM5MDkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.VWBMEQMPzqPwzYVypq9Q0Gh6DZSo191NzCAwvVeFOeY
@@ -724,7 +724,7 @@ http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-name="Шансон-TB" tvg-id="shanson-tv" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2278.png" group-title="Музыка",Шансон-TB
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 
-###- СПОРТ -###
+# СПОРТ #
 
 #EXTINF:-1 tvg-name="Eurosport 1 HD" tvg-id="eurosport1" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2052.png" group-title="Спорт",Eurosport 1 HD
 http://45.159.74.14:80/Eurosport/tracks-v1a2/mono.m3u8
@@ -821,7 +821,7 @@ http://185.23.80.28:8080/Football/index.m3u8?token=test
 #EXTINF:-1 tvg-name="Хоккей ТВ" tvg-id="xokkejny" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/4605.png" group-title="Спорт",Хоккей ТВ
 https://stream-msk-09.ott.tricolor.tv/dtv/id700_MSKSG-PVR-1--Hokeinii_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MzA5MDQ4MiwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUyNDg1NjgyLCJzZXNzaW9uX2lkIjoiZjc2ZTkxZGMzYmJlOTgwYzhjODcyMmFiOTk1ZDM5MDkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.VWBMEQMPzqPwzYVypq9Q0Gh6DZSo191NzCAwvVeFOeY
 
-###- РЕГИОНЫ -###
+# РЕГИОНЫ #
 
 #EXTINF:-1 tvg-name="12 Канал [Омск]" tvg-id="12-omsk" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/5841.png" group-title="Регионы",12 Канал [Омск]
 http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
@@ -1087,7 +1087,7 @@ http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Yoshlar [UZ]" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2645.png" group-title="Регионы",Yoshlar [UZ]
 https://s03.watcher.uz/57/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 
-###- РАЗНОЕ -###
+# РАЗНОЕ #
 
 #EXTINF:-1 tvg-name="360° Международный" tvg-id="360-int" src="https://iptvx.one/picons/360-int.png" group-title="Разное",360° Международный
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/mono.m3u8
@@ -1343,7 +1343,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_ECHOTV/variant.m3u8
 #EXTVLCOPT:http-user-agent=SmartTV
 https://mhd116.iptv2022.com/p/pKsAQqw6KIZ2gQWANvMzPQ,1738875628/streaming/eh_tv/324/1/index.m3u8
 
-###- ДЕТСКИЕ -###
+# ДЕТСКИЕ #
 
 #EXTINF:-1 tvg-name="Ani" tvg-id="ani" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2011.png" group-title="Детские",Ani
 http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
@@ -1408,23 +1408,23 @@ http://178.124.179.122:8088/Malish/index.m3u8
 #EXTINF:-1 tvg-name="Уникум" tvg-id="detsky" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/66.png" group-title="Детские",Уникум
 http://188.113.190.15/41/tracks-v1a1/index.m3u8
 
-###- NOTFOUND⛔ -###
+# NOTFOUND #
 
-##EXTINF:-1 tvg-name="За!ТВ (Запорожье)" tvg-logo="https://sun9-35.userapi.com/impg/sgS8RrNd-P2cuSEEY79JAB0y6YcT7p08GDWTgQ/SNf7cS0yNJw.jpg?size=1280x1280&quality=95&sign=68ee0a60c96534955a76f4aae7a55819&type=album" group-title="Регионы",За!ТВ (Запорожье)⛔
-##EXTINF:-1 tvg-name="Romance" tvg-id="romance" tvg-logo="https://iptvx.one/picons/romance.png" group-title="Кино",Romance⛔
-##EXTINF:-1 tvg-name="Travel Channel" tvg-id="travel-channel" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/613.png" group-title="Разное",Travel Channel⛔
-##EXTINF:-1 tvg-name="BACKUS TV Original HD" tvg-id="" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/4770.png" group-title="Кино",BACKUS TV Original HD⛔
-##EXTINF:-1 tvg-name="BACKUS TV Dark HD" tvg-id="" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/4662.png" group-title="Кино",BACKUS TV Dark HD⛔
-##EXTINF:-1 tvg-name="BackusTV Music" tvg-id="" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/6262.png" group-title="Музыка",BackusTV Music⛔
-##EXTINF:-1 tvg-name="Epic Drama HD" tvg-id="epik-drama" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2229.png" group-title="Кино",Epic Drama HD⛔
-##EXTINF:-1 tvg-name="Фантастика HD" tvg-id="" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/4780.png" group-title="Кино",Фантастика HD⛔
-##EXTINF:-1 tvg-name="Страх HD" tvg-id="" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/4779.png" group-title="Кино",Страх HD⛔
-##EXTINF:-1 tvg-name="FILM TV" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/991/347/png-transparent-cinema-clapperboard-film-computer-icons-cine-miscellaneous-angle-text-thumbnail.png" group-title="Кино",FILM TV⛔
-##EXTINF:-1 tvg-name="Film.Ua Drama" tvg-id="filmua-drama" tvg-logo="https://iptvx.one/picons/filmua-drama.png" group-title="Кино",Film.Ua Drama⛔
-##EXTINF:-1 tvg-name="Viasat Kino Action" tvg-id="tv1000-action-cee" tvg-logo="https://iptvx.one/picons/tv1000-action-cee.png" group-title="Кино",Viasat Kino Action⛔
-##EXTINF:-1 tvg-name="Super Plus HD" tvg-id="super-plus" tvg-logo="https://baltcom.lv/channel_logo/web_super_pluss.png" group-title="Кино",Super Plus HD⛔
-##EXTINF:-1 tvg-name="Первый Псковский" tvg-id="pervy-pskovsky" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/6667.png" group-title="Регионы",Первый Псковский⛔
-##EXTINF:-1 tvg-name="Крепкое кино" tvg-id="" tvg-logo="https://tricolorhd.msk.ru/images/logo_channel/ruskiy-mir-tv-ps1.png" group-title="Кино",Крепкое кино⛔
-##EXTINF:-1 tvg-name="Советское родное" tvg-id="" tvg-logo="https://tricolorhd.msk.ru/images/logo_channel/ruskiy-mir-tv-ps1.png" group-title="Кино",Советское родное⛔
-##EXTINF:-1 tvg-name="Димград 24" tvg-id="" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/7704.png" group-title="Регионы",Димград 24⛔
-##EXTINF:-1 tvg-name="Discovery Channel" tvg-id="discovery-channel" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/325.png" group-title="Разное",Discovery Channel⛔
+##EXTINF:-1 tvg-name="За!ТВ (Запорожье)" tvg-logo="https://sun9-35.userapi.com/impg/sgS8RrNd-P2cuSEEY79JAB0y6YcT7p08GDWTgQ/SNf7cS0yNJw.jpg?size=1280x1280&quality=95&sign=68ee0a60c96534955a76f4aae7a55819&type=album" group-title="Регионы",За!ТВ (Запорожье)
+##EXTINF:-1 tvg-name="Romance" tvg-id="romance" tvg-logo="https://iptvx.one/picons/romance.png" group-title="Кино",Romance
+##EXTINF:-1 tvg-name="Travel Channel" tvg-id="travel-channel" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/613.png" group-title="Разное",Travel Channel
+##EXTINF:-1 tvg-name="BACKUS TV Original HD" tvg-id="" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/4770.png" group-title="Кино",BACKUS TV Original HD
+##EXTINF:-1 tvg-name="BACKUS TV Dark HD" tvg-id="" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/4662.png" group-title="Кино",BACKUS TV Dark HD
+##EXTINF:-1 tvg-name="BackusTV Music" tvg-id="" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/6262.png" group-title="Музыка",BackusTV Music
+##EXTINF:-1 tvg-name="Epic Drama HD" tvg-id="epik-drama" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2229.png" group-title="Кино",Epic Drama HD
+##EXTINF:-1 tvg-name="Фантастика HD" tvg-id="" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/4780.png" group-title="Кино",Фантастика HD
+##EXTINF:-1 tvg-name="Страх HD" tvg-id="" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/4779.png" group-title="Кино",Страх HD
+##EXTINF:-1 tvg-name="FILM TV" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/991/347/png-transparent-cinema-clapperboard-film-computer-icons-cine-miscellaneous-angle-text-thumbnail.png" group-title="Кино",FILM TV
+##EXTINF:-1 tvg-name="Film.Ua Drama" tvg-id="filmua-drama" tvg-logo="https://iptvx.one/picons/filmua-drama.png" group-title="Кино",Film.Ua Drama
+##EXTINF:-1 tvg-name="Viasat Kino Action" tvg-id="tv1000-action-cee" tvg-logo="https://iptvx.one/picons/tv1000-action-cee.png" group-title="Кино",Viasat Kino Action
+##EXTINF:-1 tvg-name="Super Plus HD" tvg-id="super-plus" tvg-logo="https://baltcom.lv/channel_logo/web_super_pluss.png" group-title="Кино",Super Plus HD
+##EXTINF:-1 tvg-name="Первый Псковский" tvg-id="pervy-pskovsky" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/6667.png" group-title="Регионы",Первый Псковский
+##EXTINF:-1 tvg-name="Крепкое кино" tvg-id="" tvg-logo="https://tricolorhd.msk.ru/images/logo_channel/ruskiy-mir-tv-ps1.png" group-title="Кино",Крепкое кино
+##EXTINF:-1 tvg-name="Советское родное" tvg-id="" tvg-logo="https://tricolorhd.msk.ru/images/logo_channel/ruskiy-mir-tv-ps1.png" group-title="Кино",Советское родное
+##EXTINF:-1 tvg-name="Димград 24" tvg-id="" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/7704.png" group-title="Регионы",Димград 24
+##EXTINF:-1 tvg-name="Discovery Channel" tvg-id="discovery-channel" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/325.png" group-title="Разное",Discovery Channel
