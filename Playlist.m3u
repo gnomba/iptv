@@ -1,4 +1,4 @@
-#EXTM3U cache="5000" url-tvg="https://iptvx.one/EPG" x-tvg-url="https://iptvx.one/EPG"
+#EXTM3U cache="5000" url-tvg="https://iptvx.one/EPG,https://iptvx.one/EPG_LITE,https://iptvx.one/EPG_NOARCH" x-tvg-url="https://iptvx.one/EPG,https://iptvx.one/EPG_LITE,https://iptvx.one/EPG_NOARCH"
 ## https://iptvx.one/EPG, https://iptvx.one/EPG_LITE, https://iptvx.one/EPG_NOARCH, https://epg.one/epg.xml.gz, https://www.teleguide.info/download/new3/xmltv.xml.gz
 #PLAYLIST:Гитхуб
 
