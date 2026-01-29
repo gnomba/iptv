@@ -234,7 +234,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8?version=2
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 
 #EXTINF:-1 tvg-name="Домашний" tvg-id="domashny" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/304.png" group-title="ТВ",Домашний
-http://s18209.cdn.ngenix.net/hls/CH_R04_DOMASHNY/playlist.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8?version=2
 
 #EXTINF:-1 tvg-name="Домашний Int" tvg-id="domashny-int" tvg-logo="https://iptvx.one/picons/domashny-int.png" group-title="ТВ",Домашний Int
 https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
