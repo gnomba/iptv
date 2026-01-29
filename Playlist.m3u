@@ -184,7 +184,7 @@ https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-1k_v5
 
 #EXTINF:-1 tvg-name="Рен ТВ" tvg-id="rentv" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/18.png" group-title="ТВ",Рен ТВ
 #EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2
 
 #EXTINF:-1 tvg-name="Звезда" tvg-id="zvezda" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/405.png" group-title="ТВ",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
