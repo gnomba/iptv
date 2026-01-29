@@ -197,7 +197,8 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-name="Победа" tvg-id="pobeda" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2447.png" group-title="ТВ",Победа
 #EXTVLCOPT:http-referrer=https://pobeda.tv/
-http://193.25.8.59:8000/tochka
+https://pkvc-hls7.cdnvideo.ru/pkvc/pobeda/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=951f88b726ecd199ff293e3eaf4810e7
+#http://193.25.8.59:8000/tochka
 #https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b5128000_slru.m3u8
 #https://streaming.thestream.cyou/live/43.m3u8
 
