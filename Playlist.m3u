@@ -46,8 +46,8 @@ https://solovievfm.hostingradio.ru/solovievfm128.aacp
 # ТВ #
 
 #EXTINF:-1 tvg-name="Первый канал" tvg-id="pervy" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/pervy.png" group-title="ТВ",Первый канал
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 
 #EXTINF:-1 tvg-name="Россия 1 HD" tvg-id="rossia1" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rossia1.png" group-title="ТВ",Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
@@ -57,7 +57,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8
 
 #EXTINF:-1 tvg-name="Россия 1 +1" tvg-id="rossia1-pl1" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rossia1_1.png" group-title="ТВ",Россия 1 +1
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
 
 #EXTINF:-1 tvg-name="Россия 1 +2 HD" tvg-id="rossia1-pl2" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rossia1_2.png" group-title="ТВ",Россия 1 +2 HD
@@ -65,7 +65,7 @@ https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
 
 #EXTINF:-1 tvg-name="Россия 1 +3" tvg-id="rossia1-pl3" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rossia1_3.png" group-title="ТВ",Россия 1 +3
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
 
 #EXTINF:-1 tvg-name="Россия 1 +4 HD" tvg-id="rossia1-pl4" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rossia1_4.png" group-title="ТВ",Россия 1 +4 HD
@@ -73,7 +73,7 @@ https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOB
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
 
 #EXTINF:-1 tvg-name="Россия 1 +5 HD" tvg-id="rossia1-pl5" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rossia1_5.png" group-title="ТВ",Россия 1 +5 HD
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
 
 #EXTINF:-1 tvg-name="Россия 1 +6 HD" tvg-id="rossia1-pl6" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rossia1_6.png" group-title="ТВ",Россия 1 +6 HD
@@ -81,41 +81,41 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
 
 #EXTINF:-1 tvg-name="Россия 1 +7" tvg-id="rossia1-pl7" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rossia1_7.png" group-title="ТВ",Россия 1 +7
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
 http://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_ROSSIA1/variant.m3u8
 
 #EXTINF:-1 tvg-name="Россия 1 +8" tvg-id="rossia1-pl8" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rossia1_8.png" group-title="ТВ",Россия 1 +8
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
 https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA1/variant.m3u8
 
 #EXTINF:-1 tvg-name="Россия 1 +9" tvg-id="rossia1-pl9" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rossia1_9.png" group-title="ТВ",Россия 1 +9
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
 
 #EXTINF:-1 tvg-name="ТНТ" tvg-id="tnt" tvg-shift="+1" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/tnt.png" group-title="ТВ",ТНТ (-1)
 http://dmi3y-tv6.ru/hls/DVB-T2/CH_TNT-1.m3u8
 
 #EXTINF:-1 tvg-name="ТНТ" tvg-id="tnt" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/tnt.png" group-title="ТВ",ТНТ
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2
 #http://dmi3y-tv6.ru/hls/DVB-T2/CH_TNT.m3u8
 
 #EXTINF:-1 tvg-name="ТНТ (+2)" tvg-id="tnt-pl2" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/tnt_2.png" group-title="ТВ",ТНТ (+2)
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8?version=2
 #http://dmi3y-tv6.ru/hls/DVB-T2/CH_TNT_2.m3u8
 
 #EXTINF:-1 tvg-name="ТНТ (+4)" tvg-id="tnt-pl4" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/tnt_4.png" group-title="ТВ",ТНТ (+4)
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8?version=2
 #http://dmi3y-tv6.ru/hls/DVB-T2/CH_TNT_4.m3u8
 
 #EXTINF:-1 tvg-name="ТНТ (+6)" tvg-id="tnt" tvg-shift="-6" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/tnt_6.png" group-title="ТВ",ТНТ (+6)
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv6.ru/hls/DVB-T2/CH_TNT_6.m3u8
 
 #EXTINF:-1 tvg-name="ТНТ (+7)" tvg-id="tnt-pl7" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/tnt_7.png" group-title="ТВ",ТНТ (+7)
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8?version=2
 #http://dmi3y-tv6.ru/hls/DVB-T2/CH_TNT_7.m3u8
 
@@ -123,19 +123,19 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8?version=2
 http://178.134.1.158:8081/tnt/index.m3u8
 
 #EXTINF:-1 tvg-name="ТНТ4" tvg-id="tnt4" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/tnt4.png" group-title="ТВ",ТНТ4
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 
 #EXTINF:-1 tvg-name="ТНТ4 (+2)" tvg-id="tnt4-pl2" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/tnt4_2.png" group-title="ТВ",ТНТ4 (+2)
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8?version=2
 
 #EXTINF:-1 tvg-name="ТНТ4 (+4)" tvg-id="tnt4-pl4" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/tnt4_4.png" group-title="ТВ",ТНТ4 (+4)
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8?version=2
 
 #EXTINF:-1 tvg-name="ТНТ4 (+7)" tvg-id="tnt4-pl7" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/tnt4_7.png" group-title="ТВ",ТНТ4 (+7)
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8?version=2
 
 #EXTINF:-1 tvg-name="РТР-Планета Азия" tvg-id="rtr-planeta-azia" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rtr-planeta_azia.png" group-title="ТВ",РТР-Планета Азия
@@ -169,11 +169,11 @@ http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="НТВ" tvg-id="ntv" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/162.png" group-title="ТВ",НТВ
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
 http://cdn.ntv.ru/ntv0/playlist.m3u8
 
 #EXTINF:-1 tvg-name="НТВ HD" tvg-id="ntv" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2001.png" group-title="ТВ",НТВ HD
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="НТВ-Беларусь" tvg-id="ntv-belarus" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/6773.png" group-title="ТВ",НТВ-Беларусь
@@ -183,7 +183,7 @@ http://194.158.222.36:6107
 https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-1k_v5.m3u8
 
 #EXTINF:-1 tvg-name="Рен ТВ" tvg-id="rentv" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/18.png" group-title="ТВ",Рен ТВ
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 
 #EXTINF:-1 tvg-name="Звезда" tvg-id="zvezda" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/405.png" group-title="ТВ",Звезда
@@ -202,30 +202,30 @@ http://193.25.8.59:8000/tochka
 #https://streaming.thestream.cyou/live/43.m3u8
 
 #EXTINF:-1 tvg-name="Пятый канал" tvg-id="5kanal-ru" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/427.png" group-title="ТВ",Пятый канал
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 
 #EXTINF:-1 tvg-name="ОСН ТВ" tvg-id="osn-tv" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/6744.png" group-title="ТВ",ОСН ТВ
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ТВ Центр" tvg-id="tvcentr" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/649.png" group-title="ТВ",ТВ Центр
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2
 
 #EXTINF:-1 tvg-name="ТВ Центр +2" tvg-id="tvcentr-pl2" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/649.png" group-title="ТВ",ТВ Центр +2
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8?version=2
 
 #EXTINF:-1 tvg-name="ТВ Центр +4" tvg-id="tvcentr-pl4" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/649.png" group-title="ТВ",ТВ Центр +4
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8?version=2
 
 #EXTINF:-1 tvg-name="ТВ Центр +6" tvg-id="tvcentr" tvg-shift="-6" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/649.png" group-title="ТВ",ТВ Центр +6
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv6.ru/hls/DVB-T2/CH_TVC_6.m3u8
 
 #EXTINF:-1 tvg-name="ТВ Центр +7" tvg-id="tvcentr-pl7" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/649.png" group-title="ТВ",ТВ Центр +7
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8?version=2
 
 #EXTINF:-1 tvg-name="РБК" tvg-id="rbk" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/743.png" group-title="ТВ",РБК
@@ -241,7 +241,7 @@ https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Суббота!" tvg-id="super" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2288.png" group-title="ТВ",Суббота!
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 
 #EXTINF:-1 tvg-name="ОТР" tvg-id="otr" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/1000.png" group-title="ТВ",ОТР
@@ -257,7 +257,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R02_STS/playlist.m3u8
 http://178.212.71.253:8002/play/a00r/index.m3u8
 
 #EXTINF:-1 tvg-name="ТВ3" tvg-id="tv3-ru" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/698.png" group-title="ТВ",ТВ3
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 
 #EXTINF:-1 tvg-name="Мир" tvg-id="mir" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/726.png" group-title="ТВ",Мир
@@ -275,18 +275,18 @@ https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
 ##EXTINF:-1 tvg-name="Al Jazeera International" tvg-id="al-jazeera-int" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2131.png" group-title="ТВ",Al Jazeera International
 
 #EXTINF:-1 tvg-name="RTVi" tvg-id="rtvi" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2401.png" group-title="ТВ",RTVi
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
 http://45.143.108.110:2203/RTVi
 
 #EXTINF:-1 tvg-name="Ю" tvg-id="yu" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/898.png" group-title="ТВ",Ю
 http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
 
 #EXTINF:-1 tvg-name="2x2" tvg-id="2na2" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/323.png" group-title="ТВ",2x2
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 
 #EXTINF:-1 tvg-name="Спас" tvg-id="spas" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2141.png" group-title="ТВ",Спас
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
 
 # КИНО #
@@ -418,7 +418,7 @@ http://185.23.80.28:8080/TRASH/index.m3u8?token=test
 http://flu.ttk.mx:90/TV21/mono.m3u8?token=hs06e
 
 #EXTINF:-1 tvg-name="Ultra HD Cinema" tvg-id="ultra-hd-cinema" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2743.png" group-title="Кино",Ultra HD Cinema
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
 
 #EXTINF:-1 tvg-name="VHS-ка" tvg-id="vhs-ka" tvg-logo="https://iptvx.one/picons/vhs-ka.png" group-title="Кино",VHS-ка
@@ -569,7 +569,7 @@ http://api.peers.tv/timeshift/favmovie/16/playlist.m3u8?token=eyJhbGciOiJIUzI1Ni
 http://91.205.199.3/mirseriala/index.m3u8
 
 #EXTINF:-1 tvg-name="Москва. Доверие" tvg-id="doverie" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2308.png" group-title="Кино",Москва. Доверие
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 
 #EXTINF:-1 tvg-name="Мосфильм. Золотая коллекция" tvg-id="mosfilm" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/3357.png" group-title="Кино",Мосфильм. Золотая коллекция
@@ -623,7 +623,7 @@ http://stream-msk-04.ott.tricolor.tv/dtv/id517_MSKSG-PVR-1--Rus_Bests/03/plst.m3
 http://stream-msk-10.ott.tricolor.tv/dtv/id516_MSKSG-PVR-1--Russkiy_detektiv/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MzA5MDQ4MiwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUyNDg1NjgyLCJzZXNzaW9uX2lkIjoiZjc2ZTkxZGMzYmJlOTgwYzhjODcyMmFiOTk1ZDM5MDkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.VWBMEQMPzqPwzYVypq9Q0Gh6DZSo191NzCAwvVeFOeY
 
 #EXTINF:-1 tvg-name="Русский иллюзион" tvg-id="russky-illuzion" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/53.png" group-title="Кино",Русский иллюзион
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
 http://195.26.83.96:7006/play/a00y/index.m3u8
 
 #EXTINF:-1 tvg-name="Русский роман" tvg-id="russky-roman" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/401.png" group-title="Кино",Русский роман
@@ -736,7 +736,7 @@ http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
 http://109.200.130.123:7537/play/a02p
 
 #EXTINF:-1 tvg-name="KHL" tvg-id="kxl" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2048.png" group-title="Спорт",KHL
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
 http://178.124.152.238:8088/khl
 
 #EXTINF:-1 tvg-name="KHL Prime" tvg-id="kxl-hd" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/1038.png" group-title="Спорт",KHL Prime
@@ -764,7 +764,7 @@ http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
 http://stream01.vnet.am/BoksTv/index.m3u8
 
 #EXTINF:-1 tvg-name="Матч!" tvg-id="match-tv" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2051.png" group-title="Спорт",Матч!
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 
 #EXTINF:-1 tvg-name="Матч! Арена" tvg-id="match-arena" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2003.png" group-title="Спорт",Матч! Арена
@@ -827,7 +827,7 @@ https://stream-msk-09.ott.tricolor.tv/dtv/id700_MSKSG-PVR-1--Hokeinii_HD/02/plst
 http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 
 #EXTINF:-1 tvg-name="1КБР [Нальчик]" tvg-id="kabardino-balkaria" tvg-name="" tvg-id="https://iptvx.one/picons/kabardino-balkaria.png" group-title="Регионы",1КБР [Нальчик]
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-sth-nalch-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_NALCH_KBR/variant.m3u8
 
 #EXTINF:-1 tvg-name="31 канал [Челябинск]" tvg-id="31-kanal-chelyabinsk" tvg-logo="https://iptvx.one/picons/31-kanal-chelyabinsk.png" group-title="Регионы",31 канал [Челябинск]
@@ -851,11 +851,11 @@ http://s14131.cdn.ngenix.net/hls/CH_R02_OTT_DV_KAM_41REG_OTT/variant.m3u8
 http://sochinskayatrk.ru/hdtv/hls/43Channel_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-name="7 канал [Красноярск]" tvg-id="7kanal-krasnoyarsk" tvg-logo="https://tvbesedka.com/Upload/2020/10/29/21/41/51/801d599d-1d99-47ec-8e2f-353622083468.jpg" group-title="Регионы",7 канал [Красноярск]
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R13_OTT_SIB_KRSK_RENTV/variant.m3u8
 
 #EXTINF:-1 tvg-name="Аист [Иркутск]" tvg-id="aist" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/5816.png" group-title="Регионы",Аист [Иркутск]
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_AIST/variant.m3u8
 
 #EXTINF:-1 tvg-name="Арис 24 [Кумертау]" tvg-id="aris24" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/7708.png" group-title="Регионы",Арис 24 [Кумертау]
@@ -897,7 +897,7 @@ https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1280x720@2704/playlist
 http://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_VGRAD_VOLGOGRAD1/variant.m3u8
 
 #EXTINF:-1 tvg-name="Волгоград 24" tvg-id="volgograd-24" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/6768.png" group-title="Регионы",Волгоград 24
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VGRAD_VOLGOGRAD24/variant.m3u8
 
 #EXTINF:-1 tvg-name="Городской телеканал Ярославль" tvg-id="gorodskoy-yaroslavl" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/6752.png" group-title="Регионы",Городской телеканал Ярославль
@@ -931,11 +931,11 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
 #https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/track_103_93b61749/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="Камчатка 1 HD [Петропавловск-Камчатский]" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/6748.png" group-title="Регионы",Камчатка 1 HD [Петропавловск-Камчатский]
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
 http://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_KAMCHATKA/variant.m3u8
 
 #EXTINF:-1 tvg-name="Катунь 24 [Барнаул]" tvg-id="katun-24" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/5705.png" group-title="Регионы",Катунь 24 [Барнаул]
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_KATUN24/variant.m3u8
 
 #EXTINF:-1 tvg-name="Компас ТВ [Каменск-Уральский]" tvg-id="kompastv" tvg-logo="https://iptvx.one/picons/kompastv.png" group-title="Регионы",Компас ТВ [Каменск-Уральский]
@@ -951,14 +951,14 @@ http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 http://live24.trkcrimea.ru/24tvcrimea.m3u8
 
 #EXTINF:-1 tvg-name="Кубань 24 [Краснодар]" tvg-id="kuban-24" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/6027.png" group-title="Регионы",Кубань 24 [Краснодар]
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
 
 #EXTINF:-1 tvg-name="Легендарный 24 HD [Севастополь]" tvg-id="legendarny24" tvg-logo="https://iptvx.one/picons/legendarny24.png" group-title="Регионы",Легендарный 24 HD [Севастополь]
 https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 
 #EXTINF:-1 tvg-name="Лен ТВ 24 [Санкт-Петербург]" tvg-id="lot-47" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/7701.png" group-title="Регионы",Лен ТВ 24 [Санкт-Петербург]
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
 http://player.smotrim.ru/iframe/stream/live_id/3e95d201-f87d-4ac1-8897-db2c66bb9657
 
 #EXTINF:-1 tvg-name="Липецкое время" tvg-id="lipeckoe-vremia" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/5810.png" group-title="Регионы",Липецкое время
@@ -985,7 +985,7 @@ http://arbiter.bolshoe.tv/?path=abr1/nashasibirHD/71/copy/playlist.m3u8&wmsAuthS
 http://dmi3y-tv6.ru/hls/smotrim/region/CH_NN24_NN.m3u8
 
 #EXTINF:-1 tvg-name="ННТВ [Нижний Новгород]" tvg-id="nntv" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/5706.png" group-title="Регионы",ННТВ [Нижний Новгород]
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
 
 #EXTINF:-1 tvg-name="НТС [Иркутск]" tvg-id="nts-irkutsk" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/6745.png" group-title="Регионы",НТС [Иркутск]
@@ -1022,7 +1022,7 @@ http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playl
 http://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R03_PRO_ASTRAKHAN/variant.m3u8
 
 #EXTINF:-1 tvg-name="Регион 29 [Архангельск]" tvg-id="region29" tvg-logo="https://iptvx.one/picons/region29.png" group-title="Регионы",Регион 29 [Архангельск]
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PRAVDASEVERA/variant.m3u8
 
 #EXTINF:-1 tvg-name="Репортер 73 [Ульяновск]" tvg-id="reportior-73" tvg-logo="https://iptvx.one/picons/reportior-73.png" group-title="Регионы",Репортер 73 [Ульяновск]
@@ -1041,11 +1041,11 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yaroslavl/russia1-sd/index.m3u8
 ##EXTINF:-1 tvg-name="Ростов-папа HD" tvg-id="rostov-papa" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/5708.png" group-title="Регионы",Ростов-папа HD
 
 #EXTINF:-1 tvg-name="Рыбинск-40" tvg-id="rybinsk40" tvg-logo="https://iptvx.one/picons/rybinsk40.png" group-title="Регионы",Рыбинск-40
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_RYBINSK40/variant.m3u8?version=2
 
 #EXTINF:-1 tvg-name="Санкт-Петербург" tvg-id="sankt-peterburg" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/690.png" group-title="Регионы",Санкт-Петербург HD
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
 http://player.smotrim.ru/iframe/stream/live_id/1a30bc46-0b5f-4f48-a3df-97e33bde0aa8
 
 #EXTINF:-1 tvg-name="Своё ТВ HD [Ставрополь]" tvg-id="svoyo-tv-stavropol" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/7692.png" group-title="Регионы",Своё ТВ HD [Ставрополь]
@@ -1216,7 +1216,7 @@ http://185.23.80.28:8080/Draiv/index.m3u8?token=test
 https://dumatv.iptv2022.com/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Жар Птица" tvg-id="zhar-ptica" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2415.png" group-title="Разное",Жар Птица
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_JARPTIZA/variant.m3u8
 
 #EXTINF:-1 tvg-name="Живая природа HD" tvg-id="zhivaya-priroda" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2495.png" group-title="Разное",Живая природа HD
@@ -1336,7 +1336,7 @@ http://185.23.80.28:8080/TochkoOtryva/index.m3u8?token=test
 http://185.50.148.2:7703/PSIHOLOGIYA21/index.m3u8
 
 #EXTINF:-1 tvg-name="Эхо TV" tvg-id="echotv" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2479.png" group-title="Разное",Эхо TV
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ECHOTV/variant.m3u8
 
 #EXTINF:-1 tvg-name="Эх!" tvg-id="ech" tvg-logo="https://iptvx.one/picons/ech.png" group-title="Разное",Эх!
