@@ -248,10 +248,12 @@ https://river-m9-mts-321.rtbcdn.ru/stream/genetta-316.m9.rutube.ru/qsAIu0rdWaALa
 https://river-m9-mts-321.rtbcdn.ru/stream/genetta-503.ost.rutube.ru/NvFwTKGm0rADBtCbRlYamQ/1770407246/310744c10a5809da38aa445c952976da/1080p_stream.m3u8
 
 #EXTINF:-1 tvg-name="ОТР" tvg-id="otr" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/1000.png" group-title="ТВ",ОТР
-http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://otr-online.ru/
+https://bl.webcaster.pro/media/playlist/free_30f6cf883959d4930e07a3a60fc1368b/5_2972636396/720p/c4f810b6766048bca8a2de45073469c8/1769845952.m3u8?sr=65&seek=1769799000&uid=N8850UWD-V36H-TH4P-T94C-T72TKW58FFTB&ref=https%3A%2F%2Fotr-online.ru%2F
 
 #EXTINF:-1 tvg-name="Че!" tvg-id="che" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/1598.png" group-title="ТВ",Че!
-http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://chetv.ru/
+https://edge01d.mediavitrina.ru/dash-livef1/ctc-che/index.mpd?token=v2.HkmiclLVwxZkb416U9aO2SU-ZUPYL_8EiGP6p0zIs08.AhXddPM9gVgN2HogyBnLoQ1cPbogo90c0BZY9NPchL0.1770407854.1c015e723fa8e5ef0a529811d3501b5e
 
 #EXTINF:-1 tvg-name="СТС" tvg-id="sts" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/79.png" group-title="ТВ",СТС
 http://s18209.cdn.ngenix.net/hls/CH_R02_STS/playlist.m3u8
