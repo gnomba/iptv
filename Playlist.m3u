@@ -1014,7 +1014,9 @@ https://streaming.televizor-24-tochka.ru/live/27.m3u8
 http://dmi3y-tv6.ru/hls/zabava/region/RD/CH_1ROSTOVSKIYHD.m3u8
 
 #EXTINF:-1 tvg-name="Первый Ярославский" tvg-id="pervy-yaroslavsky" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/7711.png" group-title="Регионы",Первый Ярославский
-https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
+#EXTVLCOPT:http-referrer=https://1yar.tv/
+https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1
+#https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
 
 #EXTINF:-1 tvg-name="Прима [Красноярск]" tvg-id="prima" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/5818.png" group-title="Регионы",Прима [Красноярск]
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
