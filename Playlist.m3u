@@ -256,10 +256,12 @@ https://bl.webcaster.pro/media/playlist/free_30f6cf883959d4930e07a3a60fc1368b/5_
 https://edge01d.mediavitrina.ru/dash-livef1/ctc-che/index.mpd?token=v2.HkmiclLVwxZkb416U9aO2SU-ZUPYL_8EiGP6p0zIs08.AhXddPM9gVgN2HogyBnLoQ1cPbogo90c0BZY9NPchL0.1770407854.1c015e723fa8e5ef0a529811d3501b5e
 
 #EXTINF:-1 tvg-name="СТС" tvg-id="sts" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/79.png" group-title="ТВ",СТС
-http://s18209.cdn.ngenix.net/hls/CH_R02_STS/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ctc.ru/
+https://edge01p.mediavitrina.ru/dashp-livef2/ctc/index.mpd?token=v2.oLsbO_ZioktSST7vi26KYXGCIvUQ2ja34AiDp0h7DEo.8kQfn2qXfJffom9qsQMO_NsV4L_dfP2AbgQw3ui_gTc.1770408150.63df8773803e6ac2879dd81b1ec1bef5
 
 #EXTINF:-1 tvg-name="СТС Love" tvg-id="sts-love" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/1322.png" group-title="ТВ",СТС Love
-http://178.212.71.253:8002/play/a00r/index.m3u8
+#EXTVLCOPT:http-referrer=https://ctc.ru/
+https://edge02d.mediavitrina.ru/dashp-livef1/ctc-love/index.mpd?token=v2.korwbpTiXh-uI89eE2T4DsXWgE_Po7U64P6fiT5yVq8.sCqDABqXrHOnCZFEeX4mYsxRMDD0v7HqCdnINVA8p7U.1770408379.ca90ee48fb3f6ed41d34309294137c3f
 
 #EXTINF:-1 tvg-name="ТВ3" tvg-id="tv3-ru" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/698.png" group-title="ТВ",ТВ3
 #EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
