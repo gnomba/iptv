@@ -240,11 +240,12 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8?version=2
 https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
 
 #EXTINF:-1 tvg-name="Пятница!" tvg-id="piatnica" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/1003.png" group-title="ТВ",Пятница!
-http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://friday.ru/
+https://river-m9-mts-321.rtbcdn.ru/stream/genetta-316.m9.rutube.ru/qsAIu0rdWaALaFwJWB3PeA/1770406609/9f87a9a0cecbe773be6fddcbd93585ac/1080p_stream.m3u8
 
 #EXTINF:-1 tvg-name="Суббота!" tvg-id="super" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2288.png" group-title="ТВ",Суббота!
-#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+#EXTVLCOPT:http-referrer=https://subbota.tv/
+https://river-m9-mts-321.rtbcdn.ru/stream/genetta-503.ost.rutube.ru/NvFwTKGm0rADBtCbRlYamQ/1770407246/310744c10a5809da38aa445c952976da/1080p_stream.m3u8
 
 #EXTINF:-1 tvg-name="ОТР" tvg-id="otr" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/1000.png" group-title="ТВ",ОТР
 http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
