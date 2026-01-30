@@ -1055,7 +1055,8 @@ http://player.smotrim.ru/iframe/stream/live_id/1a30bc46-0b5f-4f48-a3df-97e33bde0
 https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Север HD [Нарьян-Мар]" tvg-id="sever" tvg-logo="https://iptvx.one/picons/sever.png" group-title="Регионы",Север HD [Нарьян-Мар]
-http://live2.mediacdn.ru/sr1/sever/playlist_hdhigh.m3u8
+#EXTVLCOPT:http-referrer=http://trksever.ru/
+https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/4b595606381170b24f8a2e00107da163--livemaster--kusl1tszr5_stream1--tracks-v1a1--mono.m3u8?hls_proxy_host=ec9cd910e6c346db2b10a4c2dc95f234
 
 #EXTINF:-1 tvg-name="Сочи 24" tvg-id="sochi24" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2830.png" group-title="Регионы",Сочи 24
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
