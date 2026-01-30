@@ -256,16 +256,14 @@ https://bl.webcaster.pro/media/playlist/free_30f6cf883959d4930e07a3a60fc1368b/5_
 https://edge01d.mediavitrina.ru/dash-livef1/ctc-che/index.mpd?token=v2.HkmiclLVwxZkb416U9aO2SU-ZUPYL_8EiGP6p0zIs08.AhXddPM9gVgN2HogyBnLoQ1cPbogo90c0BZY9NPchL0.1770407854.1c015e723fa8e5ef0a529811d3501b5e
 
 #EXTINF:-1 tvg-name="СТС" tvg-id="sts" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/79.png" group-title="ТВ",СТС
-#EXTVLCOPT:http-referrer=https://ctc.ru/
-https://edge01p.mediavitrina.ru/dashp-livef2/ctc/index.mpd?token=v2.oLsbO_ZioktSST7vi26KYXGCIvUQ2ja34AiDp0h7DEo.8kQfn2qXfJffom9qsQMO_NsV4L_dfP2AbgQw3ui_gTc.1770408150.63df8773803e6ac2879dd81b1ec1bef5
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_STS.m3u8
 
 #EXTINF:-1 tvg-name="СТС Love" tvg-id="sts-love" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/1322.png" group-title="ТВ",СТС Love
-#EXTVLCOPT:http-referrer=https://ctc.ru/
-https://edge02d.mediavitrina.ru/dashp-livef1/ctc-love/index.mpd?token=v2.korwbpTiXh-uI89eE2T4DsXWgE_Po7U64P6fiT5yVq8.sCqDABqXrHOnCZFEeX4mYsxRMDD0v7HqCdnINVA8p7U.1770408379.ca90ee48fb3f6ed41d34309294137c3f
+http://dmi3y-tv6.ru/hls/zabava/CH_STSLOVE.m3u8
 
 #EXTINF:-1 tvg-name="ТВ3" tvg-id="tv3-ru" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/698.png" group-title="ТВ",ТВ3
-#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+#EXTVLCOPT:http-referrer=https://tv3.ru/
+https://river-ost-mts-525.rtbcdn.ru/stream/genetta-522.ost.rutube.ru/g8EuL9wHqzQkmo1jpYkGJg/1770408790/7bf12d9c050f9a7ef3728db5730432ae/1080p_stream.m3u8
 
 #EXTINF:-1 tvg-name="Мир" tvg-id="mir" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/726.png" group-title="ТВ",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
@@ -282,19 +280,20 @@ https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
 ##EXTINF:-1 tvg-name="Al Jazeera International" tvg-id="al-jazeera-int" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2131.png" group-title="ТВ",Al Jazeera International
 
 #EXTINF:-1 tvg-name="RTVi" tvg-id="rtvi" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2401.png" group-title="ТВ",RTVi
-#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
-http://45.143.108.110:2203/RTVi
+#EXTVLCOPT:http-referrer=https://telik.live/
+https://tv.tvcdnpotok.com/A3kFoL1Lex83hlYut5zIJQ/2073/1769822516/index.m3u8
 
 #EXTINF:-1 tvg-name="Ю" tvg-id="yu" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/898.png" group-title="ТВ",Ю
-http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.u-tv.ru/
+https://edge02r.mediavitrina.ru/dash-livef1/yu/index.mpd?token=v2.CGD2JBXW80mSZrnCWJxJBqBj0k_NeTTuDRwuiG8VYsU.NS-OAodRZOXWCwnApyRDdYZNC7pEqIh9Jpw6kIqmekI.1770409445.7714fbe71f14369072697f29558675ac
 
 #EXTINF:-1 tvg-name="2x2" tvg-id="2na2" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/323.png" group-title="ТВ",2x2
-#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+#EXTVLCOPT:http-referrer=https://online.2x2tv.ru/
+https://river-ost-mts-552.rtbcdn.ru/stream/genetta-323.m9.rutube.ru/xh4m_PBJEAAj7uHx3CjJxw/1770409655/c5395b26d65d3461840b4c2f15c726b6/1080p_stream.m3u8
 
 #EXTINF:-1 tvg-name="Спас" tvg-id="spas" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2141.png" group-title="ТВ",Спас
-#EXTVLCOPT:http-user-agent=WINK/1.75.1 (AndroidTV/9) HlsWinkPlayer
-http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-referrer=https://spastv.ru/
+https://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
 
 # КИНО #
 
