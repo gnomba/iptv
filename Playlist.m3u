@@ -248,7 +248,8 @@ https://river-m9-mts-321.rtbcdn.ru/stream/genetta-316.m9.rutube.ru/qsAIu0rdWaALa
 https://river-m9-mts-321.rtbcdn.ru/stream/genetta-503.ost.rutube.ru/NvFwTKGm0rADBtCbRlYamQ/1770407246/310744c10a5809da38aa445c952976da/1080p_stream.m3u8
 
 #EXTINF:-1 tvg-name="ОТР" tvg-id="otr" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/1000.png" group-title="ТВ",ОТР
-http://dmi3y-tv6.ru/hls/DVB-T2/CH_OTR.m3u8
+https://river-m9-mts-324.rtbcdn.ru/stream/genetta-315.m9.rutube.ru/0svyCLF-a92qEHos9286Hw/1770483539/faa934385b83f9e8a92f5484defae5fa/720p_stream.m3u8
+#http://dmi3y-tv6.ru/hls/DVB-T2/CH_OTR.m3u8
 
 #EXTINF:-1 tvg-name="Че!" tvg-id="che" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/1598.png" group-title="ТВ",Че!
 #EXTVLCOPT:http-referrer=https://chetv.ru/
