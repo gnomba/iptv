@@ -248,8 +248,7 @@ https://river-m9-mts-321.rtbcdn.ru/stream/genetta-316.m9.rutube.ru/qsAIu0rdWaALa
 https://river-m9-mts-321.rtbcdn.ru/stream/genetta-503.ost.rutube.ru/NvFwTKGm0rADBtCbRlYamQ/1770407246/310744c10a5809da38aa445c952976da/1080p_stream.m3u8
 
 #EXTINF:-1 tvg-name="ОТР" tvg-id="otr" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/1000.png" group-title="ТВ",ОТР
-#EXTVLCOPT:http-referrer=https://otr-online.ru/
-https://bl.webcaster.pro/media/playlist/free_30f6cf883959d4930e07a3a60fc1368b/5_2972636396/720p/c4f810b6766048bca8a2de45073469c8/1769845952.m3u8?sr=65&seek=1769799000&uid=N8850UWD-V36H-TH4P-T94C-T72TKW58FFTB&ref=https%3A%2F%2Fotr-online.ru%2F
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_OTR.m3u8
 
 #EXTINF:-1 tvg-name="Че!" tvg-id="che" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/1598.png" group-title="ТВ",Че!
 #EXTVLCOPT:http-referrer=https://chetv.ru/
@@ -280,8 +279,7 @@ https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
 ##EXTINF:-1 tvg-name="Al Jazeera International" tvg-id="al-jazeera-int" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2131.png" group-title="ТВ",Al Jazeera International
 
 #EXTINF:-1 tvg-name="RTVi" tvg-id="rtvi" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2401.png" group-title="ТВ",RTVi
-#EXTVLCOPT:http-referrer=https://telik.live/
-https://tv.tvcdnpotok.com/A3kFoL1Lex83hlYut5zIJQ/2073/1769822516/index.m3u8
+http://178.134.1.158:8081/rtvi/index.m3u8
 
 #EXTINF:-1 tvg-name="Ю" tvg-id="yu" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/898.png" group-title="ТВ",Ю
 #EXTVLCOPT:http-referrer=https://www.u-tv.ru/
@@ -725,7 +723,8 @@ https://stream-msk-03.ott.tricolor.tv/dtv/id130_MSKSG-PVR-1--Muz_Perv/04/plst.m3
 https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ТНТ Music" tvg-id="tnt-music" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/680.png" group-title="Музыка",ТНТ Music
-http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
+#http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
+https://tntm.mediacdn.ru/cdn/tntmusic/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3v4v5a1
 
 #EXTINF:-1 tvg-name="Шансон-TB" tvg-id="shanson-tv" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2278.png" group-title="Музыка",Шансон-TB
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
