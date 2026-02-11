@@ -774,7 +774,7 @@ https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
 #EXTINF:-1 tvg-name="Бокс ТВ" tvg-id="box-tv" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2285.png" group-title="Спорт",Бокс ТВ
 http://31.210.208.171:8080/box_tv/index.m3u8?token=+W2MSER
 
-#EXTINF:-1 tvg-name=Конный Мир" tvg-id="konny-mir" tvg-logo="https://iptvx.one/picons/konny-mir.png" group-title="Спорт",Конный Мир
+#EXTINF:-1 tvg-name="Конный Мир" tvg-id="konny-mir" tvg-logo="https://iptvx.one/picons/konny-mir.png" group-title="Спорт",Конный Мир
 https://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Матч!" tvg-id="match-tv" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2051.png" group-title="Спорт",Матч!
