@@ -765,8 +765,7 @@ http://live.admuspeh.my/8676/index.m3u8?token=iptvshared
 http://178.134.1.158:8081/viasatsport/index.m3u8
 
 #EXTINF:-1 tvg-name="Астрахань.ru Спорт" tvg-id="astrakhan-ru-sport" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/6/64/ASTRAKHAN.RU_SPORT.jpg/revision/latest?cb=20240419121027&path-prefix=ru" group-title="Спорт",Астрахань.ru Спорт
-#EXTVLCOPT:http-referrer=https://sport.astrakhan.ru/
-https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1/index.fmp4.m3u8
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-name="Беларусь 5 HD" tvg-id="belarus5" tvg-logo="https://iptvx.one/picons/belarus5-inet.png" group-title="Спорт",Беларусь 5 HD
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
