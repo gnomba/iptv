@@ -762,17 +762,24 @@ http://live.admuspeh.my/8565/index.m3u8?token=4gPHp5ZVYqDAR4oz
 http://live.admuspeh.my/8676/index.m3u8?token=iptvshared
 
 #EXTINF:-1 tvg-name="Viju+ Sport" tvg-id="viasat-sport" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2055.png" group-title="Спорт",Viju+ Sport
-http://213.226.137.140:81/tl/l97/mpegts
+http://178.134.1.158:8081/viasatsport/index.m3u8
 
 #EXTINF:-1 tvg-name="Астрахань.ru Спорт" tvg-id="astrakhan-ru-sport" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/6/64/ASTRAKHAN.RU_SPORT.jpg/revision/latest?cb=20240419121027&path-prefix=ru" group-title="Спорт",Астрахань.ru Спорт
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+#EXTVLCOPT:http-referrer=https://sport.astrakhan.ru/
+https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-name="Беларусь 5 HD" tvg-id="belarus5" tvg-logo="https://iptvx.one/picons/belarus5-inet.png" group-title="Спорт",Беларусь 5 HD
+https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Бокс ТВ" tvg-id="box-tv" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2285.png" group-title="Спорт",Бокс ТВ
-http://stream01.vnet.am/BoksTv/index.m3u8
+http://31.210.208.171:8080/box_tv/index.m3u8?token=+W2MSER
+
+#EXTINF:-1 tvg-name=Конный Мир" tvg-id="konny-mir" tvg-logo="https://iptvx.one/picons/konny-mir.png" group-title="Спорт",Конный Мир
+https://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Матч!" tvg-id="match-tv" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2051.png" group-title="Спорт",Матч!
 #EXTVLCOPT:http-user-agent=WINK/1.76.1 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2
 
 #EXTINF:-1 tvg-name="Матч! Арена" tvg-id="match-arena" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2003.png" group-title="Спорт",Матч! Арена
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
@@ -813,8 +820,11 @@ https://woobl.ru/stream/20138.m3u8
 #EXTINF:-1 tvg-name="Старт" tvg-id="start" tvg-logo="https://iptvx.one/picons/start.png" group-title="Спорт",Старт
 http://stream-msk-11.ott.tricolor.tv/dtv/id625_MSKSG-PVR-1--Start/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MzA5MDQ4MiwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUyNDg1NjgyLCJzZXNzaW9uX2lkIjoiZjc2ZTkxZGMzYmJlOTgwYzhjODcyMmFiOTk1ZDM5MDkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.VWBMEQMPzqPwzYVypq9Q0Gh6DZSo191NzCAwvVeFOeY
 
+#EXTINF:-1 tvg-name="Старт Баскет" tvg-id="start-basket" tvg-logo="https://iptvx.one/picons/start-basket.png" group-title="Спорт",Старт Баскет
+https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?
+
 #EXTINF:-1 tvg-name="Старт Триумф" tvg-id="start-triumf" tvg-logo="https://iptvx.one/picons/start-triumf.png" group-title="Спорт",Старт Триумф
-https://stream-msk-15.ott.tricolor.tv/dtv/id902_MSKSG-PVR-1--Start_triumph/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MzA5MDQ4MiwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUyNDg1NjgyLCJzZXNzaW9uX2lkIjoiZjc2ZTkxZGMzYmJlOTgwYzhjODcyMmFiOTk1ZDM5MDkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.VWBMEQMPzqPwzYVypq9Q0Gh6DZSo191NzCAwvVeFOeY
+https://bl.webcaster.pro/media/playlist/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/1080p/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8
 
 #EXTINF:-1 tvg-name="ТВ Спорт" tvg-id="sportivny" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/4678.png" group-title="Спорт",ТВ Спорт
 https://stream-msk-06.ott.tricolor.tv:443/dtv/id733_MSKSG-PVR-1--Sportivnii/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MzA5MDQ4MiwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUyNDg1NjgyLCJzZXNzaW9uX2lkIjoiZjc2ZTkxZGMzYmJlOTgwYzhjODcyMmFiOTk1ZDM5MDkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.VWBMEQMPzqPwzYVypq9Q0Gh6DZSo191NzCAwvVeFOeY
@@ -885,9 +895,6 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Беларусь 3 HD" tvg-id="belarus3" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2540.png" group-title="Регионы",Беларусь 3 HD
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus3.smil/chunklist_b5160000_sleng.m3u8
 #http://dmi3y-tv6.ru/hls/blrus/CH_BELARUS3HD.m3u8
-
-#EXTINF:-1 tvg-name="Беларусь 5 HD" tvg-id="belarus5" tvg-logo="https://iptvx.one/picons/belarus5-inet.png" group-title="Регионы",Беларусь 5 HD
-https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
 
 #EXTINF:-1 tvg-name="БелРос" tvg-id="tro" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2294.png" group-title="Регионы",БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
