@@ -37,8 +37,9 @@ http://icecast-mirtv.cdnvideo.ru:8000/radio_mir_256
 #EXTINF:-1 tvg-name="Радио России" tvg-logo="https://rosradio-online.ru/logos/radio_rossii.jpg" group-title="Радио",Радио России
 http://icecast.vgtrk.cdnvideo.ru/rrzonam
 
-#EXTINF:-1 tvg-name="Радио Ростова" tvg-logo="https://top-radio.ru/assets/image/radio/180/radio-rostova.png" group-title="Радио",Радио Ростова
-https://radiorostova.ru:8443/rostovradio
+#radiorostova.ru Вещание прекращено в марте 2026 года.
+##EXTINF:-1 tvg-name="Радио Ростова" tvg-logo="https://top-radio.ru/assets/image/radio/180/radio-rostova.png" group-title="Радио",Радио Ростова
+#https://radiorostova.ru:8443/rostovradio
 
 #EXTINF:-1 tvg-name="Соловьёв FM" tvg-id="solovjinypomiot" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/soloviev-fm.jpg" group-title="Радио",Соловьёв FM
 https://solovievfm.hostingradio.ru/solovievfm128.aacp
