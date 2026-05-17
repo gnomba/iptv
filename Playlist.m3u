@@ -777,10 +777,9 @@ http://31.210.208.171:8080/box_tv/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-name="Конный Мир" tvg-id="konny-mir" tvg-logo="https://iptvx.one/picons/konny-mir.png" group-title="Спорт",Конный Мир
 https://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="Матч!" tvg-id="match-tv" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2051.png" group-title="Спорт",Матч! HD
+#EXTINF:-1 tvg-name="Матч!" tvg-id="match-tv" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2051.png" group-title="Спорт",Матч!
 #EXTVLCOPT:http-user-agent=WINK/1.82.1 (AndroidTV/9) HlsWinkPlayer
-#http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2
-https://m3u8.video.matchtv.ru/media/playlist/ch_7e48892c1f9f199861c8908dad96c0ce/17_86669241/1080p50fps/d9af72b92f3f3c9a26b9fbd124e3ff7b/1778915400.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2
 
 #EXTINF:-1 tvg-name="Матч! Арена" tvg-id="match-arena" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2003.png" group-title="Спорт",Матч! Арена
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
