@@ -296,9 +296,6 @@ https://river-ost-mts-552.rtbcdn.ru/stream/genetta-323.m9.rutube.ru/xh4m_PBJEAAj
 #EXTVLCOPT:http-referrer=https://spastv.ru/
 https://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-name="Честный детектив" tvg-id="chestnyi_detectiv" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/chestnyi_detectiv.png" group-title="ТВ",Честный детектив
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.ts.m3u8
-
 # КИНО #
 
 #EXTINF:-1 tvg-name="312" tvg-id="312" tvg-logo="https://312tv.kg/v.jpg?v=1" group-title="Кино",312
@@ -642,8 +639,9 @@ http://stream01.vnet.am/RusskiyRoman/mono.m3u8
 #EXTINF:-1 tvg-name="Сапфир" tvg-id="sapfir" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/7315.png" group-title="Кино",Сапфир
 https://132544.edgevideo.ru/streams/132544_839765/1325441080/index.m3u8
 
-#EXTINF:-1 tvg-name="Смотрим Кино и сериалы" tvg-logo="https://adindex.ru/files2/photogallery/2020_11/photo2_286493_smotrim2.jpg.jpg" group-title="Кино",Смотрим Кино и сериалы
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-name="Честный детектив" tvg-id="chestnyi_detectiv" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/chestnyi_detectiv.png" group-title="ТВ",Смотрим Честный детектив
+#https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-name="Телекафе" tvg-id="telekafe" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2304.png" group-title="Кино",Телекафе
 http://stream01.vnet.am/Telekafe/mono.m3u8
