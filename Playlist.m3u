@@ -197,9 +197,8 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v2a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Звезда Плюс" tvg-id="zvezda-plus" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/4661.png" group-title="ТВ",Звезда Плюс HD
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-name="Победа" tvg-id="pobeda" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2447.png" group-title="ТВ",Победа
-#EXTVLCOPT:http-referrer=https://pobeda.tv/
-https://pkvc-hls7.cdnvideo.ru/pkvc/pobeda/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=951f88b726ecd199ff293e3eaf4810e7
+#EXTINF:-1 tvg-name="Победа" tvg-id="pobeda" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/pobeda.png" group-title="ТВ",Победа
+https://streaming.thestream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
 
 #EXTINF:-1 tvg-name="Пятый канал" tvg-id="5kanal-ru" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/427.png" group-title="ТВ",Пятый канал
 #EXTVLCOPT:http-user-agent=WINK/1.86.1 (AndroidTV/9) HlsWinkPlayer
@@ -296,6 +295,9 @@ https://river-ost-mts-552.rtbcdn.ru/stream/genetta-323.m9.rutube.ru/xh4m_PBJEAAj
 #EXTINF:-1 tvg-name="Спас" tvg-id="spas" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2141.png" group-title="ТВ",Спас
 #EXTVLCOPT:http-referrer=https://spastv.ru/
 https://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-name="Честный детектив" tvg-id="chestnyi_detectiv" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/chestnyi_detectiv.png" group-title="ТВ",Честный детектив
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.ts.m3u8
 
 # КИНО #
 
