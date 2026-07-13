@@ -51,23 +51,19 @@ https://solovievfm.hostingradio.ru/solovievfm128.aacp
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 
 #EXTINF:-1 tvg-name="Россия 1 HD" tvg-id="rossia1" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rossia1.png" group-title="ТВ",Россия 1 HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 
-#EXTINF:-1 tvg-name="Россия 1 -1" tvg-id="rossia1" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rossia1_-1.png" group-title="ТВ",Россия 1 -1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8
-
-#EXTINF:-1 tvg-name="Россия 1 +1" tvg-id="rossia1-pl1" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rossia1_1.png" group-title="ТВ",Россия 1 +1
+#EXTINF:-1 tvg-name="Россия 1 +1" tvg-id="rossia1-pl1" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rossia1_1.png" group-title="ТВ",Россия 1 +1 HD
 #EXTVLCOPT:http-user-agent=WINK/1.86.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
 
 #EXTINF:-1 tvg-name="Россия 1 +2 HD" tvg-id="rossia1-pl2" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rossia1_2.png" group-title="ТВ",Россия 1 +2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
 
-#EXTINF:-1 tvg-name="Россия 1 +3" tvg-id="rossia1-pl3" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rossia1_3.png" group-title="ТВ",Россия 1 +3
+#EXTINF:-1 tvg-name="Россия 1 +3 HD" tvg-id="rossia1-pl3" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rossia1_3.png" group-title="ТВ",Россия 1 +3 HD
 #EXTVLCOPT:http-user-agent=WINK/1.86.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/3/russia1-hd/index.m3u8
 
 #EXTINF:-1 tvg-name="Россия 1 +4 HD" tvg-id="rossia1-pl4" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rossia1_4.png" group-title="ТВ",Россия 1 +4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -81,17 +77,17 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
 
-#EXTINF:-1 tvg-name="Россия 1 +7" tvg-id="rossia1-pl7" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rossia1_7.png" group-title="ТВ",Россия 1 +7
+#EXTINF:-1 tvg-name="Россия 1 +7 HD" tvg-id="rossia1-pl7" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rossia1_7.png" group-title="ТВ",Россия 1 +7 HD
 #EXTVLCOPT:http-user-agent=WINK/1.86.1 (AndroidTV/9) HlsWinkPlayer
-http://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_ROSSIA1/variant.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
 
-#EXTINF:-1 tvg-name="Россия 1 +8" tvg-id="rossia1-pl8" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rossia1_8.png" group-title="ТВ",Россия 1 +8
+#EXTINF:-1 tvg-name="Россия 1 +8 HD" tvg-id="rossia1-pl8" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rossia1_8.png" group-title="ТВ",Россия 1 +8 HD
 #EXTVLCOPT:http-user-agent=WINK/1.86.1 (AndroidTV/9) HlsWinkPlayer
-https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA1/variant.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
 
-#EXTINF:-1 tvg-name="Россия 1 +9" tvg-id="rossia1-pl9" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rossia1_9.png" group-title="ТВ",Россия 1 +9
+#EXTINF:-1 tvg-name="Россия 1 +9 HD" tvg-id="rossia1-pl9" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rossia1_9.png" group-title="ТВ",Россия 1 +9 HD
 #EXTVLCOPT:http-user-agent=WINK/1.86.1 (AndroidTV/9) HlsWinkPlayer
-https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
 
 #EXTINF:-1 tvg-name="ТНТ" tvg-id="tnt" tvg-shift="+1" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/tnt.png" group-title="ТВ",ТНТ (-1)
 http://dmi3y-tv6.ru/hls/DVB-T2/CH_TNT-1.m3u8
@@ -1045,13 +1041,16 @@ http://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PRAVDASEVERA/variant.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_REP73/variant.m3u8
 
-#EXTINF:-1 tvg-name="Россия 1 (Волгоград)" tvg-id="rossia1" group-title="Регионы",Россия 1 [Волгоград]
+#EXTINF:-1 tvg-name="Россия 1 [Астрахань]" tvg-id="rossia1" group-title="Регионы",Россия 1 [Астрахань]
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/astrahan/russia1-hd/index.m3u8
+
+#EXTINF:-1 tvg-name="Россия 1 [Волгоград]" tvg-id="rossia1" group-title="Регионы",Россия 1 [Волгоград]
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
 
-#EXTINF:-1 tvg-name="Россия 1 (Кубань)" tvg-id="rossia1" group-title="Регионы",Россия 1 [Кубань]
+#EXTINF:-1 tvg-name="Россия 1 [Кубань]" tvg-id="rossia1" group-title="Регионы",Россия 1 [Кубань]
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnodar/russia1-sd/index.m3u8
 
-#EXTINF:-1 tvg-name="Россия 1 (Ярославль)" tvg-id="rossia1" group-title="Регионы",Россия 1 [Ярославль]
+#EXTINF:-1 tvg-name="Россия 1 [Ярославль]" tvg-id="rossia1" group-title="Регионы",Россия 1 [Ярославль]
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yaroslavl/russia1-sd/index.m3u8
 
 ##EXTINF:-1 tvg-name="Ростов-папа HD" tvg-id="rostov-papa" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/5708.png" group-title="Регионы",Ростов-папа HD
