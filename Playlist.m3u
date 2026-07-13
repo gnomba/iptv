@@ -635,8 +635,14 @@ http://stream01.vnet.am/RusskiyRoman/mono.m3u8
 #EXTINF:-1 tvg-name="Сапфир" tvg-id="sapfir" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/7315.png" group-title="Кино",Сапфир
 https://132544.edgevideo.ru/streams/132544_839765/1325441080/index.m3u8
 
+#EXTINF:-1 tvg-name="100% Классика" tvg-id="100_klassika" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/100_klassika.png" group-title="Кино",Смотрим 100% Классика
+https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
+
 #EXTINF:-1 tvg-name="100% Любовь" tvg-id="100_lubov" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/100_lubov.png" group-title="Кино",Смотрим 100% Любовь
 https://stream.smotrim.ru/hls/fasttv01/playlist_3.m3u8
+
+#EXTINF:-1 tvg-name="100% Мужское" tvg-id="100_mujskoe" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/100_mujskoe.png" group-title="Кино",Смотрим 100% Мужское
+https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
 
 #EXTINF:-1 tvg-name="Честный детектив" tvg-id="chestnyi_detectiv" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/chestnyi_detectiv.png" group-title="Кино",Смотрим Честный детектив
 #https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
@@ -1333,6 +1339,12 @@ http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=HD_Oh_Rbl.m3u
 #EXTINF:-1 tvg-name="Сарафан" tvg-id="sarafan" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/663.png" group-title="Разное",Сарафан
 http://stream-msk-12.ott.tricolor.tv/dtv/id258_MSKSG-PVR-1--Sarafan/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MzA5MDQ4MiwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUyNDg1NjgyLCJzZXNzaW9uX2lkIjoiZjc2ZTkxZGMzYmJlOTgwYzhjODcyMmFiOTk1ZDM5MDkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.VWBMEQMPzqPwzYVypq9Q0Gh6DZSo191NzCAwvVeFOeY
 
+#EXTINF:-1 tvg-name="100% Праздник" tvg-id="100_prazdnik" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/100_prazdnik.png" group-title="Разное",Смотрим 100% Праздник
+https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
+
+#EXTINF:-1 tvg-name="100% Факты" tvg-id="100_fakty" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/100_fakty.png" group-title="Разное",Смотрим 100% Факты
+https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
+
 #EXTINF:-1 tvg-name="Союз" tvg-id="soyuz" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2448.png" group-title="Разное",Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 
@@ -1414,6 +1426,9 @@ http://188.113.190.15/136/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-name="Рыжий" tvg-id="ryzhy" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/2437.png" group-title="Детские",Рыжий
 http://185.23.80.28:8080/Ryzhij/index.m3u8?token=test
+
+#EXTINF:-1 tvg-name="100% Детское" tvg-id="100_detskoe" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/100_detskoe.png" group-title="Детские",Смотрим 100% Детское
+https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
 
 #EXTINF:-1 tvg-name="Солнце" tvg-id="solnce" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/7669.png" group-title="Детские",Солнце
 http://stream-msk-08.ott.tricolor.tv/dtv/id253_MSKSG-PVR-1--Disney/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MzA5MDQ4MiwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUyNDg1NjgyLCJzZXNzaW9uX2lkIjoiZjc2ZTkxZGMzYmJlOTgwYzhjODcyMmFiOTk1ZDM5MDkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.VWBMEQMPzqPwzYVypq9Q0Gh6DZSo191NzCAwvVeFOeY
