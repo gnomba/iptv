@@ -137,16 +137,16 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8?version=2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8?version=2
 
 #EXTINF:-1 tvg-name="РТР-Планета Азия" tvg-id="rtr-planeta-azia" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rtr-planeta_azia.png" group-title="ТВ",РТР-Планета Азия
-http://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363.m3u8
+http://dmi3y-tv.online/hls/smotrim/T2/CH_PLANETARTRHD720_ASIA.m3u8
 
 #EXTINF:-1 tvg-name="РТР-Планета Америка" tvg-id="rtr-planeta-amerika" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rtr-planeta_amerika.png" group-title="ТВ",РТР-Планета Америка
-http://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150d6a.m3u8
+http://dmi3y-tv.online/hls/smotrim/T2/CH_PLANETARTRHD720_USA.m3u8
 
 #EXTINF:-1 tvg-name="РТР-Планета Европа" tvg-id="rtr-planeta-eu" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rtr-planeta_eu.png" group-title="ТВ",РТР-Планета Европа
-http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8
+http://dmi3y-tv.online/hls/smotrim/T2/CH_PLANETARTRHD720_EURO.m3u8
 
 #EXTINF:-1 tvg-name="РТР-Планета СНГ" tvg-id="rtr-planeta-arm" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rtr-planeta_sng.png" group-title="ТВ",РТР-Планета СНГ
-https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f.m3u8
+http://dmi3y-tv.online/hls/smotrim/T2/CH_PLANETARTRHD720_SNG.m3u8
 
 #EXTINF:-1 tvg-name="Россия К" tvg-id="kultura" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/kultura.png" group-title="ТВ",Россия К HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
