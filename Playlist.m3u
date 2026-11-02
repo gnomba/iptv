@@ -153,17 +153,16 @@ http://dmi3y-tv.online/hls/smotrim/T2/CH_PLANETARTRHD720_EURO.m3u8
 http://dmi3y-tv.online/hls/smotrim/T2/CH_PLANETARTRHD720_SNG.m3u8
 
 #EXTINF:-1 tvg-name="Россия К" tvg-id="kultura" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/kultura.png" group-title="ТВ",Россия К HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIAKHD.m3u8
 
 #EXTINF:-1 tvg-name="Россия 24" tvg-id="rossia-24" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rossia-24.png" group-title="ТВ",Россия 24 HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
+http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA24HD.m3u8
 
 #EXTINF:-1 tvg-name="Россия 24" tvg-id="rossia-24" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/rossia-24.png" group-title="ТВ",Россия 24 International
 https://player.smotrim.ru/iframe/stream/live_id/3214d57c-8651-435a-938c-be13bfd00a04
 
 #EXTINF:-1 tvg-name="Соловьев.Live" tvg-id="solovjinypomiot" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/soloviev-live.jpg" group-title="ТВ",Соловьев.Live
-#http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
-https://stream.smotrim.ru/hls/solovievlive/playlist_6.m3u8
+https://stream.smotrim.ru/hls2/solovievlive/playlist_3.m3u8
 
 #EXTINF:-1 tvg-name="Известия" tvg-id="izvestia" tvg-logo="https://raw.githubusercontent.com/gnomba/iptv/main/img/izvestia.png" group-title="ТВ",Известия
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
